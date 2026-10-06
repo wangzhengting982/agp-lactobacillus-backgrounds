@@ -1,0 +1,13 @@
+﻿taxon,label,threshold,detected,n_total,percent
+Lacticaseibacillus,乳酪杆菌属,1,504,2760,18.26086956521739
+Lacticaseibacillus,乳酪杆菌属,3,382,2760,13.840579710144926
+Lactobacillus,乳杆菌属,1,469,2760,16.992753623188406
+Lactobacillus,乳杆菌属,3,343,2760,12.427536231884059
+Leuconostoc,明串珠菌属,1,191,2760,6.920289855072463
+Leuconostoc,明串珠菌属,3,138,2760,5.0
+Limosilactobacillus,黏液乳杆菌属,1,158,2760,5.72463768115942
+Limosilactobacillus,黏液乳杆菌属,3,118,2760,4.275362318840579
+Ligilactobacillus,联合乳杆菌属,1,147,2760,5.326086956521739
+Ligilactobacillus,联合乳杆菌属,3,115,2760,4.166666666666666
+Pediococcus,片球菌属,1,90,2760,3.260869565217391
+Pediococcus,片球菌属,3,67,2760,2.427536231884058

@@ -1,0 +1,23 @@
+{
+  "stool_records": 3850,
+  "first_samples": 3204,
+  "adult_samples": 3054,
+  "complete_samples": 2877,
+  "descriptive_samples": 2760,
+  "association_samples": 2748,
+  "other_stools": 646,
+  "age_excluded": 150,
+  "missing_excluded": 177,
+  "depth_excluded": 117,
+  "sex_excluded": 12,
+  "complete_required_fields": [
+    "antibiotic_recent",
+    "ibd_binary",
+    "ibs_binary",
+    "collection_year_resolved",
+    "energy_kcal_raw",
+    "probiotic_frequency_ordinal",
+    "fermented_plant_frequency_ordinal",
+    "yogurt_frequency"
+  ]
+}
