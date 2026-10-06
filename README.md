@@ -1,62 +1,65 @@
-# AGP论文本地复现项目
+# AGP Lactobacillus Backgrounds
 
-论文：**乳杆菌属与乳酪杆菌属的肠道菌群背景差异**。
+**Analysis code for genus-specific gut microbial backgrounds in the American Gut Project.**
 
-本项目对应2026年10月6日《科学通报》中文稿的40张补充结果表和3张主图。已建立个人账号下的GitHub私有仓库（Private）：[wangzhengting982/agp-lactobacillus-backgrounds](https://github.com/wangzhengting982/agp-lactobacillus-backgrounds)。原始输入和核验参考文件仍保留在本地。最新机器核验结果见 `reports/final_validation.json`，完整执行记录见 `reports/full_run_status.json`。
+[中文说明](README.zh-CN.md) · [Data and inputs](DATA_AVAILABILITY.md) · [Validation results](reports/final_validation.json) · [Table-to-code map](reports/table_map.csv)
 
-## 已验证的内容
+## Overview
 
-- 从提供的六份源数据文件重新筛选人群：3850份粪便记录 → 3204人首次样本 → 3054名18–100岁成人 → 2877人相关资料完整 → 2760人测序深度合格 → 2748人进入主关联分析。
-- 重新生成20列基础模型设计、156列标准化背景菌CLR、10个背景菌主成分及6个目标菌属的计数。与投稿冻结矩阵逐值核对。
-- 从BIOM计数及已有R06/R07分类注释重新聚合菌属、构建分类敏感性输入，再实际拟合模型。
-- 重新提取食物和营养主成分，拟合基础、饮食调整、检出状态、正值丰度、ASV、性别、BMI、同人和其他当前投稿敏感性分析。
-- 逐表核对C01–C15、P01–P02及其余当前投稿结果，共40张。原来无效的模型仍保留失败或缺失状态，不将其改成有效结果。
-- 由本次模型输出重新绘制3张主图，核对66条绘图记录、39组误差线，并与投稿PDF按200 dpi渲染后逐像素比较。
+This project examines how gut microbial associations differ across six lactic acid bacterial genera, with a focus on *Lactobacillus* and *Lacticaseibacillus*. It includes cohort preparation, background-genus models, dietary adjustment, sensitivity analyses, and reproduction of the manuscript figures.
 
-这次验证的起点是**现有表格、BIOM计数、已保存的分类注释、纵向样本索引和参考文件**。主分析人群重新筛选；纵向153人/664份样本沿用归档索引再拟合。没有重新运行原始FASTQ处理、VioScreen最初问卷匹配或SINTAX分类；不将历史已删除分析或外部人群可用性检查算作本论文得到外部验证。
+Companion manuscript: **乳杆菌属与乳酪杆菌属的肠道菌群背景差异**.
 
-## 在这台电脑重新运行
-
-双击 `run_local.cmd`。也可在项目目录运行：
-
-```powershell
-.\.venv\Scripts\python.exe scripts\run_all.py
-```
-
-入口按顺序验证文件哈希、重建输入、拟合模型、校验40表、重绘和比较图片。遇到失败会停止，并保留日志。输出写入 `runs/` 和 `reports/`；`data/archive/` 与 `reference/` 保持不变。部分大文件用本地硬链接读取以减少重复存储，输入更新时先解除链接，不覆盖归档。
-
-运行环境为独立Python 3.12虚拟环境，包版本固定在 `requirements-lock.txt`。本次已在Windows上实际执行；没有声称已在另一台电脑或另一种操作系统验证。
-
-## 换电脑准备
-
-1. 带上本项目的代码、清单文件，以及另行提供的 `data/archive/` 完整输入包（清单中499个唯一文件）和 `reference/` 的3个核验参考文件：`01_论文正文.docx`、`04_补充材料.docx`、`submitted_results.xlsx`，保留原目录结构。Git版本默认不追踪这些输入和参考文件、运行环境及重复输出，因此**只克隆GitHub代码仓库不够**。
-2. 安装Python 3.12，然后运行以下命令建立独立环境并执行：
-
-```powershell
-.\run_local.ps1 -Setup -PythonExe 'C:\path\to\python.exe'
-```
-
-首次安装依赖需要网络，分析读取本地文件。图件使用Arial和幼圆字体；本地Windows已验证。其他字体或渲染环境可能影响像素比较，不能在这种情况下把差异自动判定为通过。
-
-## 数据和结果放在哪里
-
-| 位置 | 内容 |
+| Study component | Scope |
 |---|---|
-| `data/archive/02_统计输入/六份源数据/` | 现有六份源文件：5个TSV表格及1个BIOM文件 |
-| `runs/preparation/project/05_输入数据/派生输入/` | 本次筛选索引、纳入排除记录及全样本目标菌计数 |
-| `runs/preparation/project/03_分析与结果/association_models/` | 本次重建的2748人模型输入矩阵 |
-| `runs/core/` | 核心关联、属间比较和分类敏感性结果 |
-| `runs/deepening/` | 饮食主成分、饮食调整、状态、丰度等结果 |
-| `runs/sensitivity/` | 多样性、轮次、候选序列过滤和同人聚类复核 |
-| `runs/figures/` | 本次生成的3幅SVG、PDF、PNG、TIFF及绘图数据 |
-| `reference/` | 核验用当前投稿正文、补充材料和40表工作簿 |
-| `reports/table_map.csv` | 每张投稿表对应的代码与来源 |
-| `reports/` | 每个模块的实跑记录、比较结果及最终汇总 |
+| Primary analysis | 2,748 adults |
+| Microbial backgrounds | 156 background genera |
+| Target genera | 6 |
+| Verified manuscript outputs | 40 result tables and 3 main figures |
+| Validated environment | Python 3.12 on Windows |
 
-TSV是制表符分隔的表格，可用Excel“数据→从文本/CSV”打开。导入时请把样本ID列设为文本；这些表较宽，不要让Excel自动改写样本编号或覆盖源文件。BIOM是稀疏微生物计数格式，由脚本直接读取。
+## Repository structure
 
-## 仓库与后续发布
+| Directory | Contents |
+|---|---|
+| [`src/preparation/`](src/preparation/) | Cohort selection and model-input construction |
+| [`src/core/`](src/core/) | Genus contrasts and taxonomy sensitivity analyses |
+| [`src/deepening/`](src/deepening/) | Dietary PCA, adjusted models, detection states, and abundance analyses |
+| [`src/sensitivity/`](src/sensitivity/) | Additional robustness analyses |
+| [`src/figures/`](src/figures/) | Figure generation and aggregate reference plot values |
+| [`scripts/`](scripts/) | Pipeline runners and validation tools |
+| [`reports/`](reports/) | Recorded local validation results and input manifests |
+| [`docs/`](docs/) | Detailed validation notes |
 
-GitHub私有仓库已建立于个人账号 `wangzhengting982` 下。该仓库只用于保存代码、运行说明和核验报告，个体级数据、完整输入包及投稿参考文件仍留在本地，不随本次网页上传。完整复现须另外取得上述499文件输入包和3个参考文件，并通过现有SHA-256清单检查。今后如转入HuangShiLab或公开发布，再确定组织权限、代码许可、数据共享范围及可获取的固定输入版本。ScienceDB现有汇总数据条目不等同于这个完整复现项目。
+## Run the analysis
 
-此项目验证计算与提交结果的一致性，不将数值复现等同于独立人群验证、因果证明或重新确认上游分类算法正确性。稿件的横断面关联解释保持不变。
+The pipeline uses separately supplied study inputs. Place the complete input archive in `data/archive/` and the three comparison files in `reference/`, following the [input guide](DATA_AVAILABILITY.md).
+
+With Python 3.12 installed, run these commands from the repository root in PowerShell:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements-lock.txt
+.\.venv\Scripts\python.exe scripts/run_all.py
+```
+
+The pipeline checks input hashes, reconstructs the cohort and model matrices, fits the models, verifies the result tables, and redraws the figures. Generated outputs are written to `runs/`; execution and comparison records are written to `reports/`.
+
+Package versions are pinned in [`requirements-lock.txt`](requirements-lock.txt). The validated figure-rendering environment uses Arial and YouYuan (幼圆) on Windows; font and rendering details are documented in [`src/figures/README.md`](src/figures/README.md).
+
+## Validation
+
+The recorded local run verified all **40 manuscript result tables**. The largest absolute numerical difference was **8.24 × 10⁻¹³**. All **3 main figures** were regenerated from newly calculated model outputs and matched the submitted PDFs when rendered at 200 dpi.
+
+- [Full pipeline execution](reports/full_run_status.json)
+- [Result and figure verification](reports/final_validation.json)
+- [Table-to-code mapping](reports/table_map.csv)
+- [Detailed validation notes (Chinese)](docs/本地复现验证报告.md)
+
+These records describe the local validation run on 6 October 2026. Workstation-specific interpreter paths in selected reports have been replaced with portable placeholders; numerical results, versions, timestamps, and exit codes are preserved. Repository-status fields in older reports describe their recording date.
+
+## Data availability and scope
+
+This repository contains code, aggregate plotting references, and validation records. Participant-level tables, the complete input archive, manuscript documents, and the validation workbook are maintained separately. See [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md) for the required files and integrity checks.
+
+Reproduction starts from processed tables, BIOM counts, supplied taxonomic annotations, and a fixed longitudinal sample index. It covers cohort reconstruction, statistical models, tables, and figures. Raw-read processing, initial questionnaire matching, and sequence classification precede this pipeline. The study evaluates cross-sectional associations.
