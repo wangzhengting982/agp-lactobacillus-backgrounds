@@ -1,0 +1,17 @@
+[
+  {
+    "path": "reference/01_论文正文.docx",
+    "bytes": 1046386,
+    "sha256": "a514c406f298257a33cf38eb9e64ac600cd0dc0ddd3ec84cbdad07d4b76147fc"
+  },
+  {
+    "path": "reference/04_补充材料.docx",
+    "bytes": 47257,
+    "sha256": "df04a645ca842c9ec77f4392949087cfde8398c9f03a7ee507197d302db254fb"
+  },
+  {
+    "path": "reference/submitted_results.xlsx",
+    "bytes": 646740,
+    "sha256": "c5d5e5e994f598f685cf213a657d5bbf12112648c0048641f20213b4eef6f557"
+  }
+]

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+reference/
+runs/
+*.zip
+reports/**/*.log
+reports/full_runs/
+reports/core_run_history/
+*.lnk
