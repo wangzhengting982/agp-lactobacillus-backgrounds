@@ -1,9 +1,9 @@
 {
   "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
   "platform": "Windows-11-10.0.26200-SP0",
-  "executable": "C:\\Users\\WZT\\Documents\\Codex\\2026-10-05\\bang\\outputs\\agp-paper-reproducibility-20261006\\.venv\\Scripts\\python.exe",
-  "prefix": "C:\\Users\\WZT\\Documents\\Codex\\2026-10-05\\bang\\outputs\\agp-paper-reproducibility-20261006\\.venv",
-  "base_prefix": "C:\\Users\\WZT\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python",
+  "executable": "<PROJECT_ROOT>/.venv/Scripts/python.exe",
+  "prefix": "<PROJECT_ROOT>/.venv",
+  "base_prefix": "<PYTHON_3_12_INSTALLATION>",
   "isolated_venv": true,
   "packages": {
     "numpy": "2.5.3",
