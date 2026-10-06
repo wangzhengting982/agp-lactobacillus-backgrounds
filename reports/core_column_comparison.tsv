@@ -1,0 +1,337 @@
+table	column	n	numeric	maximum_absolute_error	maximum_relative_error	significance_decisions_match	pass_
+C01_全部936项背景关联	taxon	936	False				True
+C01_全部936项背景关联	feature	936	False				True
+C01_全部936项背景关联	n	936	True	0.0	0.0	True	True
+C01_全部936项背景关联	events	936	True	0.0	0.0	True	True
+C01_全部936项背景关联	beta_log_OR_per_SD_CLR	936	True	1.0096090630185017e-14	1.910092881071687e-12	True	True
+C01_全部936项背景关联	SE_HC0	936	True	3.795574965437254e-15	7.113149929563054e-14	True	True
+C01_全部936项背景关联	OR	936	True	9.43689570931383e-15	1.0024044063079825e-14	True	True
+C01_全部936项背景关联	CI_low	936	True	1.0325074129013956e-14	1.307306883255007e-14	True	True
+C01_全部936项背景关联	CI_high	936	True	1.199040866595169e-14	7.37459383553775e-15	True	True
+C01_全部936项背景关联	p	936	True	6.372680161348399e-14	3.0464613012728373e-13	True	True
+C01_全部936项背景关联	valid	936	False				True
+C01_全部936项背景关联	q_BH_all	936	True	9.35918009759007e-14	7.166378644759541e-13	True	True
+C02_六属主成分整体关联	taxon	6	False				True
+C02_六属主成分整体关联	n	6	True	0.0	0.0	True	True
+C02_六属主成分整体关联	events	6	True	0.0	0.0	True	True
+C02_六属主成分整体关联	chi2	6	True	7.673861546209082e-13	8.954927206714303e-15	True	True
+C02_六属主成分整体关联	df	6	True	0.0	0.0	True	True
+C02_六属主成分整体关联	p	6	True	5.004677228193088e-16	3.420021516188368e-13	True	True
+C02_六属主成分整体关联	valid	6	False				True
+C02_六属主成分整体关联	q_BH_six	6	True	5.004677228193088e-16	3.4204386428521306e-13	True	True
+C03_六属整体差异	comparison	1	False				True
+C03_六属整体差异	chi2	1	True	8.242295734817162e-13	4.734561555568139e-15	True	True
+C03_六属整体差异	df	1	True	0.0	0.0	True	True
+C03_六属整体差异	nominal_constraints	1	True	0.0	0.0	True	True
+C03_六属整体差异	p	1	True	3.8042817154283294e-28	3.050439062278618e-13	True	True
+C03_六属整体差异	n_subjects	1	True	0.0	0.0	True	True
+C03_六属整体差异	same_subject_correlation	1	False				True
+C03_六属整体差异	valid	1	False				True
+C03_六属整体差异	scope	1	False				True
+C04_全部15组模式比较	taxon_A	15	False				True
+C04_全部15组模式比较	taxon_B	15	False				True
+C04_全部15组模式比较	chi2	15	True	7.105427357601002e-15	1.641903553798354e-16	True	True
+C04_全部15组模式比较	df	15	True	0.0	0.0	True	True
+C04_全部15组模式比较	p	15	True	9.020562075079397e-17	4.764489978556567e-13	True	True
+C04_全部15组模式比较	q_BH_15	15	True	6.418476861114186e-17	7.161013061362105e-14	True	True
+C04_全部15组模式比较	p_Holm_15	15	True	6.288372600415926e-17	3.4746689143251707e-14	True	True
+C05_全部156背景整体差异	feature	156	False				True
+C05_全部156背景整体差异	chi2	156	True	7.105427357601002e-15	5.094694110854997e-16	True	True
+C05_全部156背景整体差异	df	156	True	0.0	0.0	True	True
+C05_全部156背景整体差异	p	156	True	1.1102230246251565e-16	4.267683155446674e-13	True	True
+C05_全部156背景整体差异	q_BH_156	156	True	1.1102230246251565e-16	9.914210686153364e-14	True	True
+C06_全部2340项属间差异	feature	2340	False				True
+C06_全部2340项属间差异	taxon_A	2340	False				True
+C06_全部2340项属间差异	taxon_B	2340	False				True
+C06_全部2340项属间差异	beta_A	2340	True	1.1102230246251565e-16	2.712855528442525e-13	True	True
+C06_全部2340项属间差异	beta_B	2340	True	1.1102230246251565e-16	2.712855528442525e-13	True	True
+C06_全部2340项属间差异	delta_log_OR	2340	True	1.1102230246251565e-16	3.479956948942719e-13	True	True
+C06_全部2340项属间差异	SE_joint	2340	True	1.1102230246251565e-16	1.507245993628845e-15	True	True
+C06_全部2340项属间差异	ratio_OR	2340	True	6.661338147750939e-16	6.630675874808111e-16	True	True
+C06_全部2340项属间差异	CI_low	2340	True	6.661338147750939e-16	6.490200474482392e-16	True	True
+C06_全部2340项属间差异	CI_high	2340	True	8.881784197001252e-16	6.629932525686691e-16	True	True
+C06_全部2340项属间差异	p	2340	True	1.1102230246251565e-16	7.701756591942443e-13	True	True
+C06_全部2340项属间差异	q_BH_2340	2340	True	1.1102230246251565e-16	6.463718929991087e-13	True	True
+C06_全部2340项属间差异	p_Holm_2340	2340	True	1.1102230246251565e-16	6.7718311403895e-14	True	True
+C07_整体差异稳健性	condition	11	False				True
+C07_整体差异稳健性	cutoff	11	True	0.0	0.0	True	True
+C07_整体差异稳健性	PCs	11	True	0.0	0.0	True	True
+C07_整体差异稳健性	target_count	11	True	0.0	0.0	True	True
+C07_整体差异稳健性	excluded	11	False				True
+C07_整体差异稳健性	variance_explained	11	True	1.1102230246251565e-16	3.6579710845342003e-16	True	True
+C07_整体差异稳健性	chi2	11	True	5.684341886080802e-14	3.5938477884095883e-16	True	True
+C07_整体差异稳健性	df	11	True	0.0	0.0	True	True
+C07_整体差异稳健性	p	11	True	1.3234889800848443e-23	1.8816045956140542e-16	True	True
+C08_分类支持度与覆盖	release	16	False				True
+C08_分类支持度与覆盖	genus	16	False				True
+C08_分类支持度与覆盖	support	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	assigned_ASVs	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	ASVs_observed_2748	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	reads	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	positive	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	prevalence	16	True	1.1102230246251565e-16	1.4569205217251913e-13	True	True
+C08_分类支持度与覆盖	passes_10pct_filter	16	False				True
+C08_分类支持度与覆盖	original_positive	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	original_reads	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	same_positive	16	True	0.0	0.0	True	True
+C08_分类支持度与覆盖	read_ratio_to_original	16	True	4.440892098500626e-16	4.946415968936291e-15	True	True
+C08_分类支持度与覆盖	scope	16	False				True
+C09_重新注释ASV明细	query_id	1038	False				True
+C09_重新注释ASV明细	biom_row	1038	True	0.0	0.0	True	True
+C09_重新注释ASV明细	genus	1038	False				True
+C09_重新注释ASV明细	genus_bootstrap	1038	True	0.0	0.0	True	True
+C09_重新注释ASV明细	strand	1038	False				True
+C09_重新注释ASV明细	domain	1038	False				True
+C09_重新注释ASV明细	domain_bootstrap	1038	True	0.0	0.0	True	True
+C09_重新注释ASV明细	order	1038	False				True
+C09_重新注释ASV明细	order_bootstrap	1038	True	0.0	0.0	True	True
+C09_重新注释ASV明细	family	1038	False				True
+C09_重新注释ASV明细	family_bootstrap	1038	True	0.0	0.0	True	True
+C09_重新注释ASV明细	release	1038	False				True
+C09_重新注释ASV明细	sequence	1038	False				True
+C09_重新注释ASV明细	reads_2748	1038	True	0.0	0.0	True	True
+C10_参考库属标签	release	6	False				True
+C10_参考库属标签	reference_genus	6	False				True
+C10_参考库属标签	sequence_count	6	True	0.0	0.0	True	True
+C11_重新注释15组模式比较	release	30	False				True
+C11_重新注释15组模式比较	taxon_A	30	False				True
+C11_重新注释15组模式比较	taxon_B	30	False				True
+C11_重新注释15组模式比较	chi2	30	True	4.04121180963557e-13	5.310532470514293e-14	True	True
+C11_重新注释15组模式比较	df	30	True	0.0	0.0	True	True
+C11_重新注释15组模式比较	p	30	True	3.930189507173054e-14	8.154817369566237e-13	True	True
+C11_重新注释15组模式比较	q_BH_15	30	True	3.930189507173054e-14	4.471734774160263e-13	True	True
+C11_重新注释15组模式比较	p_Holm_15	30	True	5.639932965095795e-14	1.9152197385453835e-13	True	True
+C12_三项差异阈值与分类复核	scenario	12	False				True
+C12_三项差异阈值与分类复核	feature	12	False				True
+C12_三项差异阈值与分类复核	matched_feature	12	False				True
+C12_三项差异阈值与分类复核	status	12	False				True
+C12_三项差异阈值与分类复核	beta_A	12	True	9.575673587391975e-16	4.07339700596732e-13	True	True
+C12_三项差异阈值与分类复核	beta_B	12	True	6.661338147750939e-16	1.689504076045808e-15	True	True
+C12_三项差异阈值与分类复核	delta_log_OR	12	True	1.3322676295501878e-15	3.2060628252242323e-15	True	True
+C12_三项差异阈值与分类复核	SE_joint	12	True	8.326672684688674e-17	1.1504609440479563e-15	True	True
+C12_三项差异阈值与分类复核	ratio_OR	12	True	8.881784197001252e-16	1.3573437321429988e-15	True	True
+C12_三项差异阈值与分类复核	CI_low	12	True	7.771561172376096e-16	1.3050301260477887e-15	True	True
+C12_三项差异阈值与分类复核	CI_high	12	True	8.881784197001252e-16	1.2299216026044842e-15	True	True
+C12_三项差异阈值与分类复核	p	12	True	8.55614946109538e-24	1.266893001351848e-13	True	True
+C12_三项差异阈值与分类复核	q_original_2340	12	True	1.3234889800848443e-23	1.1369045447709095e-16	True	True
+C12_三项差异阈值与分类复核	q_BH_3	12	True	8.55614946109538e-24	1.2689330867002408e-13	True	True
+C13_三背景两目标效应量	scenario	24	False				True
+C13_三背景两目标效应量	feature	24	False				True
+C13_三背景两目标效应量	matched_feature	24	False				True
+C13_三背景两目标效应量	taxon	24	False				True
+C13_三背景两目标效应量	OR	24	True	1.3322676295501878e-15	1.0626658752500947e-15	True	True
+C13_三背景两目标效应量	CI_low	24	True	1.1102230246251565e-15	9.145988001688481e-16	True	True
+C13_三背景两目标效应量	CI_high	24	True	1.7763568394002505e-15	1.0908968663514483e-15	True	True
+C14_重新注释PC整体关联	release	12	False				True
+C14_重新注释PC整体关联	taxon	12	False				True
+C14_重新注释PC整体关联	n	12	True	0.0	0.0	True	True
+C14_重新注释PC整体关联	events	12	True	0.0	0.0	True	True
+C14_重新注释PC整体关联	chi2	12	True	4.547473508864641e-13	1.6045369952526372e-14	True	True
+C14_重新注释PC整体关联	df	12	True	0.0	0.0	True	True
+C14_重新注释PC整体关联	p	12	True	3.2057689836051395e-15	2.020913851971094e-13	True	True
+C14_重新注释PC整体关联	valid	12	False				True
+C14_重新注释PC整体关联	q_BH_six	12	True	3.2057689836051395e-15	2.021671599947086e-13	True	True
+C15_重新注释六属整体差异	release	2	False				True
+C15_重新注释六属整体差异	comparison	2	False				True
+C15_重新注释六属整体差异	chi2	2	True	2.8421709430404007e-13	1.6046166203370975e-15	True	True
+C15_重新注释六属整体差异	df	2	True	0.0	0.0	True	True
+C15_重新注释六属整体差异	nominal_constraints	2	True	0.0	0.0	True	True
+C15_重新注释六属整体差异	p	2	True	3.5695955961250784e-29	8.681531472268939e-14	True	True
+C15_重新注释六属整体差异	n_subjects	2	True	0.0	0.0	True	True
+C15_重新注释六属整体差异	same_subject_correlation	2	False				True
+C15_重新注释六属整体差异	valid	2	False				True
+C15_重新注释六属整体差异	scope	2	False				True
+C15_重新注释六属整体差异	n_background_genera	2	True	0.0	0.0	True	True
+C15_重新注释六属整体差异	n_selected_genera	2	True	0.0	0.0	True	True
+C15_重新注释六属整体差异	PC_variance_explained	2	True	1.1102230246251565e-16	3.7432651146212297e-16	True	True
+archive/936原模型逐项重现.tsv	feature	936	False				True
+archive/936原模型逐项重现.tsv	taxon	936	False				True
+archive/936原模型逐项重现.tsv	reproduced	936	False				True
+archive/分类计数逐样本.tsv	sample_id	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	original_Oscillibacter	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Oscillibacter_0.5	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Oscillibacter_0.7	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Oscillibacter_0.8	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Oscillibacter_0.9	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Oscillibacter_0.5	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Oscillibacter_0.7	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Oscillibacter_0.8	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Oscillibacter_0.9	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	original_Veillonella	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Veillonella_0.5	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Veillonella_0.7	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Veillonella_0.8	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R07_Veillonella_0.9	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Veillonella_0.5	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Veillonella_0.7	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Veillonella_0.8	2748	True	0.0	0.0	True	True
+archive/分类计数逐样本.tsv	R06_Veillonella_0.9	2748	True	0.0	0.0	True	True
+archive/堆叠模型交叉核验.tsv	background	4	False				True
+archive/堆叠模型交叉核验.tsv	cutoff	4	True	0.0	0.0	True	True
+archive/堆叠模型交叉核验.tsv	beta_max_difference	4	True	0.0	0.0	True	True
+archive/堆叠模型交叉核验.tsv	cov_max_difference	4	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	feature	3	False				True
+archive/展示配对选择规则_完整家族q最小3项.tsv	taxon_A	3	False				True
+archive/展示配对选择规则_完整家族q最小3项.tsv	taxon_B	3	False				True
+archive/展示配对选择规则_完整家族q最小3项.tsv	beta_A	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	beta_B	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	delta_log_OR	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	SE_joint	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	ratio_OR	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	CI_low	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	CI_high	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	p	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	q_BH_2340	3	True	0.0	0.0	True	True
+archive/展示配对选择规则_完整家族q最小3项.tsv	p_Holm_2340	3	True	0.0	0.0	True	True
+archive/模型数值诊断.tsv	analysis	48	False				True
+archive/模型数值诊断.tsv	taxon	48	False				True
+archive/模型数值诊断.tsv	n	48	True	0.0	0.0	True	True
+archive/模型数值诊断.tsv	events	48	True	0.0	0.0	True	True
+archive/模型数值诊断.tsv	parameters	48	True	0.0	0.0	True	True
+archive/模型数值诊断.tsv	rank	48	True	0.0	0.0	True	True
+archive/模型数值诊断.tsv	valid	48	False				True
+archive/模型数值诊断.tsv	warnings	48	True	0.0	0.0	True	True
+archive/模型数值诊断.tsv	cov_reconstruction_error	48	True	0.0	0.0	True	True
+archive/表S22a_两背景整体差异.tsv	background	4	False				True
+archive/表S22a_两背景整体差异.tsv	cutoff	4	True	0.0	0.0	True	True
+archive/表S22a_两背景整体差异.tsv	chi2	4	True	0.0	0.0	True	True
+archive/表S22a_两背景整体差异.tsv	df	4	True	0.0	0.0	True	True
+archive/表S22a_两背景整体差异.tsv	p	4	True	0.0	0.0	True	True
+archive/表S22a_两背景整体差异.tsv	q_BH_2	4	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	background	60	False				True
+archive/表S22b_两背景全部属间比较.tsv	cutoff	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	taxon_A	60	False				True
+archive/表S22b_两背景全部属间比较.tsv	taxon_B	60	False				True
+archive/表S22b_两背景全部属间比较.tsv	beta_A	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	beta_B	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	delta_log_OR	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	se	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	ratio_OR	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	CI_low	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	CI_high	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	p	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	q_BH_30	60	True	0.0	0.0	True	True
+archive/表S22b_两背景全部属间比较.tsv	p_Holm_30	60	True	0.0	0.0	True	True
+archive/表S22c_全部15组主成分向量比较.tsv	taxon_A	15	False				True
+archive/表S22c_全部15组主成分向量比较.tsv	taxon_B	15	False				True
+archive/表S22c_全部15组主成分向量比较.tsv	chi2	15	True	0.0	0.0	True	True
+archive/表S22c_全部15组主成分向量比较.tsv	df	15	True	0.0	0.0	True	True
+archive/表S22c_全部15组主成分向量比较.tsv	p	15	True	0.0	0.0	True	True
+archive/表S22c_全部15组主成分向量比较.tsv	q_BH_15	15	True	0.0	0.0	True	True
+archive/表S22c_全部15组主成分向量比较.tsv	p_Holm_15	15	True	0.0	0.0	True	True
+archive/表S22d_两背景各属关联系数.tsv	background	24	False				True
+archive/表S22d_两背景各属关联系数.tsv	cutoff	24	True	0.0	0.0	True	True
+archive/表S22d_两背景各属关联系数.tsv	taxon	24	False				True
+archive/表S22d_两背景各属关联系数.tsv	beta	24	True	0.0	0.0	True	True
+archive/表S22d_两背景各属关联系数.tsv	se	24	True	0.0	0.0	True	True
+archive/表S22d_两背景各属关联系数.tsv	OR	24	True	0.0	0.0	True	True
+archive/表S22d_两背景各属关联系数.tsv	low	24	True	0.0	0.0	True	True
+archive/表S22d_两背景各属关联系数.tsv	high	24	True	0.0	0.0	True	True
+archive/表S22e_全部156背景属整体差异.tsv	feature	156	False				True
+archive/表S22e_全部156背景属整体差异.tsv	chi2	156	True	0.0	0.0	True	True
+archive/表S22e_全部156背景属整体差异.tsv	df	156	True	0.0	0.0	True	True
+archive/表S22e_全部156背景属整体差异.tsv	p	156	True	0.0	0.0	True	True
+archive/表S22e_全部156背景属整体差异.tsv	q_BH_156	156	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	feature	2340	False				True
+archive/表S22f_全部2340项背景属系数比较.tsv	taxon_A	2340	False				True
+archive/表S22f_全部2340项背景属系数比较.tsv	taxon_B	2340	False				True
+archive/表S22f_全部2340项背景属系数比较.tsv	beta_A	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	beta_B	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	delta_log_OR	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	SE_joint	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	ratio_OR	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	CI_low	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	CI_high	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	p	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	q_BH_2340	2340	True	0.0	0.0	True	True
+archive/表S22f_全部2340项背景属系数比较.tsv	p_Holm_2340	2340	True	0.0	0.0	True	True
+archive/表S23_整体差异稳健性.tsv	condition	11	False				True
+archive/表S23_整体差异稳健性.tsv	cutoff	11	True	0.0	0.0	True	True
+archive/表S23_整体差异稳健性.tsv	PCs	11	True	0.0	0.0	True	True
+archive/表S23_整体差异稳健性.tsv	target_count	11	True	0.0	0.0	True	True
+archive/表S23_整体差异稳健性.tsv	excluded	11	False				True
+archive/表S23_整体差异稳健性.tsv	variance_explained	11	True	0.0	0.0	True	True
+archive/表S23_整体差异稳健性.tsv	chi2	11	True	0.0	0.0	True	True
+archive/表S23_整体差异稳健性.tsv	df	11	True	0.0	0.0	True	True
+archive/表S23_整体差异稳健性.tsv	p	11	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	release	16	False				True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	genus	16	False				True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	support	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	assigned_ASVs	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	ASVs_observed_2748	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	reads	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	positive	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	prevalence	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	passes_10pct_filter	16	False				True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	original_positive	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	original_reads	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	same_positive	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	read_ratio_to_original	16	True	0.0	0.0	True	True
+archive/表S24a_重点背景属分类支持与覆盖.tsv	scope	16	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	query_id	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	biom_row	1038	True	0.0	0.0	True	True
+archive/表S24b_重新注释候选ASV明细.tsv	genus	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	genus_bootstrap	1038	True	0.0	0.0	True	True
+archive/表S24b_重新注释候选ASV明细.tsv	strand	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	domain	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	domain_bootstrap	1038	True	0.0	0.0	True	True
+archive/表S24b_重新注释候选ASV明细.tsv	order	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	order_bootstrap	1038	True	0.0	0.0	True	True
+archive/表S24b_重新注释候选ASV明细.tsv	family	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	family_bootstrap	1038	True	0.0	0.0	True	True
+archive/表S24b_重新注释候选ASV明细.tsv	release	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	sequence	1038	False				True
+archive/表S24b_重新注释候选ASV明细.tsv	reads_2748	1038	True	0.0	0.0	True	True
+archive/表S24c_参考库属标签.tsv	release	6	False				True
+archive/表S24c_参考库属标签.tsv	reference_genus	6	False				True
+archive/表S24c_参考库属标签.tsv	sequence_count	6	True	0.0	0.0	True	True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	release	12	False				True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	taxon	12	False				True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	beta	12	True	1.609823385706477e-15	5.8520534222672386e-15	True	True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	OR	12	True	1.9984014443252818e-15	1.4396432363695298e-15	True	True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	low	12	True	2.4424906541753444e-15	2.2687391369948715e-15	True	True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	high	12	True	2.4424906541753444e-15	1.5022656065820285e-15	True	True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	p	12	True	2.4980018054066022e-15	8.416271475385806e-14	True	True
+archive/表S24d_韦荣氏球菌属重新注释关联.tsv	q_BH_6	12	True	2.4980018054066022e-15	8.416271475385806e-14	True	True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	release	30	False				True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	taxon_A	30	False				True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	taxon_B	30	False				True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	delta_log_OR	30	True	1.8041124150158794e-15	1.1766611051574794e-12	True	True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	ratio_OR	30	True	1.5543122344752192e-15	1.838351987013439e-15	True	True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	low	30	True	1.3322676295501878e-15	1.873419308042722e-15	True	True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	high	30	True	2.6645352591003757e-15	2.3996479574466235e-15	True	True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	p	30	True	1.1657341758564144e-14	6.091340486401666e-14	True	True
+archive/表S24e_韦荣氏球菌属重新注释属间比较.tsv	q_BH_15	30	True	2.098321516541546e-14	6.243734109561061e-14	True	True
+archive/表S24f_韦荣氏球菌属重新注释整体差异.tsv	release	2	False				True
+archive/表S24f_韦荣氏球菌属重新注释整体差异.tsv	chi2	2	True	1.6342482922482304e-13	1.9205691714840837e-14	True	True
+archive/表S24f_韦荣氏球菌属重新注释整体差异.tsv	df	2	True	0.0	0.0	True	True
+archive/表S24f_韦荣氏球菌属重新注释整体差异.tsv	p	2	True	7.799316747991725e-15	5.984900857809124e-14	True	True
+archive/表S24g_重新注释15组整体模式比较.tsv	release	30	False				True
+archive/表S24g_重新注释15组整体模式比较.tsv	taxon_A	30	False				True
+archive/表S24g_重新注释15组整体模式比较.tsv	taxon_B	30	False				True
+archive/表S24g_重新注释15组整体模式比较.tsv	chi2	30	True	4.04121180963557e-13	5.310532470514293e-14	True	True
+archive/表S24g_重新注释15组整体模式比较.tsv	df	30	True	0.0	0.0	True	True
+archive/表S24g_重新注释15组整体模式比较.tsv	p	30	True	3.930189507173054e-14	7.210945625138331e-13	True	True
+archive/表S24g_重新注释15组整体模式比较.tsv	q_BH_15	30	True	3.930189507173054e-14	2.403648541712777e-13	True	True
+archive/表S24g_重新注释15组整体模式比较.tsv	p_Holm_15	30	True	5.639932965095795e-14	1.5997717816085473e-13	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	scenario	12	False				True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	feature	12	False				True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	matched_feature	12	False				True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	status	12	False				True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	beta_A	12	True	9.020562075079397e-16	3.9004609078829416e-13	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	beta_B	12	True	7.771561172376096e-16	1.9469196246475174e-15	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	delta_log_OR	12	True	1.3322676295501878e-15	3.2060628252242323e-15	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	SE_joint	12	True	1.0408340855860843e-16	1.7012851215601546e-15	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	ratio_OR	12	True	8.881784197001252e-16	1.3573437321429988e-15	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	CI_low	12	True	7.771561172376096e-16	1.3050301260477887e-15	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	CI_high	12	True	8.881784197001252e-16	1.2299216026044842e-15	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	p	12	True	8.569074158166521e-24	1.2684230653631426e-13	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	q_original_2340	12	True	0.0	0.0	True	True
+archive/表S24h_三项突出差异的阈值与分类复核.tsv	q_BH_3	12	True	8.569074158166521e-24	1.2689330867002408e-13	True	True
+archive/表S24i_三背景两目标属效应量.tsv	scenario	24	False				True
+archive/表S24i_三背景两目标属效应量.tsv	feature	24	False				True
+archive/表S24i_三背景两目标属效应量.tsv	matched_feature	24	False				True
+archive/表S24i_三背景两目标属效应量.tsv	taxon	24	False				True
+archive/表S24i_三背景两目标属效应量.tsv	OR	24	True	1.3322676295501878e-15	1.0015086714343809e-15	True	True
+archive/表S24i_三背景两目标属效应量.tsv	CI_low	24	True	8.881784197001252e-16	9.145988001688481e-16	True	True
+archive/表S24i_三背景两目标属效应量.tsv	CI_high	24	True	1.3322676295501878e-15	1.0123416991335101e-15	True	True

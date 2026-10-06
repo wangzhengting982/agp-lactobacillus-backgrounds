@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "executable": "C:\\Users\\WZT\\Documents\\Codex\\2026-10-05\\bang\\outputs\\agp-paper-reproducibility-20261006\\.venv\\Scripts\\python.exe",
+  "prefix": "C:\\Users\\WZT\\Documents\\Codex\\2026-10-05\\bang\\outputs\\agp-paper-reproducibility-20261006\\.venv",
+  "base_prefix": "C:\\Users\\WZT\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python",
+  "isolated_venv": true,
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "statsmodels": "0.15.0",
+    "scikit-learn": "1.9.0",
+    "h5py": "3.16.0",
+    "matplotlib": "3.11.2",
+    "openpyxl": "3.1.5",
+    "python-docx": "1.2.0",
+    "pypdfium2": "5.14.0",
+    "Pillow": "12.3.0"
+  },
+  "requirements_lock_sha256": "bc55d43a2b8e655ef86799203f62f55efc63331fde0926ac271e734d91e0feca"
+}

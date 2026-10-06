@@ -1,0 +1,89 @@
+{
+  "run_id": "20261006T225503_4c0d9a84",
+  "interpreter": "C:\\Users\\WZT\\Documents\\Codex\\2026-10-05\\bang\\outputs\\agp-paper-reproducibility-20261006\\.venv\\Scripts\\python.exe",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "started_local": "2026-10-06T22:55:03+0800",
+  "steps": [
+    {
+      "script": "scripts/verify_inputs.py",
+      "pid": 4740,
+      "seconds": 1.529,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\verify_inputs.log"
+    },
+    {
+      "script": "scripts/run_preparation.py",
+      "pid": 18084,
+      "seconds": 16.794,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\run_preparation.log"
+    },
+    {
+      "script": "scripts/run_core.py",
+      "pid": 25164,
+      "seconds": 66.888,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\run_core.log"
+    },
+    {
+      "script": "scripts/run_deepening.py",
+      "pid": 8112,
+      "seconds": 71.846,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\run_deepening.log"
+    },
+    {
+      "script": "src/deepening/validate_deepening.py",
+      "pid": 7780,
+      "seconds": 1.442,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\validate_deepening.log"
+    },
+    {
+      "script": "scripts/run_sensitivity.py",
+      "pid": 23352,
+      "seconds": 36.26,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\run_sensitivity.log"
+    },
+    {
+      "script": "scripts/validate_sensitivity.py",
+      "pid": 5176,
+      "seconds": 1.707,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\validate_sensitivity.log"
+    },
+    {
+      "script": "scripts/run_figures.py",
+      "pid": 15876,
+      "seconds": 9.66,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\run_figures.log"
+    },
+    {
+      "script": "scripts/validate_figure_pixels.py",
+      "pid": 22564,
+      "seconds": 0.49,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\validate_figure_pixels.log"
+    },
+    {
+      "script": "src/deepening/check_manuscript_claims.py",
+      "pid": 25168,
+      "seconds": 0.95,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\check_manuscript_claims.log"
+    },
+    {
+      "script": "scripts/summarize_validation.py",
+      "pid": 18588,
+      "seconds": 14.624,
+      "exit_code": 0,
+      "log": "reports\\full_runs\\20261006T225503_4c0d9a84\\summarize_validation.log"
+    }
+  ],
+  "success": true,
+  "elapsed_seconds": 222.199,
+  "completed_local": "2026-10-06T22:58:45+0800"
+}

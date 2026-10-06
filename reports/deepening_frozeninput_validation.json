@@ -1,0 +1,493 @@
+{
+  "all_passed": true,
+  "checks": [
+    {
+      "table": "A01_检出后相对丰度",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        12,
+        14
+      ],
+      "reference_shape": [
+        12,
+        14
+      ],
+      "passed": true,
+      "numeric_cells": 132,
+      "max_absolute_error": 4.440892098500626e-16,
+      "max_relative_error": 3.737339436064751e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "J01_联合与菌科关联",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        16,
+        15
+      ],
+      "reference_shape": [
+        16,
+        15
+      ],
+      "passed": true,
+      "numeric_cells": 176,
+      "max_absolute_error": 6.661338147750939e-16,
+      "max_relative_error": 1.1165843593175545e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "J02_联合与菌科直接差异",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        8,
+        11
+      ],
+      "reference_shape": [
+        8,
+        11
+      ],
+      "passed": true,
+      "numeric_cells": 64,
+      "max_absolute_error": 4.440892098500626e-16,
+      "max_relative_error": 1.084185497888743e-15,
+      "mismatch_count": 0
+    },
+    {
+      "table": "J03_联合整体差异",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        4,
+        5
+      ],
+      "reference_shape": [
+        4,
+        5
+      ],
+      "passed": true,
+      "numeric_cells": 16,
+      "max_absolute_error": 7.105427357601002e-15,
+      "max_relative_error": 1.697212225533891e-16,
+      "mismatch_count": 0
+    },
+    {
+      "table": "L01_同人检出变化全部规格",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        30,
+        15
+      ],
+      "reference_shape": [
+        30,
+        15
+      ],
+      "passed": true,
+      "numeric_cells": 330,
+      "max_absolute_error": 8.881784197001252e-16,
+      "max_relative_error": 1.9946994299316412e-14,
+      "mismatch_count": 0
+    },
+    {
+      "table": "P01_广泛饮食调整全部关联",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        48,
+        15
+      ],
+      "reference_shape": [
+        48,
+        15
+      ],
+      "passed": true,
+      "numeric_cells": 444,
+      "max_absolute_error": 6.661338147750939e-16,
+      "max_relative_error": 2.240483361464661e-14,
+      "mismatch_count": 0
+    },
+    {
+      "table": "P02_广泛饮食调整全部差异",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        24,
+        10
+      ],
+      "reference_shape": [
+        24,
+        10
+      ],
+      "passed": true,
+      "numeric_cells": 192,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "max_relative_error": 1.23993736971408e-15,
+      "mismatch_count": 0
+    },
+    {
+      "table": "R01_核心关联全部配套复核",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        72,
+        14
+      ],
+      "reference_shape": [
+        72,
+        14
+      ],
+      "passed": true,
+      "numeric_cells": 613,
+      "max_absolute_error": 8.881784197001252e-16,
+      "max_relative_error": 2.81683377827087e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "R02_核心差异全部配套复核",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        36,
+        11
+      ],
+      "reference_shape": [
+        36,
+        11
+      ],
+      "passed": true,
+      "numeric_cells": 253,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "max_relative_error": 2.634362778469945e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "R03_性别背景交互",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        6,
+        13
+      ],
+      "reference_shape": [
+        6,
+        13
+      ],
+      "passed": true,
+      "numeric_cells": 60,
+      "max_absolute_error": 4.440892098500626e-16,
+      "max_relative_error": 2.6698137232021323e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "R04_BMI非缺失分层关联",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        12,
+        13
+      ],
+      "reference_shape": [
+        12,
+        13
+      ],
+      "passed": true,
+      "numeric_cells": 108,
+      "max_absolute_error": 4.440892098500626e-16,
+      "max_relative_error": 5.332844450556066e-15,
+      "mismatch_count": 0
+    },
+    {
+      "table": "R05_BMI非缺失分层属间差异",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        6,
+        11
+      ],
+      "reference_shape": [
+        6,
+        11
+      ],
+      "passed": true,
+      "numeric_cells": 48,
+      "max_absolute_error": 2.220446049250313e-16,
+      "max_relative_error": 3.0972250353043804e-14,
+      "mismatch_count": 0
+    },
+    {
+      "table": "S01_四种检出状态直接比较",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        24,
+        13
+      ],
+      "reference_shape": [
+        24,
+        13
+      ],
+      "passed": true,
+      "numeric_cells": 264,
+      "max_absolute_error": 6.661338147750939e-16,
+      "max_relative_error": 1.1006690076072734e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "S02_四状态标准化概率",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        64,
+        8
+      ],
+      "reference_shape": [
+        64,
+        8
+      ],
+      "passed": true,
+      "numeric_cells": 384,
+      "max_absolute_error": 4.440892098500626e-16,
+      "max_relative_error": 5.0623446404232816e-15,
+      "mismatch_count": 0
+    },
+    {
+      "table": "S03_多项模型诊断",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        8,
+        6
+      ],
+      "reference_shape": [
+        8,
+        6
+      ],
+      "passed": true,
+      "numeric_cells": 24,
+      "max_absolute_error": 0.0,
+      "max_relative_error": 0.0,
+      "mismatch_count": 0
+    },
+    {
+      "table": "V01_ASV候选完整列表",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        11,
+        6
+      ],
+      "reference_shape": [
+        11,
+        6
+      ],
+      "passed": true,
+      "numeric_cells": 44,
+      "max_absolute_error": 0.0,
+      "max_relative_error": 0.0,
+      "mismatch_count": 0
+    },
+    {
+      "table": "V02_ASV完整关联",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        26,
+        16
+      ],
+      "reference_shape": [
+        26,
+        16
+      ],
+      "passed": true,
+      "numeric_cells": 286,
+      "max_absolute_error": 6.661338147750939e-16,
+      "max_relative_error": 1.0029109574817433e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "V03_背景ASV属间差异",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        7,
+        10
+      ],
+      "reference_shape": [
+        7,
+        10
+      ],
+      "passed": true,
+      "numeric_cells": 56,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "max_relative_error": 1.3254481156862082e-15,
+      "mismatch_count": 0
+    },
+    {
+      "table": "A02_最高读数样本剔除复核",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        6,
+        14
+      ],
+      "reference_shape": [
+        6,
+        14
+      ],
+      "passed": true,
+      "numeric_cells": 66,
+      "max_absolute_error": 4.440892098500626e-16,
+      "max_relative_error": 2.068521076970234e-15,
+      "mismatch_count": 0
+    },
+    {
+      "table": "H01_性别内目标属关联",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        96,
+        13
+      ],
+      "reference_shape": [
+        96,
+        13
+      ],
+      "passed": true,
+      "numeric_cells": 864,
+      "max_absolute_error": 6.661338147750939e-16,
+      "max_relative_error": 9.250429268962754e-15,
+      "mismatch_count": 0
+    },
+    {
+      "table": "H02_属间差异及性别直接比较",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        72,
+        13
+      ],
+      "reference_shape": [
+        72,
+        13
+      ],
+      "passed": true,
+      "numeric_cells": 648,
+      "max_absolute_error": 8.881784197001252e-16,
+      "max_relative_error": 7.141166845401219e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "H03_原性别交互复核",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        48,
+        15
+      ],
+      "reference_shape": [
+        48,
+        15
+      ],
+      "passed": true,
+      "numeric_cells": 528,
+      "max_absolute_error": 6.661338147750939e-16,
+      "max_relative_error": 3.500734712490267e-13,
+      "mismatch_count": 0
+    },
+    {
+      "table": "M01_额外协变量可用性",
+      "reference": "reference/submitted_results.xlsx",
+      "new_shape": [
+        21,
+        5
+      ],
+      "reference_shape": [
+        21,
+        5
+      ],
+      "passed": true,
+      "numeric_cells": 43,
+      "max_absolute_error": 0.0,
+      "max_relative_error": 0.0,
+      "mismatch_count": 0
+    },
+    {
+      "table": "food_PC_得分_内部复现.tsv",
+      "reference": "archived preprocessing control",
+      "new_shape": [
+        2748,
+        21
+      ],
+      "reference_shape": [
+        2748,
+        21
+      ],
+      "passed": true,
+      "numeric_cells": 57708,
+      "max_absolute_error": 0.0,
+      "max_relative_error": 0.0,
+      "mismatch_count": 0
+    },
+    {
+      "table": "food_PC_全部载荷.tsv",
+      "reference": "archived preprocessing control",
+      "new_shape": [
+        177,
+        21
+      ],
+      "reference_shape": [
+        177,
+        21
+      ],
+      "passed": true,
+      "numeric_cells": 3540,
+      "max_absolute_error": 0.0,
+      "max_relative_error": 0.0,
+      "mismatch_count": 0
+    },
+    {
+      "table": "nutrient_PC_得分_内部复现.tsv",
+      "reference": "archived preprocessing control",
+      "new_shape": [
+        2748,
+        21
+      ],
+      "reference_shape": [
+        2748,
+        21
+      ],
+      "passed": true,
+      "numeric_cells": 57708,
+      "max_absolute_error": 0.0,
+      "max_relative_error": 0.0,
+      "mismatch_count": 0
+    },
+    {
+      "table": "nutrient_PC_全部载荷.tsv",
+      "reference": "archived preprocessing control",
+      "new_shape": [
+        184,
+        21
+      ],
+      "reference_shape": [
+        184,
+        21
+      ],
+      "passed": true,
+      "numeric_cells": 3680,
+      "max_absolute_error": 0.0,
+      "max_relative_error": 0.0,
+      "mismatch_count": 0
+    },
+    {
+      "table": "_food_primary.pkl",
+      "passed": true,
+      "new_shape": [
+        2748,
+        777
+      ],
+      "reference_shape": [
+        2748,
+        777
+      ],
+      "reference": "archived intermediate control"
+    },
+    {
+      "table": "_nutrient_primary.pkl",
+      "passed": true,
+      "new_shape": [
+        2748,
+        194
+      ],
+      "reference_shape": [
+        2748,
+        194
+      ],
+      "reference": "archived intermediate control"
+    }
+  ],
+  "mismatch_details": [],
+  "scope": "All listed result tables are produced by new model fits; PCA starts from food and nutrient input tables. Frozen baseline designs and frozen R06/R07 taxonomy assignments are inputs, not regenerated taxonomy classifications.",
+  "tolerance": "absolute 1e-8 and relative 1e-7 for ordinary numeric cells; p/q below 1e-7 require relative 1e-6; strings, missingness, dimensions and row/column order exact"
+}

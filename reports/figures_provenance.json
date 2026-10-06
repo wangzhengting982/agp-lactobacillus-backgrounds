@@ -1,0 +1,73 @@
+{
+  "entry_point": "scripts/run_figures.py",
+  "figures_2_and_3_inputs": "Current statistical-run output tables, not submitted Excel values",
+  "figure_1_frozen_inputs_used": false,
+  "claim_limit": "Rendering and plotted-value comparison only. Model-run validation is separately documented. No upstream sequencing reanalysis is claimed.",
+  "sources": [
+    {
+      "figure_panels": [
+        "2a"
+      ],
+      "source": "runs/core/表S22c_全部15组主成分向量比较.tsv",
+      "sha256": "8049efbcfa0b3d7f17dc644d56d478ad18cf83b98eca5dd10c6729611c8b6b77",
+      "rows": 15,
+      "kind": "current_statistical_run_output"
+    },
+    {
+      "figure_panels": [
+        "2b"
+      ],
+      "source": "runs/core/表S24i_三背景两目标属效应量.tsv",
+      "sha256": "b0becc17853ee2829182374b1940e70285566765d64aaa62c54e7d746ee03e73",
+      "rows": 24,
+      "kind": "current_statistical_run_output"
+    },
+    {
+      "figure_panels": [
+        "2c"
+      ],
+      "source": "runs/deepening/diet_preprocessing/更广泛饮食调整_全部属间差异.tsv",
+      "sha256": "1a9c500bb12de6241d157e0daff42c645102bcbd84b1ff089294c96d247470f0",
+      "rows": 24,
+      "kind": "current_statistical_run_output"
+    },
+    {
+      "figure_panels": [
+        "3a"
+      ],
+      "source": "runs/deepening/results/S02_四状态标准化概率.tsv",
+      "sha256": "d033633756f280288aec1a51933d54cbc67d785ec8e8fa035ec13c0bf4630e16",
+      "rows": 64,
+      "kind": "current_statistical_run_output"
+    },
+    {
+      "figure_panels": [
+        "3b"
+      ],
+      "source": "runs/deepening/results/A01_检出后相对丰度.tsv",
+      "sha256": "de34a592435a91cf0d5e0dca333d9c40a8d16adc90aaea57a47db0721c53a139",
+      "rows": 12,
+      "kind": "current_statistical_run_output"
+    },
+    {
+      "figure_panels": [
+        "1a"
+      ],
+      "source": "runs/cohort/fig1_flow.json",
+      "sha256": "03b4c1c1243784c8b1ec1366b28d4a11eca6da6e2c5488fabb9d9c10db52f08b",
+      "kind": "current_cohort_reconstruction_output"
+    },
+    {
+      "figure_panels": [
+        "1b"
+      ],
+      "source": "runs/cohort/fig1_detection.csv",
+      "sha256": "92732183450aa9a42e0fa119973851505cbf343a0800b97569bac5e51e2889e9",
+      "kind": "current_cohort_reconstruction_output"
+    }
+  ],
+  "status": "rendered_and_numeric_assertions_passed",
+  "returncode": 0,
+  "numeric_audit": "runs/figures/numeric_plot_audit.json",
+  "rendered_visual_QA": "pending human/model image inspection; automated bounds checks are not visual QA"
+}

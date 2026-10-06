@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "figures_inspected": 3,
+  "inspected_format": "200 dpi rendering of the newly generated final CMYK PDFs",
+  "inspection": "All labels, axes, flow arrows, markers, intervals, Chinese glyphs and math italics are visible; no clipping or obscuring was observed. Figure 2 rotated-label rectangle overlap candidates are false positives on visual inspection.",
+  "layout_preserved": true,
+  "pixel_comparisons": [
+    {
+      "figure": "图1_分析人群与乳酸菌检出",
+      "pixels": [
+        1182,
+        788
+      ],
+      "pixel_identical_to_submitted_vector_render": true,
+      "difference_box": null
+    },
+    {
+      "figure": "图2_属间比较与饮食调整",
+      "pixels": [
+        1182,
+        851
+      ],
+      "pixel_identical_to_submitted_vector_render": true,
+      "difference_box": null
+    },
+    {
+      "figure": "图3_背景水平与检出及丰度",
+      "pixels": [
+        1182,
+        788
+      ],
+      "pixel_identical_to_submitted_vector_render": true,
+      "difference_box": null
+    }
+  ],
+  "plotted_rows_checked": 66,
+  "errorbar_artist_checks": 39,
+  "all_numeric_values_within_tolerance": true,
+  "maximum_absolute_numeric_difference": 7.105427357601002e-15,
+  "uses_current_statistical_results_and_cohort_counts": true,
+  "frozen_fallback_used": false,
+  "remaining_issues": [],
+  "scope": "Verifies submitted figure recreation from current statistical outputs; the model execution evidence is in reports/core_verification.json and reports/deepening_validation.json and preparation verification."
+}

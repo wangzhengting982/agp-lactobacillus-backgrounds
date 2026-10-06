@@ -1,0 +1,186 @@
+[
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\common.py",
+    "portable": "common.py",
+    "source_sha256": "63f768169a50ed894e27408ed919c0a5357687af7a64067d6adec3d036b858c0",
+    "portable_sha256": "819fa19f1427496740d9015e7e7b982c556beba8b4b466230059786fe15e025d",
+    "replacements": [
+      {
+        "old": "sys.path[:0]=['E:/new article/26_核心关联复核与投稿修订/_runtime','E:/new article/37_审稿意见实质修订与复审/修订记录/_runtime']",
+        "new": "# Dependencies are supplied by the project environment."
+      },
+      {
+        "old": "R=Path(__file__).resolve().parents[1];O=R/'完整分析结果';O.mkdir(exist_ok=True)\nA=Path('E:/new article/37_审稿意见实质修订与复审/新增分析复现归档/输入/03_分析与结果/association_models')\nD=Path('E:/new article/AGP全部数据深化评估');RAW=Path('E:/AAGP科学通报/01_原始输入')",
+        "new": "ROOT=Path(__file__).resolve().parents[2]\nARCH=ROOT/'data/archive'\nRUN=Path(os.environ.get('AGP_DEEPENING_OUTPUT',ROOT/'runs/deepening'))\nPREP=Path(os.environ.get('AGP_PREPARATION_ROOT',ROOT/'runs/preparation/project'))\nFROZEN=ARCH/'02_统计输入/冻结统计输入'\nA=Path(os.environ.get('AGP_ASSOC_ROOT',PREP/'03_分析与结果/association_models'))\nD=RUN/'diet_preprocessing';D.mkdir(parents=True,exist_ok=True)\nRAW=ARCH/'02_统计输入/六份源数据'\nR=RUN;O=RUN/'results';O.mkdir(parents=True,exist_ok=True)\n"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\01_prepare.py",
+    "portable": "01_prepare.py",
+    "source_sha256": "811f5018d50ec1f2fe07e1a0c5c3c67e6bcbfda1ad66a56dc5bf816857554533",
+    "portable_sha256": "811f5018d50ec1f2fe07e1a0c5c3c67e6bcbfda1ad66a56dc5bf816857554533",
+    "replacements": []
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\02_diet_interactions.py",
+    "portable": "02_diet_interactions.py",
+    "source_sha256": "9af0f15496d7031864a2c0c3d778a10d11b32d18019b4953834eba28d7a59d34",
+    "portable_sha256": "9af0f15496d7031864a2c0c3d778a10d11b32d18019b4953834eba28d7a59d34",
+    "replacements": []
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\03_joint_states_abundance.py",
+    "portable": "03_joint_states_abundance.py",
+    "source_sha256": "a647ae85ffbf5ddfb3eb45e6fe5b2f7555f6a8d70c5b0dba4b21f169134a5020",
+    "portable_sha256": "a647ae85ffbf5ddfb3eb45e6fe5b2f7555f6a8d70c5b0dba4b21f169134a5020",
+    "replacements": []
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\04_within_person.py",
+    "portable": "04_within_person.py",
+    "source_sha256": "2693bb6baf3dbc9a75fe2ea9575ad095922da5802503e8351df7de3dfc1f1aec",
+    "portable_sha256": "1797e6558ac82b1556eb4f690e53cc61b093b159c9e6af09d2a541609b6ecbcc",
+    "replacements": [
+      {
+        "old": "Path('E:/new article/29_全部增补分析与稿件修订/审计/纵向分析样本_内部索引.tsv')",
+        "new": "FROZEN/'纵向分析样本_内部索引.tsv'"
+      },
+      {
+        "old": "Path('E:/new article/05_输入数据/派生输入/lactobacillales_genus_counts_all_samples.tsv')",
+        "new": "PREP/'05_输入数据/派生输入/lactobacillales_genus_counts_all_samples.tsv'"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\05_asv.py",
+    "portable": "05_asv.py",
+    "source_sha256": "1a85121b2721ff143a5f9a5e693aaa6b13e78dcb527d14cf9b5318728514cff2",
+    "portable_sha256": "bdc753eef157e90c02dd8dc6d06cec9c4f388614d1e0670c1a4cb04bec7179c5",
+    "replacements": [
+      {
+        "old": "P=A.parent/'taxonomy_validation'",
+        "new": "P=ARCH/'02_统计输入/冻结统计输入'"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\06_core_robustness.py",
+    "portable": "06_core_robustness.py",
+    "source_sha256": "bbf8172ed3ac1e05a7771666c3c642a6562e2d5989d37445ecf5be4dab2abbbf",
+    "portable_sha256": "56d44eed0ecf2ca3b549c2c30a0583ee93e968b0278ac789e74148b88fe44c6d",
+    "replacements": [
+      {
+        "old": "Path('E:/AAGP科学通报/02_模型输入/analysis_matrix_stool_base.tsv')",
+        "new": "RAW/'analysis_matrix_stool_base.tsv'"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\07_verify_statistics.py",
+    "portable": "07_verify_statistics.py",
+    "source_sha256": "f3e443b6640bb18ca74fef4d23856e98a5d2ba7f29e06b73601d9f7c5ffb8aaf",
+    "portable_sha256": "f3e443b6640bb18ca74fef4d23856e98a5d2ba7f29e06b73601d9f7c5ffb8aaf",
+    "replacements": []
+  },
+  {
+    "source": "data\\archive\\03_饮食与菌群深化\\复现代码\\08_BMI_strata_resolution.py",
+    "portable": "08_BMI_strata_resolution.py",
+    "source_sha256": "e527c89de4379335e1059be401dcde3973f47d02363dab877796eb49b4db2aca",
+    "portable_sha256": "04016a6e7f086dbfbc769c871549e30378a6f9d3e9e385a8b8c1e44754cc577f",
+    "replacements": [
+      {
+        "old": "Path('E:/AAGP科学通报/02_模型输入/analysis_matrix_stool_base.tsv')",
+        "new": "RAW/'analysis_matrix_stool_base.tsv'"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\02_统计输入\\饮食预处理\\01_inventory.py",
+    "portable": "00a_inventory.py",
+    "source_sha256": "349fdfa5ac24a756681c034978937bc5b769f025696813291966015808121f44",
+    "portable_sha256": "78553bac1c7a7248813d7e589b6a3c6cee4c0ccba938eae6a4bb193d85af7c8f",
+    "replacements": [
+      {
+        "old": "sys.path[:0]=['E:/new article/26_核心关联复核与投稿修订/_runtime','E:/new article/37_审稿意见实质修订与复审/修订记录/_runtime']",
+        "new": "# Dependencies are supplied by the project environment."
+      },
+      {
+        "old": "R=Path('E:/AAGP科学通报');O=Path(__file__).parent\nP=Path('E:/new article/37_审稿意见实质修订与复审/新增分析复现归档/输入/03_分析与结果/association_models')",
+        "new": "ROOT=Path(__file__).resolve().parents[2]\nARCH=ROOT/'data/archive'\nRUN=Path(os.environ.get('AGP_DEEPENING_OUTPUT',ROOT/'runs/deepening'))\nPREP=Path(os.environ.get('AGP_PREPARATION_ROOT',ROOT/'runs/preparation/project'))\nFROZEN=ARCH/'02_统计输入/冻结统计输入'\nA=Path(os.environ.get('AGP_ASSOC_ROOT',PREP/'03_分析与结果/association_models'))\nD=RUN/'diet_preprocessing';D.mkdir(parents=True,exist_ok=True)\nRAW=ARCH/'02_统计输入/六份源数据'\nR=RUN;O=RUN/'results';O.mkdir(parents=True,exist_ok=True)\n\nP=A;O=D"
+      },
+      {
+        "old": "files=list((R/'01_原始输入').iterdir())+list((R/'02_模型输入').iterdir())",
+        "new": "files=list(RAW.iterdir())"
+      },
+      {
+        "old": "R/'02_模型输入/",
+        "new": "RAW/'"
+      },
+      {
+        "old": "R/'01_原始输入/",
+        "new": "RAW/'"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\02_统计输入\\饮食预处理\\02_diet_core_pretest.py",
+    "portable": "00b_diet_pca.py",
+    "source_sha256": "4fa49cac929a503268628a5c1dd5437cea599b6a6a899a7ac4b25188dd16376b",
+    "portable_sha256": "24cff5093f9a62b362855c1f965e4d1a977b5591511064f3345d78529c9641da",
+    "replacements": [
+      {
+        "old": "sys.path.insert(0,'E:/new article/26_核心关联复核与投稿修订/_runtime')",
+        "new": "# Dependencies are supplied by the project environment."
+      },
+      {
+        "old": "O=Path(__file__).parent;P=Path('E:/new article/37_审稿意见实质修订与复审/新增分析复现归档/输入/03_分析与结果/association_models')",
+        "new": "ROOT=Path(__file__).resolve().parents[2]\nARCH=ROOT/'data/archive'\nRUN=Path(os.environ.get('AGP_DEEPENING_OUTPUT',ROOT/'runs/deepening'))\nPREP=Path(os.environ.get('AGP_PREPARATION_ROOT',ROOT/'runs/preparation/project'))\nFROZEN=ARCH/'02_统计输入/冻结统计输入'\nA=Path(os.environ.get('AGP_ASSOC_ROOT',PREP/'03_分析与结果/association_models'))\nD=RUN/'diet_preprocessing';D.mkdir(parents=True,exist_ok=True)\nRAW=ARCH/'02_统计输入/六份源数据'\nR=RUN;O=RUN/'results';O.mkdir(parents=True,exist_ok=True)\n\nP=A;O=D"
+      },
+      {
+        "old": "P/'single_genus_all_associations.tsv'",
+        "new": "FROZEN/'single_genus_all_associations.tsv'"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\04_性别与高读数复核\\复现代码\\02_sex_contrasts.py",
+    "portable": "09_sex_contrasts.py",
+    "source_sha256": "553feb5e216c0d934309cd108958e538a442f9c0619c0a52b82b109c7152a941",
+    "portable_sha256": "8420c309e260d51ee166ebc2cfe9daf657f82250c18af1cfae89002b7bdbdb3f",
+    "replacements": [
+      {
+        "old": "from common import RAW,X,XD,Z,Y,TT,BG,BC,glm,effect,contrast,bh,scale,np,pd,sm,norm",
+        "new": "from common import RAW,X,XD,Z,Y,TT,BG,BC,glm,effect,contrast,bh,scale,np,pd,sm,norm,ARCH,RUN"
+      },
+      {
+        "old": "R=Path(__file__).resolve().parents[1];O=R/'新增分析结果'",
+        "new": "R=RUN;O=RUN/'sex_results';O.mkdir(parents=True,exist_ok=True)"
+      },
+      {
+        "old": "R/'数据与代码/原R03_性别背景交互.tsv'",
+        "new": "RUN/'results/R03_性别背景交互.tsv'"
+      }
+    ]
+  },
+  {
+    "source": "data\\archive\\04_性别与高读数复核\\复现代码\\08_abundance_influence.py",
+    "portable": "10_abundance_influence.py",
+    "source_sha256": "dbe600be57cf15e0ea4c943f019a4e51fd66c5cf22e75ebb277ff3e54ef47684",
+    "portable_sha256": "424749bda43ff6abba8c0892ab85743a604fc40532d8455edf6282f0c46cd230",
+    "replacements": [
+      {
+        "old": "from common import X,XD,Z,Y,TT,BG,BC,np,pd,sm,bh",
+        "new": "from common import X,XD,Z,Y,TT,BG,BC,np,pd,sm,bh,RUN"
+      },
+      {
+        "old": "R=Path(__file__).resolve().parents[1];O=R/'新增分析结果'",
+        "new": "R=RUN;O=RUN/'sex_results';O.mkdir(parents=True,exist_ok=True);(R/'修订记录').mkdir(exist_ok=True)"
+      },
+      {
+        "old": "depth=pd.read_csv(R/'数据与代码/原39_named_depth.tsv',sep='\\t',index_col=0,dtype=str)",
+        "new": "depth=pd.read_pickle(RUN/'results/_all_depth_family.pkl')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+{
+  "status": "PASS",
+  "elapsed_seconds": 16.03947925567627,
+  "source_rebuild": {
+    "status": "PASS",
+    "model_fits": 0,
+    "input_files": [
+      {
+        "file": "05_输入数据/01_原始输入/4168_annotated_feature_table.tsv",
+        "bytes": 43810561,
+        "sha256": "821c833bb0a084e231583e72c3b999051e133227f20ab65478a75416ae232bef"
+      },
+      {
+        "file": "05_输入数据/01_原始输入/4168_ASV_table.biom",
+        "bytes": 17752788,
+        "sha256": "19b4b67782b2a97194ec3352bd3ce36191bc1315f84ea4a12e7eff880a9c3272"
+      },
+      {
+        "file": "05_输入数据/01_原始输入/sample_information_10317_matched_4168.tsv",
+        "bytes": 21478113,
+        "sha256": "f50f57243be1728eecd0e0bf5c75880c11c1a631cc5357f005bfdccd7aa59ded"
+      },
+      {
+        "file": "05_输入数据/01_原始输入/vioscreen_micromacro.tsv",
+        "bytes": 16178345,
+        "sha256": "f45971edf70bc9b6406290396ac3cb3ce21a91a4e55161e790c502860b5da941"
+      },
+      {
+        "file": "05_输入数据/02_模型输入/analysis_matrix_stool_base.tsv",
+        "bytes": 4600289,
+        "sha256": "240424039ca09db2611c59a6a0601fa3c277be06b22f25a5d39ee47c144964cb"
+      },
+      {
+        "file": "05_输入数据/02_模型输入/food_exposure_matrix_stool.tsv",
+        "bytes": 99197659,
+        "sha256": "7477a1078fd538f4101e83d2739cc722f51d74cafd2f0046bf359e0caed0cd17"
+      }
+    ],
+    "stool_samples": 3850,
+    "unique_first_sample_people": 3204,
+    "adult_age_18_100": 3054,
+    "adult_required_data_complete": 2877,
+    "main_depth_ge5000": 2760,
+    "association_female_male": 2748,
+    "complete_mixed_dates": 3850,
+    "date_with_slashes": 1,
+    "same_person_same_day_groups": 41,
+    "same_person_exact_timestamp_groups": 22,
+    "same_person_exact_timestamp_samples": 44,
+    "sorting_rule": "subject string ascending, full mixed-parsed timestamp ascending, sample_id lexicographically ascending; first per subject; missing dates last (none observed)",
+    "subject_representation_normalization_unique_people": 3204,
+    "subject_representation_normalization_changes_number_of_people": false,
+    "year_recovery_rows": 2,
+    "year_recovery_eligible_rows": 1,
+    "lab_taxonomy_rows": 71,
+    "lab_genus_or_unclassified_groups": 43,
+    "annotation_vs_BIOM_all4168_equal": true,
+    "base_depth_matches_annotation": true,
+    "frozen_comparisons": [
+      {
+        "file": "first_sample_index.tsv",
+        "comparison": "all IDs in order, participant IDs and full timestamps",
+        "agrees": true
+      }
+    ],
+    "required_fields_missing_among_first_samples": {
+      "yogurt_missing": 1,
+      "probiotic_missing": 45,
+      "plant_ferment_missing": 63,
+      "antibiotic_recent_missing": 24,
+      "ibd_binary_missing": 99,
+      "ibs_binary_missing": 81
+    },
+    "legacy_design_policy": "Rebuilt compatibility table retains old transformed columns, used only for its eligible index by formal code. Formal covariates always derive from raw inputs, including mixed date year."
+  },
+  "association_preparation": {
+    "n": 2748,
+    "original_eligible_n": 2877,
+    "depth_5000_eligible_n": 2760,
+    "excluded_unknown_or_other_sex_after_depth_QC": 12,
+    "events": {
+      "Lacticaseibacillus": 502,
+      "Lactobacillus": 469,
+      "Leuconostoc": 191,
+      "Limosilactobacillus": 158,
+      "Ligilactobacillus": 147,
+      "Pediococcus": 90
+    },
+    "background_genera": 156,
+    "PCs": 10,
+    "PC_variance_explained": 0.3035078733451854,
+    "baseline_parameters": 20,
+    "pc_model_parameters": 30,
+    "BMI_missing": 35,
+    "BMI_imputation_median": 23.5,
+    "year_source": "raw collection_timestamp parsed with format=mixed",
+    "country_reference": "Other",
+    "sex_reference": "female",
+    "CLR_pseudocount_relative_abundance": 5e-05,
+    "primary_status": "exploratory explanatory association following known pilot results"
+  },
+  "matrix_comparisons": [
+    {
+      "file": "association_covariate_design.tsv",
+      "shape": [
+        2748,
+        20
+      ],
+      "same_ids_and_columns": true,
+      "numeric_equal": true,
+      "max_abs_error": 0.0,
+      "rtol": 1e-10,
+      "atol": 1e-10
+    },
+    {
+      "file": "association_pc_scores.tsv",
+      "shape": [
+        2748,
+        10
+      ],
+      "same_ids_and_columns": true,
+      "numeric_equal": true,
+      "max_abs_error": 0.0,
+      "rtol": 1e-10,
+      "atol": 1e-10
+    },
+    {
+      "file": "association_standardized_clr.tsv",
+      "shape": [
+        2748,
+        156
+      ],
+      "same_ids_and_columns": true,
+      "numeric_equal": true,
+      "max_abs_error": 0.0,
+      "rtol": 1e-10,
+      "atol": 1e-10
+    },
+    {
+      "file": "association_target_counts.tsv",
+      "shape": [
+        2748,
+        6
+      ],
+      "same_ids_and_columns": true,
+      "numeric_equal": true,
+      "max_abs_error": 0.0,
+      "rtol": 1e-10,
+      "atol": 1e-10
+    }
+  ],
+  "figure1_flow_and_detection_match": true,
+  "scope": "Rebuilt from six supplied processed source tables; does not reprocess FASTQ or reproduce upstream questionnaire matching."
+}

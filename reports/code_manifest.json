@@ -1,0 +1,287 @@
+[
+  {
+    "path": "scripts/build_table_map.py",
+    "bytes": 14915,
+    "sha256": "c9b2b59022e0896687f52bb0d6d34d908b8cfa8bb986678b0bd5a448478fae72"
+  },
+  {
+    "path": "scripts/run_all.py",
+    "bytes": 2552,
+    "sha256": "982973c65038dc7cd93147d56dc14f0c0b8c1928714b136b6e1c0faa11256b5d"
+  },
+  {
+    "path": "scripts/run_core.py",
+    "bytes": 2946,
+    "sha256": "ae091c6c2519a7e7b6e0deeb12c4b34f0eda6f8006b2eb87d4a0b9fbba854526"
+  },
+  {
+    "path": "scripts/run_deepening.py",
+    "bytes": 2444,
+    "sha256": "55828ab461dc48c92bdb07191c3317a8f4241d9559ca9d03b89063703c4d12ce"
+  },
+  {
+    "path": "scripts/run_figures.py",
+    "bytes": 5117,
+    "sha256": "25317627916ae930544c1f54d84c85e14cd89d376b1298061bd680c21183dcc2"
+  },
+  {
+    "path": "scripts/run_preparation.py",
+    "bytes": 6532,
+    "sha256": "a86bf5a59dd4cd4c0355dd79363598ebc94ec8b611dbe784193dcbd6e06d4fcc"
+  },
+  {
+    "path": "scripts/run_sensitivity.py",
+    "bytes": 5845,
+    "sha256": "062a79797dec3dc9459b6167cc129eee0387f3924e275fe5f7c636bc3680c888"
+  },
+  {
+    "path": "scripts/summarize_validation.py",
+    "bytes": 3740,
+    "sha256": "6bd5024a19d580c914520aace5e9b1034e8456e8b98fe1d77cc421a7a45ecd99"
+  },
+  {
+    "path": "scripts/validate_figure_pixels.py",
+    "bytes": 4819,
+    "sha256": "559dff7affda328bfc0ef621ef8bbdb223a7697690474ecdf4e70784a3de91b6"
+  },
+  {
+    "path": "scripts/validate_sensitivity.py",
+    "bytes": 4950,
+    "sha256": "d6ee014627dff58448a69f1c9ebbd11aa1a4d0a312412b5ff14e04cf41445f4e"
+  },
+  {
+    "path": "scripts/verify_inputs.py",
+    "bytes": 1182,
+    "sha256": "dc733e85c3acc4a37d27f07c35b21d2eb69d2ae5a0b5c0f7cc029e64ff064c06"
+  },
+  {
+    "path": "src/core/00_rebuild_taxonomy_inputs.py",
+    "bytes": 7378,
+    "sha256": "d660311ada0bc45fbcb50b6130db0b7edd6eb4d66d8106618ca4bb17318a4d9f"
+  },
+  {
+    "path": "src/core/01_genus_contrasts.py",
+    "bytes": 8496,
+    "sha256": "a54de9a6066ad067310c3071cf59b8efd7049a1360ac0c765b863e21b74c3204"
+  },
+  {
+    "path": "src/core/02_taxonomy_trace.py",
+    "bytes": 7280,
+    "sha256": "25c835ce29d11fbc7e178826da3e9f5b8461bacdd780fb91b2adedc9b1477d37"
+  },
+  {
+    "path": "src/core/02b_refit_taxonomy_pc.py",
+    "bytes": 5356,
+    "sha256": "27ecb67f5c4c315ee2ddd52d7f6ba1b61498c1ad7bc4fabd08f1c66d95007efa"
+  },
+  {
+    "path": "src/core/03_taxonomy_PC_contrasts.py",
+    "bytes": 1301,
+    "sha256": "692b7debe03c6ca2ba524cdddc905d4f5efebfc39e5f515e24cc407ca0018b83"
+  },
+  {
+    "path": "src/core/04_complete_background_differences.py",
+    "bytes": 3886,
+    "sha256": "993755690117742c1e290b1f0fb73a42f2e61fa5143aeb6a4a5abbfcb58e25bd"
+  },
+  {
+    "path": "src/core/05_key_difference_sensitivity.py",
+    "bytes": 3208,
+    "sha256": "727ec63301d25a43f9ebca85052092f205d2c66d31f60691f13fbed94388c6fa"
+  },
+  {
+    "path": "src/core/06_validate_core.py",
+    "bytes": 9698,
+    "sha256": "2dd9764400d30308f790bed99701091aaaf168fc272d24f47aed05ea12ba51ba"
+  },
+  {
+    "path": "src/core/core_paths.py",
+    "bytes": 304,
+    "sha256": "4e689da0382a5fab812bbc99fa6cf1441787bcb61edd9b215b2fb0fa926c26e6"
+  },
+  {
+    "path": "src/core/README.md",
+    "bytes": 2533,
+    "sha256": "546fec643c9f12179dbde409d28b17bae3ef32f4b7c6bd0216283b8d6a1d46f4"
+  },
+  {
+    "path": "src/deepening/00a_inventory.py",
+    "bytes": 7796,
+    "sha256": "580afebc1e4749543cbfdca0545c40b1c906353a3c9d3f88228830a29eebaa7b"
+  },
+  {
+    "path": "src/deepening/00b_diet_pca.py",
+    "bytes": 7118,
+    "sha256": "a6449d4cf845478975767fe55862162f515ba2c2e898f134d45141de32767dd4"
+  },
+  {
+    "path": "src/deepening/00c_metadata.py",
+    "bytes": 860,
+    "sha256": "49479e9f93634661b2d09126d12789e19b702e87712f42db9f0c9a1cf3de65da"
+  },
+  {
+    "path": "src/deepening/01_prepare.py",
+    "bytes": 4741,
+    "sha256": "38603084b8e1031320c202cc9e1e3a95dc4b6127e0fa684f3a845bb4fb1f5f09"
+  },
+  {
+    "path": "src/deepening/02_diet_interactions.py",
+    "bytes": 1828,
+    "sha256": "20d4833a48896b23051d61fbea87dc38a91b604ec53fa09d440f1ab2138f9c4a"
+  },
+  {
+    "path": "src/deepening/03_joint_states_abundance.py",
+    "bytes": 5546,
+    "sha256": "41ce8819b90f3ca0d8997d2403309805a8ea92b45427c24d4ba1f2057aee869e"
+  },
+  {
+    "path": "src/deepening/04_within_person.py",
+    "bytes": 2170,
+    "sha256": "1a1510d20d379d935089d8fb0d38a224af999f8a3b9520b5223ca41d3aaa50b8"
+  },
+  {
+    "path": "src/deepening/05_asv.py",
+    "bytes": 2438,
+    "sha256": "7b73f7f83c516e98cfe419bba726344e35800d4930fc275613d2ee8078d78c2f"
+  },
+  {
+    "path": "src/deepening/06_core_robustness.py",
+    "bytes": 3143,
+    "sha256": "6967bc728d64212b3975e37814fc7ea28fcab9f24c73097305f7d12d80b8d387"
+  },
+  {
+    "path": "src/deepening/07_verify_statistics.py",
+    "bytes": 2576,
+    "sha256": "86c83bd0930047573b7da5a3c05870c1a65b757371935902021986534365f6fb"
+  },
+  {
+    "path": "src/deepening/08_BMI_strata_resolution.py",
+    "bytes": 1440,
+    "sha256": "b744ae4a3dbe12850127fe936d396e89731bc411705a1a1da203d846c955faeb"
+  },
+  {
+    "path": "src/deepening/09_sex_contrasts.py",
+    "bytes": 7063,
+    "sha256": "044b69ab748befba0bbf6b290b38fac5f9932a27650cd1d8b1b67ace7e8537ee"
+  },
+  {
+    "path": "src/deepening/10_abundance_influence.py",
+    "bytes": 1946,
+    "sha256": "682b76b69d6d48ed7a4973ce9aca41a04a551d312fac38f3393cf41e6ef8d9e8"
+  },
+  {
+    "path": "src/deepening/check_manuscript_claims.py",
+    "bytes": 15134,
+    "sha256": "24dfd4bd0e7cfc2cc5852d6fa697e2b7f8de3a0e8d6f98f43a5ce0428cd74863"
+  },
+  {
+    "path": "src/deepening/common.py",
+    "bytes": 3572,
+    "sha256": "cf5fa1efb8c0880c8302af92bb31497db86f55ae9a5108017a0529e0e170b699"
+  },
+  {
+    "path": "src/deepening/port_sources.py",
+    "bytes": 5424,
+    "sha256": "9aa36bab96b1f30305ffc0effeebceae06c8a8a0667cb3e2b2dafb38485f901e"
+  },
+  {
+    "path": "src/deepening/README.md",
+    "bytes": 2770,
+    "sha256": "239c519f7b8fddc71816aae350c5ee2ed8805dbc202064cfef8a689e78323c96"
+  },
+  {
+    "path": "src/deepening/validate_deepening.py",
+    "bytes": 5757,
+    "sha256": "55e4989b36ea259c13067ba6d546e24a842ef2dbe5bbfbdaa50e329289a6d7c9"
+  },
+  {
+    "path": "src/figures/color_profiles/Agfa_SWOP_Standard.icm",
+    "bytes": 218103,
+    "sha256": "48d1cfdccf06dabfecf0c2b535eacd8a5f49560f0182691cdd713b6389a30510"
+  },
+  {
+    "path": "src/figures/color_profiles/sRGB_IEC61966-2-1.icm",
+    "bytes": 3144,
+    "sha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e"
+  },
+  {
+    "path": "src/figures/README.md",
+    "bytes": 2844,
+    "sha256": "efd156eea7fe58718dbdcea77cd6db3844c40f124890209d4c95f5778271ee6f"
+  },
+  {
+    "path": "src/figures/rebuild_figures.py",
+    "bytes": 23975,
+    "sha256": "187f916a25bb56fb015be37cf0966d9dcc70783c3e4dc4cbede492ddde2588a1"
+  },
+  {
+    "path": "src/figures/source_data/fig1_detection.csv",
+    "bytes": 779,
+    "sha256": "df30ad8eb56e4de079f090c0737d6843247f86b6b8f70e3805db12db460b68d4"
+  },
+  {
+    "path": "src/figures/source_data/fig1_flow.json",
+    "bytes": 561,
+    "sha256": "03b4c1c1243784c8b1ec1366b28d4a11eca6da6e2c5488fabb9d9c10db52f08b"
+  },
+  {
+    "path": "src/figures/source_data/original_plotted_values.json",
+    "bytes": 29018,
+    "sha256": "ea77d4ed7e6cbae383eead28b19dc32664cc7118af99c40fa51bd9dd2e82b6cb"
+  },
+  {
+    "path": "src/figures/source_data/plot_tables.json",
+    "bytes": 21177,
+    "sha256": "9a696ba28a9233fc9bd6eb136e87c1c1c99a32ce11f6f18d94458c7530c0fff6"
+  },
+  {
+    "path": "src/figures/validate_exports.py",
+    "bytes": 3647,
+    "sha256": "db5d07277bb4ecffe64e1ac901bbcdd510ae4a81b39bcd8c80394fe907bd1751"
+  },
+  {
+    "path": "src/preparation/agp_core.py",
+    "bytes": 8154,
+    "sha256": "e7821d998ce1dd5d88bc5427a5a2258cebf343b38f4cc4b0ce12d736e47f5068"
+  },
+  {
+    "path": "src/preparation/association_models/fit_associations.py",
+    "bytes": 10846,
+    "sha256": "1c05c157e4e2196c851bab55a0fdfdf93baa8baa0bbb2f5461e8a107a1ec70eb"
+  },
+  {
+    "path": "src/preparation/prepare_source_indices.py",
+    "bytes": 14765,
+    "sha256": "c240f638137f2ee301282dd9127aa493bd47d0575273909c161ffd4ee6190020"
+  },
+  {
+    "path": "src/sensitivity/bloom/run_bloom_sensitivity.py",
+    "bytes": 14949,
+    "sha256": "0bb5af94b3d0199bbf099a24292aa46b3cba3dcfa3da11747a2310514bc73867"
+  },
+  {
+    "path": "src/sensitivity/bloom/run_qc5000_sensitivity.py",
+    "bytes": 9282,
+    "sha256": "db94ec8a0a1bfdad94ba2da605e686a310015a437b813d9ab5d4cb0076c10e2c"
+  },
+  {
+    "path": "src/sensitivity/diversity/run_diversity_audit.py",
+    "bytes": 11466,
+    "sha256": "f63f519b8c21dd6af85359e52564102b6f4b2d62a8bb2acd4bd7f02a5a35b50e"
+  },
+  {
+    "path": "src/sensitivity/provenance/01_intake.py",
+    "bytes": 7254,
+    "sha256": "e9a698dda727d48ea221c0e4673874cb536071ed429898bdf90d231c0e9eb2a1"
+  },
+  {
+    "path": "src/sensitivity/provenance/02_round_sensitivity.py",
+    "bytes": 8426,
+    "sha256": "43873337a2546ee9873082fd75663fffc497ee7b5b075ab4412cf123821aae5f"
+  },
+  {
+    "path": "src/sensitivity/within_person/run_within_audit.py",
+    "bytes": 8617,
+    "sha256": "b5d690dbcd6558881a4b7421a9fc05b5d13af47cacb81e846b5b44c48d649e4f"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "source": "data\\archive\\01_核心统计\\代码\\01_genus_contrasts.py",
+    "portable": "src\\core\\01_genus_contrasts.py",
+    "removed_historical_import_paths": true,
+    "redirected_inputs_outputs": true
+  },
+  {
+    "source": "data\\archive\\01_核心统计\\代码\\02_taxonomy_trace.py",
+    "portable": "src\\core\\02_taxonomy_trace.py",
+    "removed_historical_import_paths": true,
+    "redirected_inputs_outputs": true
+  },
+  {
+    "source": "data\\archive\\01_核心统计\\代码\\03_taxonomy_PC_contrasts.py",
+    "portable": "src\\core\\03_taxonomy_PC_contrasts.py",
+    "removed_historical_import_paths": true,
+    "redirected_inputs_outputs": true
+  },
+  {
+    "source": "data\\archive\\01_核心统计\\代码\\04_complete_background_differences.py",
+    "portable": "src\\core\\04_complete_background_differences.py",
+    "removed_historical_import_paths": true,
+    "redirected_inputs_outputs": true
+  },
+  {
+    "source": "data\\archive\\01_核心统计\\代码\\05_key_difference_sensitivity.py",
+    "portable": "src\\core\\05_key_difference_sensitivity.py",
+    "removed_historical_import_paths": true,
+    "redirected_inputs_outputs": true
+  }
+]

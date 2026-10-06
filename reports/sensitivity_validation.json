@@ -1,0 +1,28 @@
+{
+  "all_passed": true,
+  "checks": [
+    {
+      "sheet": "N01_核心敏感性汇总",
+      "rows": 24,
+      "numeric_cells": 168,
+      "passed": true,
+      "max_absolute_error": 5.082197683525802e-21,
+      "rtol": 1e-07,
+      "atol": 1e-08,
+      "mismatches": []
+    },
+    {
+      "sheet": "N02_同人聚类复核",
+      "rows": 18,
+      "numeric_cells": 180,
+      "passed": true,
+      "max_absolute_error": 4.440892098500626e-16,
+      "rtol": 1e-07,
+      "atol": 1e-08,
+      "mismatches": []
+    }
+  ],
+  "invalid_full_round_contrasts_retained_as_missing": 3,
+  "new_fits_and_regenerated_tables": "runs/sensitivity",
+  "scope": "N01 eight fixed scenarios and N02 eighteen participant-clustered conditional-logit fits; no external-cohort effect validation claimed."
+}

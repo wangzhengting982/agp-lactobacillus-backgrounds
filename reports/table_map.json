@@ -1,0 +1,1435 @@
+{
+  "submitted_workbook_sha256": "c5d5e5e994f598f685cf213a657d5bbf12112648c0048641f20213b4eef6f557",
+  "number_of_result_sheets": 40,
+  "numeric_comparison_tolerance": {
+    "relative": 2e-14,
+    "absolute": 1e-15,
+    "reason": "This tolerance is for archive-to-workbook provenance comparison. Current model-run tolerances are defined separately in each current_verification_report."
+  },
+  "all_original_workbook_cells_match": true,
+  "all_producer_scripts_found": true,
+  "current_validated_sheets": 40,
+  "current_all_passed": true,
+  "tables": [
+    {
+      "code": "C01",
+      "worksheet": "C01_全部936项背景关联",
+      "rows": 936,
+      "columns": 12,
+      "section": "2 关联模型与多重检验校正",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表1_全部936项背景关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/association_models/fit_associations.py"
+      ],
+      "archive_output": "data/archive/02_统计输入/冻结统计输入/single_genus_all_associations.tsv",
+      "archive_output_sha256": "d30e693e5a6b8d89f34a89f60f21b2e094c7402802a802709242f9b3a261d42a",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "C01 is 936 regressions; C02/C03 use standardized 10-PC scores and joint sandwich inference. Raw preparation and frozen-model-input reproduction are distinct stages.",
+      "current_producer_script": [
+        "src/core/04_complete_background_differences.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/refitted_936_associations.tsv",
+      "current_output_sha256": "cfc6b75fb19f1cb427cc9ded29de9eedfad14166a5f0c56727ae463abe8a9cc3",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 9.35918009759007e-14,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C02",
+      "worksheet": "C02_六属主成分整体关联",
+      "rows": 6,
+      "columns": 8,
+      "section": "2 关联模型与多重检验校正",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表2_六属主成分整体关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/association_models/fit_associations.py"
+      ],
+      "archive_output": null,
+      "archive_output_sha256": null,
+      "direct_output_check": null,
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "C01 is 936 regressions; C02/C03 use standardized 10-PC scores and joint sandwich inference. Raw preparation and frozen-model-input reproduction are distinct stages.",
+      "current_producer_script": [
+        "src/core/01_genus_contrasts.py",
+        "src/core/06_validate_core.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/refitted_primary_pc_blocks.tsv",
+      "current_output_sha256": "3aa6bd46d1bf5a7e01c91312c5cc7ba26c71113677d3192faf10305cfbf07b6b",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 7.673861546209082e-13,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C03",
+      "worksheet": "C03_六属整体差异",
+      "rows": 1,
+      "columns": 9,
+      "section": "2 关联模型与多重检验校正",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表3_六属整体差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/association_models/fit_associations.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/输入/03_分析与结果/association_models/pc_direct_cross_genus_heterogeneity.json",
+      "archive_output_sha256": "21dd5d20876b951ee00cee88ec79ad966750acb375e0d569e57dddb5aeeefa43",
+      "direct_output_check": null,
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "C01 is 936 regressions; C02/C03 use standardized 10-PC scores and joint sandwich inference. Raw preparation and frozen-model-input reproduction are distinct stages.",
+      "current_producer_script": [
+        "src/core/01_genus_contrasts.py",
+        "src/core/06_validate_core.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/refitted_primary_pc_omnibus.tsv",
+      "current_output_sha256": "c822900fe4c571389fc77092464c1a8b2b395177300d9741df0672ff64b2a765",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 8.242295734817162e-13,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C04",
+      "worksheet": "C04_全部15组模式比较",
+      "rows": 15,
+      "columns": 7,
+      "section": "2 关联模型与多重检验校正",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表5_全部15组模式比较",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/01_genus_contrasts.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S22c_全部15组主成分向量比较.tsv",
+      "archive_output_sha256": "8049efbcfa0b3d7f17dc644d56d478ad18cf83b98eca5dd10c6729611c8b6b77",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_pc_scores.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/core/01_genus_contrasts.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S22c_全部15组主成分向量比较.tsv",
+      "current_output_sha256": "8049efbcfa0b3d7f17dc644d56d478ad18cf83b98eca5dd10c6729611c8b6b77",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 7.105427357601002e-15,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C05",
+      "worksheet": "C05_全部156背景整体差异",
+      "rows": 156,
+      "columns": 5,
+      "section": "2 关联模型与多重检验校正",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表6_全部156背景整体差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/04_complete_background_differences.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S22e_全部156背景属整体差异.tsv",
+      "archive_output_sha256": "4fc01adf91345667e7b4a72e046c63ef21fd5b4933436e3f79dceabc7b29c267",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/core/04_complete_background_differences.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S22e_全部156背景属整体差异.tsv",
+      "current_output_sha256": "4fc01adf91345667e7b4a72e046c63ef21fd5b4933436e3f79dceabc7b29c267",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 7.105427357601002e-15,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C06",
+      "worksheet": "C06_全部2340项属间差异",
+      "rows": 2340,
+      "columns": 13,
+      "section": "2 关联模型与多重检验校正",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表7_全部2340项属间差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/04_complete_background_differences.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S22f_全部2340项背景属系数比较.tsv",
+      "archive_output_sha256": "106c441afd2ad3b7760665d498f6316ae1c03a181cc6f31afa8a2b63805084dd",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/core/04_complete_background_differences.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S22f_全部2340项背景属系数比较.tsv",
+      "current_output_sha256": "106c441afd2ad3b7760665d498f6316ae1c03a181cc6f31afa8a2b63805084dd",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 8.881784197001252e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C07",
+      "worksheet": "C07_整体差异稳健性",
+      "rows": 11,
+      "columns": 9,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表8_整体差异稳健性",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/01_genus_contrasts.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S23_整体差异稳健性.tsv",
+      "archive_output_sha256": "6f4c4940ccb5b7b2a943f569c9ee4c4b3d86a3767ebd119c3c9958c2baae6fbe",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_pc_scores.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/core/01_genus_contrasts.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S23_整体差异稳健性.tsv",
+      "current_output_sha256": "6f4c4940ccb5b7b2a943f569c9ee4c4b3d86a3767ebd119c3c9958c2baae6fbe",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 5.684341886080802e-14,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C08",
+      "worksheet": "C08_分类支持度与覆盖",
+      "rows": 16,
+      "columns": 14,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表9_分类支持度与覆盖",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/02_taxonomy_trace.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S24a_重点背景属分类支持与覆盖.tsv",
+      "archive_output_sha256": "d67628f2779340f91acd0cf7fc97d52c2bae865e50c776da9f4edbd63a15f252",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation",
+        "data/archive/02_统计输入/六份源数据/4168_ASV_table.biom"
+      ],
+      "archive_provenance_notes": "Uses archived R06/R07 full-ASV assignments/reference inventories and BIOM counts. Reconstructing these summaries is not fresh SINTAX sequence annotation.",
+      "current_producer_script": [
+        "src/core/02_taxonomy_trace.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S24a_重点背景属分类支持与覆盖.tsv",
+      "current_output_sha256": "d67628f2779340f91acd0cf7fc97d52c2bae865e50c776da9f4edbd63a15f252",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C09",
+      "worksheet": "C09_重新注释ASV明细",
+      "rows": 1038,
+      "columns": 14,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表10_重新注释ASV明细",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/02_taxonomy_trace.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S24b_重新注释候选ASV明细.tsv",
+      "archive_output_sha256": "40e290154a40bcfbc0d28db52d6035aac3e7768568746c9361ebe74eca971d50",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation",
+        "data/archive/02_统计输入/六份源数据/4168_ASV_table.biom"
+      ],
+      "archive_provenance_notes": "Uses archived R06/R07 full-ASV assignments/reference inventories and BIOM counts. Reconstructing these summaries is not fresh SINTAX sequence annotation.",
+      "current_producer_script": [
+        "src/core/02_taxonomy_trace.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S24b_重新注释候选ASV明细.tsv",
+      "current_output_sha256": "40e290154a40bcfbc0d28db52d6035aac3e7768568746c9361ebe74eca971d50",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 0.0,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C10",
+      "worksheet": "C10_参考库属标签",
+      "rows": 6,
+      "columns": 3,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表11_参考库属标签",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/02_taxonomy_trace.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S24c_参考库属标签.tsv",
+      "archive_output_sha256": "c3976d263e67c2fa29df37fceacfd5fa0e89b674e5cd9228e0a2518f2f89a2ad",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation",
+        "data/archive/02_统计输入/六份源数据/4168_ASV_table.biom"
+      ],
+      "archive_provenance_notes": "Uses archived R06/R07 full-ASV assignments/reference inventories and BIOM counts. Reconstructing these summaries is not fresh SINTAX sequence annotation.",
+      "current_producer_script": [
+        "src/core/02_taxonomy_trace.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S24c_参考库属标签.tsv",
+      "current_output_sha256": "c3976d263e67c2fa29df37fceacfd5fa0e89b674e5cd9228e0a2518f2f89a2ad",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 0.0,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C11",
+      "worksheet": "C11_重新注释15组模式比较",
+      "rows": 30,
+      "columns": 8,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表15_重新注释15组模式比较",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/03_taxonomy_PC_contrasts.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S24g_重新注释15组整体模式比较.tsv",
+      "archive_output_sha256": "999bec891af2030cd05723444f2bee26a37cd98dcd0259466d51df114e246654",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity"
+      ],
+      "archive_provenance_notes": "Original archived implementation uses R06/R07 joint covariance NPZ. The current producer chain refits these arrays before computing contrasts.",
+      "current_producer_script": [
+        "src/core/02b_refit_taxonomy_pc.py",
+        "src/core/03_taxonomy_PC_contrasts.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S24g_重新注释15组整体模式比较.tsv",
+      "current_output_sha256": "2aec485c90b3f0e4d873bb224e12dcdf78884e06c3c6a055438e23dde52afc23",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.04121180963557e-13,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C12",
+      "worksheet": "C12_三项差异阈值与分类复核",
+      "rows": 12,
+      "columns": 14,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表16_三项差异阈值与分类复核",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/05_key_difference_sensitivity.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S24h_三项突出差异的阈值与分类复核.tsv",
+      "archive_output_sha256": "370e505cc0622845fc15823860895ed418ba5afbb2bd50099fbf38ffc86f7078",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv",
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/core/05_key_difference_sensitivity.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S24h_三项突出差异的阈值与分类复核.tsv",
+      "current_output_sha256": "fb5f8d1f43e69b01ef00da11c0be2cf2e293b8b8f102335a48a52f925c78862c",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 1.3322676295501878e-15,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C13",
+      "worksheet": "C13_三背景两目标效应量",
+      "rows": 24,
+      "columns": 7,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表17_三背景两目标效应量",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/01_核心统计/代码/05_key_difference_sensitivity.py"
+      ],
+      "archive_output": "data/archive/01_核心统计/新增分析/表S24i_三背景两目标属效应量.tsv",
+      "archive_output_sha256": "3d7c9d145158a17a6e5b29de158bfa5e1ffa2ff0e41a14f5021eba60ad6143a6",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv",
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/core/05_key_difference_sensitivity.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/表S24i_三背景两目标属效应量.tsv",
+      "current_output_sha256": "b0becc17853ee2829182374b1940e70285566765d64aaa62c54e7d746ee03e73",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 1.7763568394002505e-15,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C14",
+      "worksheet": "C14_重新注释PC整体关联",
+      "rows": 12,
+      "columns": 9,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表23_重新注释PC整体关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/taxonomy_association_sensitivity.py"
+      ],
+      "archive_output": null,
+      "archive_output_sha256": null,
+      "direct_output_check": null,
+      "archived_input_scope": [
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity"
+      ],
+      "archive_provenance_notes": "Original electronic output absent as standalone TSV/JSON in archive; numeric targets preserved in the archived core workbook. Archived R06/R07 model matrices permit model refits; full raw-preparation script also expects external annotation completion and raw predictor files.",
+      "current_producer_script": [
+        "src/core/02b_refit_taxonomy_pc.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/refitted_taxonomy_pc_blocks.tsv",
+      "current_output_sha256": "ce64ba8e276bc28b6edb82eee4a2aea0fe551adc116da8d02c1463ce53f2fc51",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.547473508864641e-13,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "C15",
+      "worksheet": "C15_重新注释六属整体差异",
+      "rows": 2,
+      "columns": 13,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+      "archived_worksheet": "表24_重新注释六属整体差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/taxonomy_association_sensitivity.py"
+      ],
+      "archive_output": null,
+      "archive_output_sha256": null,
+      "direct_output_check": null,
+      "archived_input_scope": [
+        "data/archive/01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity"
+      ],
+      "archive_provenance_notes": "Original electronic output absent as standalone TSV/JSON in archive; numeric targets preserved in the archived core workbook. Archived R06/R07 model matrices permit model refits; full raw-preparation script also expects external annotation completion and raw predictor files.",
+      "current_producer_script": [
+        "src/core/02b_refit_taxonomy_pc.py",
+        "src/core/06_validate_core.py"
+      ],
+      "current_pipeline_entry": "scripts/run_core.py",
+      "current_output": "runs/core/refitted_taxonomy_pc_omnibus.tsv",
+      "current_output_sha256": "3c11389b5f774591547164570c71e1d5aefa522f8b5de483f8ad74578164c330",
+      "current_verification_report": "reports/core_verification.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 2.8421709430404007e-13,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "A01",
+      "worksheet": "A01_检出后相对丰度",
+      "rows": 12,
+      "columns": 14,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "A01_检出后相对丰度",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/03_joint_states_abundance.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/A01_检出后相对丰度.tsv",
+      "archive_output_sha256": "de34a592435a91cf0d5e0dca333d9c40a8d16adc90aaea57a47db0721c53a139",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/03_joint_states_abundance.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/A01_检出后相对丰度.tsv",
+      "current_output_sha256": "de34a592435a91cf0d5e0dca333d9c40a8d16adc90aaea57a47db0721c53a139",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "J01",
+      "worksheet": "J01_联合与菌科关联",
+      "rows": 16,
+      "columns": 15,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "J01_联合与菌科关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/03_joint_states_abundance.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/J01_联合与菌科关联.tsv",
+      "archive_output_sha256": "6be6b05ccd4997f135ce2b98fa7ab683e34747e73ee50ce39ece0119eec34475",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/03_joint_states_abundance.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/J01_联合与菌科关联.tsv",
+      "current_output_sha256": "6be6b05ccd4997f135ce2b98fa7ab683e34747e73ee50ce39ece0119eec34475",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 6.661338147750939e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "J02",
+      "worksheet": "J02_联合与菌科直接差异",
+      "rows": 8,
+      "columns": 11,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "J02_联合与菌科直接差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/03_joint_states_abundance.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/J02_联合与菌科直接差异.tsv",
+      "archive_output_sha256": "1314c4131a28ffa763cd54eaf821177a946b4df7a91bbd05ae63b506b7f8286b",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/03_joint_states_abundance.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/J02_联合与菌科直接差异.tsv",
+      "current_output_sha256": "1314c4131a28ffa763cd54eaf821177a946b4df7a91bbd05ae63b506b7f8286b",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "J03",
+      "worksheet": "J03_联合整体差异",
+      "rows": 4,
+      "columns": 5,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "J03_联合整体差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/03_joint_states_abundance.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/J03_联合整体差异.tsv",
+      "archive_output_sha256": "a3cbcaba4f3d16469f3e1570762a0af5ffbe12c98d573f9bccb0866b5eb0db14",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/03_joint_states_abundance.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/J03_联合整体差异.tsv",
+      "current_output_sha256": "a3cbcaba4f3d16469f3e1570762a0af5ffbe12c98d573f9bccb0866b5eb0db14",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 7.105427357601002e-15,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "L01",
+      "worksheet": "L01_同人检出变化全部规格",
+      "rows": 30,
+      "columns": 15,
+      "section": "6 同人重复采样",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "L01_同人检出变化全部规格",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/04_within_person.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/L01_同人检出变化全部规格.tsv",
+      "archive_output_sha256": "33781b8d5e65a86406918d3221f1576f5c7fe19162af6533fdc16ffd3cde713f",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/04_within_person.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/L01_同人检出变化全部规格.tsv",
+      "current_output_sha256": "33781b8d5e65a86406918d3221f1576f5c7fe19162af6533fdc16ffd3cde713f",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 8.881784197001252e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "P01",
+      "worksheet": "P01_广泛饮食调整全部关联",
+      "rows": 48,
+      "columns": 15,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "P01_广泛饮食调整全部关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/02_统计输入/饮食预处理/02_diet_core_pretest.py"
+      ],
+      "archive_output": "data/archive/02_统计输入/饮食预处理/更广泛饮食调整_全部六配对模型.tsv",
+      "archive_output_sha256": "e04ef890da023157042c3fa3e5ebd2a99570521e0215041256a1fa23a2250c36",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv",
+        "data/archive/02_统计输入/六份源数据/food_exposure_matrix_stool.tsv",
+        "data/archive/02_统计输入/六份源数据/vioscreen_micromacro.tsv"
+      ],
+      "archive_provenance_notes": "Refits eight prespecified diet-adjustment specifications; food/nutrient PCA scores must be regenerated for end-to-end reproduction.",
+      "current_producer_script": [
+        "src/deepening/00b_diet_pca.py",
+        "scripts/run_deepening.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/P01_广泛饮食调整全部关联.tsv",
+      "current_output_sha256": "e04ef890da023157042c3fa3e5ebd2a99570521e0215041256a1fa23a2250c36",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 6.661338147750939e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "P02",
+      "worksheet": "P02_广泛饮食调整全部差异",
+      "rows": 24,
+      "columns": 10,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "P02_广泛饮食调整全部差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/02_统计输入/饮食预处理/02_diet_core_pretest.py"
+      ],
+      "archive_output": "data/archive/02_统计输入/饮食预处理/更广泛饮食调整_全部属间差异.tsv",
+      "archive_output_sha256": "1a9c500bb12de6241d157e0daff42c645102bcbd84b1ff089294c96d247470f0",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv",
+        "data/archive/02_统计输入/六份源数据/food_exposure_matrix_stool.tsv",
+        "data/archive/02_统计输入/六份源数据/vioscreen_micromacro.tsv"
+      ],
+      "archive_provenance_notes": "Refits eight prespecified diet-adjustment specifications; food/nutrient PCA scores must be regenerated for end-to-end reproduction.",
+      "current_producer_script": [
+        "src/deepening/00b_diet_pca.py",
+        "scripts/run_deepening.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/P02_广泛饮食调整全部差异.tsv",
+      "current_output_sha256": "1a9c500bb12de6241d157e0daff42c645102bcbd84b1ff089294c96d247470f0",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 1.1102230246251565e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "R01",
+      "worksheet": "R01_核心关联全部配套复核",
+      "rows": 72,
+      "columns": 14,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "R01_核心关联全部配套复核",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/06_core_robustness.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/R01_核心关联全部配套复核.tsv",
+      "archive_output_sha256": "ee4631d3cb5dae63b7585437a09ac688e4dd4c6b5ac360cd6baa9378cb6bd728",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/06_core_robustness.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/R01_核心关联全部配套复核.tsv",
+      "current_output_sha256": "ee4631d3cb5dae63b7585437a09ac688e4dd4c6b5ac360cd6baa9378cb6bd728",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 8.881784197001252e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "R02",
+      "worksheet": "R02_核心差异全部配套复核",
+      "rows": 36,
+      "columns": 11,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "R02_核心差异全部配套复核",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/06_core_robustness.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/R02_核心差异全部配套复核.tsv",
+      "archive_output_sha256": "3ab479d9d9e6afd14cdfd1ca5314d4a6d403c57ef180e2c248e67b39cef640fc",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/06_core_robustness.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/R02_核心差异全部配套复核.tsv",
+      "current_output_sha256": "3ab479d9d9e6afd14cdfd1ca5314d4a6d403c57ef180e2c248e67b39cef640fc",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 1.1102230246251565e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "R03",
+      "worksheet": "R03_性别背景交互",
+      "rows": 6,
+      "columns": 13,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "R03_性别背景交互",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/06_core_robustness.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/R03_性别背景交互.tsv",
+      "archive_output_sha256": "cacd46a35f499a506cf3fa2e263fad67fcee0a07f79c867ad7babb35d85b0eeb",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/06_core_robustness.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/R03_性别背景交互.tsv",
+      "current_output_sha256": "cacd46a35f499a506cf3fa2e263fad67fcee0a07f79c867ad7babb35d85b0eeb",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "R04",
+      "worksheet": "R04_BMI非缺失分层关联",
+      "rows": 12,
+      "columns": 13,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "R04_BMI非缺失分层关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/08_BMI_strata_resolution.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/R04_BMI非缺失分层关联.tsv",
+      "archive_output_sha256": "354db02ec8dad5cc9d5f59ddabb42eb4e84651e12daebde4dce42bb1516e62d6",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/08_BMI_strata_resolution.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/R04_BMI非缺失分层关联.tsv",
+      "current_output_sha256": "354db02ec8dad5cc9d5f59ddabb42eb4e84651e12daebde4dce42bb1516e62d6",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "R05",
+      "worksheet": "R05_BMI非缺失分层属间差异",
+      "rows": 6,
+      "columns": 11,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "R05_BMI非缺失分层属间差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/08_BMI_strata_resolution.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/R05_BMI非缺失分层属间差异.tsv",
+      "archive_output_sha256": "0329973eaaf569f28b55152eb821397fdc8ea9e3a5d5b3c4c457a0cc53bb31dd",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/08_BMI_strata_resolution.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/R05_BMI非缺失分层属间差异.tsv",
+      "current_output_sha256": "0329973eaaf569f28b55152eb821397fdc8ea9e3a5d5b3c4c457a0cc53bb31dd",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 2.220446049250313e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "S01",
+      "worksheet": "S01_四种检出状态直接比较",
+      "rows": 24,
+      "columns": 13,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "S01_四种检出状态直接比较",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/03_joint_states_abundance.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/S01_四种检出状态直接比较.tsv",
+      "archive_output_sha256": "311119cfa2b1d104cad702beb156fc71fea744b7214d1caecd7dcdc73cb86c0f",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/03_joint_states_abundance.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/S01_四种检出状态直接比较.tsv",
+      "current_output_sha256": "311119cfa2b1d104cad702beb156fc71fea744b7214d1caecd7dcdc73cb86c0f",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 6.661338147750939e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "S02",
+      "worksheet": "S02_四状态标准化概率",
+      "rows": 64,
+      "columns": 8,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "S02_四状态标准化概率",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/03_joint_states_abundance.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/S02_四状态标准化概率.tsv",
+      "archive_output_sha256": "d033633756f280288aec1a51933d54cbc67d785ec8e8fa035ec13c0bf4630e16",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/03_joint_states_abundance.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/S02_四状态标准化概率.tsv",
+      "current_output_sha256": "d033633756f280288aec1a51933d54cbc67d785ec8e8fa035ec13c0bf4630e16",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "S03",
+      "worksheet": "S03_多项模型诊断",
+      "rows": 8,
+      "columns": 6,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "S03_多项模型诊断",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/03_joint_states_abundance.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/S03_多项模型诊断.tsv",
+      "archive_output_sha256": "97b83ae38a2823477f919579cdbd3d65722208daf30e42a0c2596d48b5c4f1bf",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/03_joint_states_abundance.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/S03_多项模型诊断.tsv",
+      "current_output_sha256": "97b83ae38a2823477f919579cdbd3d65722208daf30e42a0c2596d48b5c4f1bf",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 0.0,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "V01",
+      "worksheet": "V01_ASV候选完整列表",
+      "rows": 11,
+      "columns": 6,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "V01_ASV候选完整列表",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/05_asv.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/V01_ASV候选完整列表.tsv",
+      "archive_output_sha256": "1a8e877fece0a1a84bcaf2dc224f06df8f54fc467bf0589ff6ee67afcc71bb80",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/05_asv.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/V01_ASV候选完整列表.tsv",
+      "current_output_sha256": "1a8e877fece0a1a84bcaf2dc224f06df8f54fc467bf0589ff6ee67afcc71bb80",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 0.0,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "V02",
+      "worksheet": "V02_ASV完整关联",
+      "rows": 26,
+      "columns": 16,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "V02_ASV完整关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/05_asv.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/V02_ASV完整关联.tsv",
+      "archive_output_sha256": "f58c469c826c7f4e8040ae53bde0c040127ffe42a18afd10640f48965a6232f1",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/05_asv.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/V02_ASV完整关联.tsv",
+      "current_output_sha256": "f58c469c826c7f4e8040ae53bde0c040127ffe42a18afd10640f48965a6232f1",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 6.661338147750939e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "V03",
+      "worksheet": "V03_背景ASV属间差异",
+      "rows": 7,
+      "columns": 10,
+      "section": "4 分类与序列复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "V03_背景ASV属间差异",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/03_饮食与菌群深化/复现代码/common.py",
+        "data/archive/03_饮食与菌群深化/复现代码/05_asv.py"
+      ],
+      "archive_output": "data/archive/03_饮食与菌群深化/完整分析结果/V03_背景ASV属间差异.tsv",
+      "archive_output_sha256": "be9ffc103eb9d8a8e079519a99009066aae087a221dc2497c93b78b88406f1ae",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Original archived implementation and frozen output are retained for provenance. Current migrated producers and execution status are listed separately.",
+      "current_producer_script": [
+        "src/deepening/05_asv.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/results/V03_背景ASV属间差异.tsv",
+      "current_output_sha256": "be9ffc103eb9d8a8e079519a99009066aae087a221dc2497c93b78b88406f1ae",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 1.1102230246251565e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "N01",
+      "worksheet": "N01_核心敏感性汇总",
+      "rows": 24,
+      "columns": 13,
+      "section": "4/5 分类、序列与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "N01_核心敏感性汇总",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/08_本轮方法复核/diversity/run_diversity_audit.py",
+        "data/archive/08_本轮方法复核/provenance/02_round_sensitivity.py",
+        "data/archive/08_本轮方法复核/bloom/run_bloom_sensitivity.py",
+        "data/archive/08_本轮方法复核/bloom/run_qc5000_sensitivity.py",
+        "data/archive/07_历史与诊断归档/整理记录/build_supplement_data.py"
+      ],
+      "archive_output": null,
+      "archive_output_sha256": null,
+      "direct_output_check": null,
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "Packaging of 24 rows: primary threshold 1; eight fixed scenarios, three backgrounds each. Packaging script does not fit models. Full 32-level round model is invalid and must not be substituted.",
+      "current_producer_script": [
+        "src/sensitivity/diversity/run_diversity_audit.py",
+        "src/sensitivity/provenance/02_round_sensitivity.py",
+        "src/sensitivity/bloom/run_bloom_sensitivity.py",
+        "src/sensitivity/bloom/run_qc5000_sensitivity.py",
+        "scripts/validate_sensitivity.py"
+      ],
+      "current_pipeline_entry": "scripts/run_sensitivity.py; scripts/validate_sensitivity.py",
+      "current_output": "runs/sensitivity/N01_regenerated_submission.tsv",
+      "current_output_sha256": "21d0214cd0007432b5d9d93c4294e170200be98d65b60464c35fa1de7c7ffde5",
+      "current_verification_report": "reports/sensitivity_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 5.082197683525802e-21,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "N02",
+      "worksheet": "N02_同人聚类复核",
+      "rows": 18,
+      "columns": 17,
+      "section": "6 同人重复采样",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+      "archived_worksheet": "N02_同人聚类复核",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/08_本轮方法复核/within_person/run_within_audit.py",
+        "data/archive/07_历史与诊断归档/整理记录/build_supplement_data.py"
+      ],
+      "archive_output": "data/archive/08_本轮方法复核/within_person/within_person_cluster_results.csv",
+      "archive_output_sha256": "ee4c39819fc5a63ce3e5c2bb35165338d2a8ab7d1d0b86f417d594f34cd452f4",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": false,
+        "reason": "Workbook uses translated headers/reordered columns/added explanatory columns; source imported by packaging script."
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "All 18 participant-clustered conditional-logit models; G/(G-1) correction, t(G-1). Workbook reorders/renames columns and adds explanation fields.",
+      "current_producer_script": [
+        "src/sensitivity/within_person/run_within_audit.py",
+        "scripts/validate_sensitivity.py"
+      ],
+      "current_pipeline_entry": "scripts/run_sensitivity.py; scripts/validate_sensitivity.py",
+      "current_output": "runs/sensitivity/N02_regenerated_submission.tsv",
+      "current_output_sha256": "8a345650e20d2aaf21f88cc667e13bcd20b35316f8954e39c488916ca3573f0f",
+      "current_verification_report": "reports/sensitivity_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "A02",
+      "worksheet": "A02_最高读数样本剔除复核",
+      "rows": 6,
+      "columns": 14,
+      "section": "3 饮食调整、共同背景与检出状态",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据4_性别直接比较与完整补检验.xlsx",
+      "archived_worksheet": "A02_最高读数样本剔除复核",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/04_性别与高读数复核/复现代码/common.py",
+        "data/archive/04_性别与高读数复核/复现代码/08_abundance_influence.py"
+      ],
+      "archive_output": "data/archive/04_性别与高读数复核/新增分析结果/A02_最高读数样本剔除复核.tsv",
+      "archive_output_sha256": "67ba5c8c1ec535cbc5dfc1f86d908f8f148b204e032fcb25f6381a8a86faf9bb",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/deepening/10_abundance_influence.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/sex_results/A02_最高读数样本剔除复核.tsv",
+      "current_output_sha256": "67ba5c8c1ec535cbc5dfc1f86d908f8f148b204e032fcb25f6381a8a86faf9bb",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 4.440892098500626e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "H01",
+      "worksheet": "H01_性别内目标属关联",
+      "rows": 96,
+      "columns": 13,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据4_性别直接比较与完整补检验.xlsx",
+      "archived_worksheet": "H01_性别内目标属关联",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/04_性别与高读数复核/复现代码/common.py",
+        "data/archive/04_性别与高读数复核/复现代码/02_sex_contrasts.py"
+      ],
+      "archive_output": "data/archive/04_性别与高读数复核/新增分析结果/H01_性别内目标属关联.tsv",
+      "archive_output_sha256": "9d6242cf6b21ed694e0c659a6c0738d7cf0f12b56bf2d65a8f65872ad2c88d29",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/deepening/09_sex_contrasts.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/sex_results/H01_性别内目标属关联.tsv",
+      "current_output_sha256": "9d6242cf6b21ed694e0c659a6c0738d7cf0f12b56bf2d65a8f65872ad2c88d29",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 6.661338147750939e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "H02",
+      "worksheet": "H02_属间差异及性别直接比较",
+      "rows": 72,
+      "columns": 13,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据4_性别直接比较与完整补检验.xlsx",
+      "archived_worksheet": "H02_属间差异及性别直接比较",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/04_性别与高读数复核/复现代码/common.py",
+        "data/archive/04_性别与高读数复核/复现代码/02_sex_contrasts.py"
+      ],
+      "archive_output": "data/archive/04_性别与高读数复核/新增分析结果/H02_属间差异及性别直接比较.tsv",
+      "archive_output_sha256": "794df8dada79d510bc01fe6055767a5459dcc27e8ea190a0f234b4a949f7b646",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/deepening/09_sex_contrasts.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/sex_results/H02_属间差异及性别直接比较.tsv",
+      "current_output_sha256": "794df8dada79d510bc01fe6055767a5459dcc27e8ea190a0f234b4a949f7b646",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 8.881784197001252e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "H03",
+      "worksheet": "H03_原性别交互复核",
+      "rows": 48,
+      "columns": 15,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据4_性别直接比较与完整补检验.xlsx",
+      "archived_worksheet": "H03_原性别交互复核",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/04_性别与高读数复核/复现代码/common.py",
+        "data/archive/04_性别与高读数复核/复现代码/02_sex_contrasts.py"
+      ],
+      "archive_output": "data/archive/04_性别与高读数复核/新增分析结果/H03_原性别交互复核.tsv",
+      "archive_output_sha256": "92f9d14f80cc4f3fe2bc0a309a0596ff8312abff8994c1cd87b867bec0da5054",
+      "direct_output_check": {
+        "equal_rows": true,
+        "equal_cells": true
+      },
+      "archived_input_scope": [
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_target_counts.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_standardized_clr.tsv"
+      ],
+      "archive_provenance_notes": "",
+      "current_producer_script": [
+        "src/deepening/09_sex_contrasts.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/sex_results/H03_原性别交互复核.tsv",
+      "current_output_sha256": "92f9d14f80cc4f3fe2bc0a309a0596ff8312abff8994c1cd87b867bec0da5054",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 6.661338147750939e-16,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    },
+    {
+      "code": "M01",
+      "worksheet": "M01_额外协变量可用性",
+      "rows": 21,
+      "columns": 5,
+      "section": "5 人群分层与模型设定复核",
+      "archived_workbook": "data/archive/10_本轮精简与历史材料/原补充数据/补充数据4_性别直接比较与完整补检验.xlsx",
+      "archived_worksheet": "M01_额外协变量可用性",
+      "archived_workbook_cells_match": true,
+      "archived_producer_scripts": [
+        "data/archive/04_性别与高读数复核/复现代码/01_intake_audit.py"
+      ],
+      "archive_output": "data/archive/04_性别与高读数复核/新增分析结果/M01_额外协变量可用性.json",
+      "archive_output_sha256": "f6356161013ed71349d56a71a7db54a5eeb548c82783f324fc4bf237db337ce2",
+      "direct_output_check": null,
+      "archived_input_scope": [
+        "data/archive/02_统计输入/六份源数据/sample_information_10317_matched_4168.tsv",
+        "data/archive/02_统计输入/冻结统计输入/association_covariate_design.tsv"
+      ],
+      "archive_provenance_notes": "Workbook is a 21-row flattened availability summary of five fields, not an inferential model.",
+      "current_producer_script": [
+        "src/deepening/00c_metadata.py",
+        "src/deepening/validate_deepening.py"
+      ],
+      "current_pipeline_entry": "scripts/run_deepening.py",
+      "current_output": "runs/deepening/sex_results/M01_额外协变量可用性.tsv",
+      "current_output_sha256": "be8f28d0fb8b50b3af5741071e08c868a424a593ed0e4372bd2f7c707397f6f4",
+      "current_verification_report": "reports/deepening_validation.json",
+      "current_status": "PASS",
+      "current_max_absolute_error": 0.0,
+      "current_scope": "Recomputed locally and compared with the submitted worksheet. Supplied processed source tables and taxonomy labels are inputs; FASTQ processing and SINTAX classification were not rerun."
+    }
+  ],
+  "excluded_historical_scope": "The 40 retained submitted sheets are mapped and their current validation reports pass. Unsubmitted historical prediction, daily-cohort and external-availability branches are outside this current 40-sheet claim.",
+  "validation_scope": "All 40 submitted result worksheets were regenerated and validated locally from supplied processed source tables and annotation inputs. No FASTQ processing or new SINTAX classification is claimed."
+}

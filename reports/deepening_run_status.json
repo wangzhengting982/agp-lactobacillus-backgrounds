@@ -1,0 +1,80 @@
+[
+  {
+    "stage": "00a_inventory",
+    "seconds": 17.438,
+    "exit_code": 0,
+    "log": "runs\\deepening\\00a_inventory.log"
+  },
+  {
+    "stage": "00b_diet_pca",
+    "seconds": 5.418,
+    "exit_code": 0,
+    "log": "runs\\deepening\\00b_diet_pca.log"
+  },
+  {
+    "stage": "00c_metadata",
+    "seconds": 3.395,
+    "exit_code": 0,
+    "log": "runs\\deepening\\00c_metadata.log"
+  },
+  {
+    "stage": "01_prepare",
+    "seconds": 5.673,
+    "exit_code": 0,
+    "log": "runs\\deepening\\01_prepare.log"
+  },
+  {
+    "stage": "02_diet_interactions",
+    "seconds": 3.583,
+    "exit_code": 0,
+    "log": "runs\\deepening\\02_diet_interactions.log"
+  },
+  {
+    "stage": "03_joint_states_abundance",
+    "seconds": 3.195,
+    "exit_code": 0,
+    "log": "runs\\deepening\\03_joint_states_abundance.log"
+  },
+  {
+    "stage": "04_within_person",
+    "seconds": 9.333,
+    "exit_code": 0,
+    "log": "runs\\deepening\\04_within_person.log"
+  },
+  {
+    "stage": "05_asv",
+    "seconds": 3.746,
+    "exit_code": 0,
+    "log": "runs\\deepening\\05_asv.log"
+  },
+  {
+    "stage": "06_core_robustness",
+    "seconds": 6.642,
+    "exit_code": 0,
+    "log": "runs\\deepening\\06_core_robustness.log"
+  },
+  {
+    "stage": "07_verify_statistics",
+    "seconds": 2.828,
+    "exit_code": 0,
+    "log": "runs\\deepening\\07_verify_statistics.log"
+  },
+  {
+    "stage": "08_BMI_strata_resolution",
+    "seconds": 2.651,
+    "exit_code": 0,
+    "log": "runs\\deepening\\08_BMI_strata_resolution.log"
+  },
+  {
+    "stage": "09_sex_contrasts",
+    "seconds": 5.315,
+    "exit_code": 0,
+    "log": "runs\\deepening\\09_sex_contrasts.log"
+  },
+  {
+    "stage": "10_abundance_influence",
+    "seconds": 2.528,
+    "exit_code": 0,
+    "log": "runs\\deepening\\10_abundance_influence.log"
+  }
+]

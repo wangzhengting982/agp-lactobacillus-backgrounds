@@ -1,0 +1,3026 @@
+[
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "00_拆分归档说明.txt",
+    "bytes": 1726,
+    "sha256": "65e4af9745b48152d85f446016029fefd3a77f0edc7287a4d5cbacd36af42b78"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "02_统计输入/六份源数据/food_exposure_matrix_stool.tsv",
+    "bytes": 99197659,
+    "sha256": "7477a1078fd538f4101e83d2739cc722f51d74cafd2f0046bf359e0caed0cd17"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "02_统计输入/六份源数据/4168_annotated_feature_table.tsv",
+    "bytes": 43810561,
+    "sha256": "821c833bb0a084e231583e72c3b999051e133227f20ab65478a75416ae232bef"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "10_本轮精简与历史材料/精简前补充材料.docx",
+    "bytes": 355385,
+    "sha256": "f26f57bf343841d283f2f4cc48e59439126e69a73fc2c697a01939b327ce3dbe"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "02_统计输入/冻结统计输入/association_pc_scores.tsv",
+    "bytes": 586876,
+    "sha256": "220c2790210dc7dc4915579b82cad857edadf9502b155c71d9e7e3265e945905"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "02_统计输入/冻结统计输入/association_covariate_design.tsv",
+    "bytes": 870494,
+    "sha256": "b354447298a802273e81ac8d77e51dacc3ffafef89035e5488909fec9a39138e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/_diet12.pkl",
+    "bytes": 314889,
+    "sha256": "c01910a0b853cf3ea16dc8fcd23da0e24764abf05738c83baf61aadb8f5528c7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/R07_baseline_rebuilt_variables.tsv",
+    "bytes": 373130,
+    "sha256": "d3fe356577b34a7bb27d34befe16729c4198f66fe60d867f49efce37d5584d1b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_正式模型完整样本.tsv",
+    "bytes": 273652,
+    "sha256": "6e40c104a5c5c2f62163d418b265a85a7a30e817ed91eb346047d43e597badef"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/cohort_fields.tsv",
+    "bytes": 321757,
+    "sha256": "be5f0d3b1c479b8b0418d5e03a48ff756f97d3010f016596cf90559c8f6972d9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/association_models/single_genus_all_associations.tsv",
+    "bytes": 190628,
+    "sha256": "d30e693e5a6b8d89f34a89f60f21b2e094c7402802a802709242f9b3a261d42a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "10_本轮精简与历史材料/原补充数据/补充数据4_性别直接比较与完整补检验.xlsx",
+    "bytes": 46670,
+    "sha256": "0ef8bb034eb4960883f6135c2bb275a336be02ea5c0ac9c397b9ef044ae0d810"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图1_分析人群与乳酸菌检出.pdf",
+    "bytes": 35433,
+    "sha256": "acccded44d64b85271586b2fea461eb1fd2144faeed99fe310310d0af6d9fa39"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始工作簿/06_原有增补分析结果.xlsx",
+    "bytes": 34219,
+    "sha256": "09b566908e2f1645ed9957573f6f64e0574e67003c7ad08cf0225c190b7d91e3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_data__microbiome__Identify_swapped_samples__cv_probabilities.txt",
+    "bytes": 172981,
+    "sha256": "060334fd6676e37515b98d65d3c4df6405380e24113cd0f09d1d82be8a65d918"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/six_genus_counts.tsv",
+    "bytes": 172120,
+    "sha256": "58855f866a095fb0abbb8e90ebc40bc28ad74a7f921c5d4e7e2564271cecec65"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "文件索引与校验值.json",
+    "bytes": 81372,
+    "sha256": "70c53e2def68d989529dc2ba1fe3da228ea26053889c60fcca82eed6905dcb92"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/first_sample_ids.tsv",
+    "bytes": 54479,
+    "sha256": "403862c5253bdcff7958966b278f1bd4edf4ae108a649e2a6b0a3b40c965cfcd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/association_sample_ids.tsv",
+    "bytes": 46727,
+    "sha256": "ff203bff29c6934108ed915a0f6acda730d93e2442aa1b13bbbb3992378e5138"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_data__microbiome__Identify_swapped_samples__mislabeling.txt",
+    "bytes": 77892,
+    "sha256": "b2298dafd7e23780938e34a47cf6269465da2f7a95a516964dc61dc4b92b8f6c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/新增分析/表S22e_全部156背景属整体差异.tsv",
+    "bytes": 15287,
+    "sha256": "4fc01adf91345667e7b4a72e046c63ef21fd5b4933436e3f79dceabc7b29c267"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/external/audit_external.py",
+    "bytes": 13913,
+    "sha256": "37d2b44e5c4dff2dc2528f3f477a8594c7474e6b09ff7da0c1ff074d8c55664f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "07_历史与诊断归档/整理记录/历史包文件索引与归档去向.tsv",
+    "bytes": 17118,
+    "sha256": "bf5e85f2c0c56fa64cb2ecef226cbbc5652278ccbd6b97a42c4a3284ed6d54ba"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "09_主稿修订与图件/修订记录/01_论文正文.docx.changes.json",
+    "bytes": 22833,
+    "sha256": "b9bd1a22b85c0deb7a965522c80b63b6a9214bd4831e26db8ab795f3007198cd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/新增分析/表S22b_两背景全部属间比较.tsv",
+    "bytes": 13859,
+    "sha256": "a31ca92050ad3cb0a03b6bb2f0bd5587c56a8e7a3f4fd927b282a9e8e93fcfd3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/numeric_plot_audit.json",
+    "bytes": 38879,
+    "sha256": "9675d9d64966dfeb1d6c834ad93708cbc49d038a8149c96aaafcacd5ab820852"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/公开输入/DataDictionary_ITEMS.txt",
+    "bytes": 11768,
+    "sha256": "47c6119c50d8292bd035eb1bf661e64f9e5c867092bc1d6ae8dff7c77a2fefbc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/source_data/original_plotted_values.json",
+    "bytes": 29018,
+    "sha256": "ea77d4ed7e6cbae383eead28b19dc32664cc7118af99c40fa51bd9dd2e82b6cb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/external/Sauerkraut_selected_input.csv",
+    "bytes": 15736,
+    "sha256": "f6f2d9a070519eab27ff7ae3c99bbfa533b1cf83b0de3aa65bce6c79d70d1290"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/代码/02_taxonomy_trace.py",
+    "bytes": 7516,
+    "sha256": "7aac80e3a210a2c43d3d615e3549aa411ce497724d48c495c81b456c438a5dbc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/export_formal2760_comparison.py",
+    "bytes": 7807,
+    "sha256": "66810b7857734a764fbce4aeb83b22370c9532d65b0ff6e31e85cbacd31bdb44"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/结果与复算说明.txt",
+    "bytes": 5328,
+    "sha256": "a02aa6cde4d5491fcafa84b20f4857062efa96bfcc485b908ad755f2a12e15a8"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/references/SBDI_README_v207.txt",
+    "bytes": 5720,
+    "sha256": "e49a7b41d6c342211922c3e3d2c4fdf922b5359a3e8bfd84834f42ce3b495b01"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/D05_18项摄入背景交互及阈值复核.tsv",
+    "bytes": 7158,
+    "sha256": "df89b3418078539a5d5518a23f071946f4a91492a3862ef76ee01ac572d6e736"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/新增分析/分析与核验摘要.json",
+    "bytes": 10270,
+    "sha256": "5e154f538a831084db0aefe6c8797c0943820629959db35fe3dfeaae285a66fd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/L01_同人检出变化全部规格.tsv",
+    "bytes": 5866,
+    "sha256": "33781b8d5e65a86406918d3221f1576f5c7fe19162af6533fdc16ffd3cde713f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/all_model_results.tsv",
+    "bytes": 5664,
+    "sha256": "d214a165d0bdfce6c9240d921ce9c0df947beba66fed6f5e60ba39bd39272709"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "02_统计输入/饮食预处理/03_metadata_asv_audit.py",
+    "bytes": 4040,
+    "sha256": "bcdb57cf027ad580283f084094064262371c99fa87fec4c13c1f7d90ec03559a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "04_性别与高读数复核/复现代码/common.py",
+    "bytes": 3612,
+    "sha256": "b387defbbe83235da11313d9abbc6afd49c9b9dcbd6eeb7f37ed825ff4f54827"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/P02_广泛饮食调整全部差异.tsv",
+    "bytes": 4366,
+    "sha256": "1a9c500bb12de6241d157e0daff42c645102bcbd84b1ff089294c96d247470f0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_model_results.tsv",
+    "bytes": 4411,
+    "sha256": "f96870cb230e1c7be833a8b554f2c868c21e58b6d28fa27594b38f0e644b3c12"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/原分析代码/01_inspect.py",
+    "bytes": 3285,
+    "sha256": "9bc6b18e9538998c6d5106801bc136b4283e4205d246fdfa5951025970399c0c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "02_统计输入/饮食预处理/问卷跳题与ASV核查.json",
+    "bytes": 6808,
+    "sha256": "7e332d9ee098efbe2856e10958a4997862e4fae1accdcc47d7530c63d94c1f70"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/within_person/within_person_diagnostics.csv",
+    "bytes": 3681,
+    "sha256": "0bf360b697e3d1b95920b7e25accd393bf133f31c0e19d73db193b81a44c61bc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/新增分析/表S24g_重新注释15组整体模式比较.tsv",
+    "bytes": 3683,
+    "sha256": "999bec891af2030cd05723444f2bee26a37cd98dcd0259466d51df114e246654"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_结果说明.txt",
+    "bytes": 2254,
+    "sha256": "87f9aa064551bd64c77dff295356e2d1c1339a01313d6f0f3cfddc5b037223db"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/00_规范与审计/原始输入重建核验/source_rebuild_summary.json",
+    "bytes": 3232,
+    "sha256": "d01092ce22059a014d21edcbd415453fee45a16fa430837c952dc0289d12b506"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/复算说明.md",
+    "bytes": 2067,
+    "sha256": "a573fd0f2fceba3fd095c68aa6e4619a860ca70039c6e5d80030e9f5d2c27546"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "11_投稿格式修订_20261006/文稿修改/changes.json",
+    "bytes": 10601,
+    "sha256": "0260bf7c1ae23dc2e12e7ab0fdbb4ae2f90e65cf2a94e3b740de2df7f8ae7b85"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/D01_12项摄入定义.tsv",
+    "bytes": 7022,
+    "sha256": "c545755e8aab71585f45a6f3eb118c6ad53a2dedb918d3ac9587e1a69fca51fb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/panel_contract.json",
+    "bytes": 2450,
+    "sha256": "761ae86f5cd22104142af996248ef412bc610f450a29daf086e002fb50aba03c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/bloom_contrast_results.tsv",
+    "bytes": 2748,
+    "sha256": "fcab5d78c905f33a5ffe0938dbf4bd905e74786e3a7cf527b3a3fd0e105e4701"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/external/input_hashes.json",
+    "bytes": 2545,
+    "sha256": "91695b7eeaf8f97bf3a23387e879512665ca9c94a33bdf7fa1dcf64e6cd85083"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/原分析代码/06_robustness.py",
+    "bytes": 1791,
+    "sha256": "4f32efce1b85166559a9f63c85251a6a71b6c411df5a7a1dacbfc3f0816e1d79"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "06_当前绘图数据/图3a_调整后检出概率.tsv",
+    "bytes": 2435,
+    "sha256": "6e0e7e23d9a2200c2771410a5aa946c1683d9fae5ebee1ceea878c862170659b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/新增分析/模型数值诊断.tsv",
+    "bytes": 3723,
+    "sha256": "3631d2007119982718ffed5bd305d7dcfdba3e805180915ddd9f4cf8a6e22ef7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "07_历史与诊断归档/整理记录/新增表导入清单.json",
+    "bytes": 3271,
+    "sha256": "fbb420ab221f6c5cb1605a924d879cc64b02ceffaf7fe73135cb303c5eb4b63e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/diversity/independent_checks.tsv",
+    "bytes": 2036,
+    "sha256": "fc1acf2c2ab70064a8045d63cbf7199ff0c1d2932f5d76535707908e4475d745"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "06_当前绘图数据/图2a_全部15组属间比较.tsv",
+    "bytes": 1703,
+    "sha256": "90877a2a9330c913936155da5aad8e5ba912f46edf6490d1c2ea40701ba3e141"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/bloom_exact_sequence_hits.tsv",
+    "bytes": 2305,
+    "sha256": "7c8316b278f1eec760b28c10648e1351c2a854b169a37de6c867d171477c1b10"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/M01_额外协变量可用性.json",
+    "bytes": 2500,
+    "sha256": "f6356161013ed71349d56a71a7db54a5eeb548c82783f324fc4bf237db337ce2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/R03_性别背景交互.tsv",
+    "bytes": 1182,
+    "sha256": "cacd46a35f499a506cf3fa2e263fad67fcee0a07f79c867ad7babb35d85b0eeb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/R05_BMI非缺失分层属间差异.tsv",
+    "bytes": 1169,
+    "sha256": "0329973eaaf569f28b55152eb821397fdc8ea9e3a5d5b3c4c457a0cc53bb31dd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/sources/AGP_BLOOM_pinned.fasta",
+    "bytes": 2587,
+    "sha256": "18e0a6b012a1d6f2109b8f068ba5a78febf6c5111958933adb7341f6d57d43fd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "02_统计输入/饮食预处理/重点五菌属_ASV可行性.tsv",
+    "bytes": 1019,
+    "sha256": "b6b98f06396cd7cf647299df075cb85c1e2227ad6e75b13d73a61dfcc8d016d2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/V01_ASV候选完整列表.tsv",
+    "bytes": 1553,
+    "sha256": "1a8e877fece0a1a84bcaf2dc224f06df8f54fc467bf0589ff6ee67afcc71bb80"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/02_分类敏感性/run_taxonomy_validation.py",
+    "bytes": 1155,
+    "sha256": "a113620b204d56d9fab5c387b240afe70ecee9d6db14c91cc5012e10bc3de555"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/external/all_15_contrasts.csv",
+    "bytes": 3634,
+    "sha256": "a35e9c6adade72e51da375ffc9425fc908cd4b89ab5eae47c66ae6f5e84befd4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "07_历史与诊断归档/阅读说明.txt",
+    "bytes": 449,
+    "sha256": "f3bfa6728f8d9dde44072520c42cb7ac5f3a98cf32a426e55e5845c815db4dae"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/fig1_detection.csv",
+    "bytes": 779,
+    "sha256": "df30ad8eb56e4de079f090c0737d6843247f86b6b8f70e3805db12db460b68d4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/candidate_contributions.tsv",
+    "bytes": 570,
+    "sha256": "6fa9efb3fff41bc88069a9670a4b6eaab920085248d17ac85994da89d0fa69d9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_01_command.json",
+    "bytes": 727,
+    "sha256": "10008c416fd70a0dcbd570f3cd1e0b80dfdf37ea2d46aedab3d72ec3800de065"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_07_command.json",
+    "bytes": 727,
+    "sha256": "980094a4038a2e4a9499c5294a9f99621ebe619fa72e34ecf1ec6ca4b50bd000"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_06_command.json",
+    "bytes": 727,
+    "sha256": "35883f29b6b1cdbba1f1a4291ac49b440955f8408bf8406790502843c9039bfb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/provenance/bloom_pinned_source.json",
+    "bytes": 392,
+    "sha256": "7665824db9ad5a74ec4012bcbdc6a49477e50f22f0a2ab887b04488bf0f24453"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/external/cohort_feasibility.csv",
+    "bytes": 571,
+    "sha256": "dced1d586fc640336940fb86d034ceaf62bb9e0b9a1b26100d8f48a70e739499"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "01_核心统计/新增分析/表S22a_两背景整体差异.tsv",
+    "bytes": 343,
+    "sha256": "1964ccd99f8480ff69ca083d44c88ded9ce8710e1e0712961e17c5a60827148f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H08_ASV模型诊断.tsv",
+    "bytes": 628,
+    "sha256": "49221ddf32b5e5dd256bc496cf0777a4e32f3de418a64fffba2e4742c4a8217c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "08_本轮方法复核/bloom/composition_summary.tsv",
+    "bytes": 284,
+    "sha256": "7e2528ecc4a5059ae609cced44082289b34a4275c38b58bbad43d99f13ff067c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/D02_模型诊断.tsv",
+    "bytes": 236,
+    "sha256": "777899efb731e98894e5ae8baee1e3160b62618057edf5223c8020464729de51"
+  },
+  {
+    "zip": "06_分析代码与复现文件_01共06.zip",
+    "path": "05_既有逐日资料/拟合启动记录.json",
+    "bytes": 130,
+    "sha256": "f46e1ac26ec0127902fff0f17557faa9fd6ef1a21681485d0529bdbd6ea95a26"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "00_拆分归档说明.txt",
+    "bytes": 1726,
+    "sha256": "65e4af9745b48152d85f446016029fefd3a77f0edc7287a4d5cbacd36af42b78"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/六份源数据/4168_ASV_table.biom",
+    "bytes": 17752788,
+    "sha256": "19b4b67782b2a97194ec3352bd3ce36191bc1315f84ea4a12e7eff880a9c3272"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/新增分析/Oscillibacter_reads3_joint.npz",
+    "bytes": 2772656,
+    "sha256": "63f5a20ccb586d56132c3357c71876a1e75681417969d88b55e2c486b2f9a6ca"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/冻结统计输入/R07_all_asvs_genus_assignments.tsv",
+    "bytes": 8546319,
+    "sha256": "2e27998f70a2df723f9ad4fb85e6f11bbb460b88c5432b2e391cfd8a84c0ec64"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/六份源数据/sample_information_10317_matched_4168.tsv",
+    "bytes": 21478113,
+    "sha256": "f50f57243be1728eecd0e0bf5c75880c11c1a631cc5357f005bfdccd7aa59ded"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "10_本轮精简与历史材料/原补充数据/补充数据1_核心统计结果.xlsx",
+    "bytes": 552199,
+    "sha256": "13cb7c057e0439cc3c57df8f831d8ee6588c4397189bd2197fbb4738fb0a358f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/饮食预处理/nutrient_PC_得分_内部复现.tsv",
+    "bytes": 1127302,
+    "sha256": "17e06ba7a7546073866137a30ec066ea5fb06b022bae1af67c7a57680e82c6e9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/目标属筛选来源/first_sample_index.tsv",
+    "bytes": 544712,
+    "sha256": "d02bc113e0c75009d3cd56ac21f01a6050fc583cd4c6c679fd5fc0bc37072278"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/association_models/pc_joint_sandwich.npz",
+    "bytes": 247591,
+    "sha256": "c3186fede0262d1287b250453a2c6b1d3a6389ddc2da9db4b3e1dccf646fc8c7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/vector/图1_分析人群与乳酸菌检出.pdf",
+    "bytes": 277380,
+    "sha256": "3c0a2ebd415f938fc295671921843c13a725533c271314595922017c2d2ed136"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/公开输入/diet.taxonomy.txt",
+    "bytes": 1977136,
+    "sha256": "b281c12b29e0f4a664d6e8f839b47ed7540b0a9db96368d7380a99686b5aab02"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "10_本轮精简与历史材料/原补充数据/补充数据3_本轮深化分析完整结果.xlsx",
+    "bytes": 131281,
+    "sha256": "89a0eb7c2edf18f217863f127a99558c4efd8b931a8b8e6de57142932e75b97c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_相邻日_Lacticaseibacillus.tsv",
+    "bytes": 291627,
+    "sha256": "37b60ad4ebfb934a78ec7e0dc1ac160d4538e99745522441fcb18f952a831bec"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S6_全部936项背景关联.tsv",
+    "bytes": 187257,
+    "sha256": "d83b91de73b5684342b0c59b0645c56fddf47901d8bd250c847acd3067c75172"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始工作簿/06b_逐日队列新增结果.xlsx",
+    "bytes": 46407,
+    "sha256": "92c625adae5d0e1801210d163e99de122c8d04d9941e7c926a0babfb8fc538a6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/references/R06_genus_inventory.tsv",
+    "bytes": 101546,
+    "sha256": "98ee2be2494ce5e1e5435f83f9900d6dd7d6e20df0916896619e603e83506b2d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/source_rgb_pdf/图3_背景水平与检出及丰度.pdf",
+    "bytes": 32822,
+    "sha256": "9213eadaff44e42f5c299063c40478c3b94445f485579ee1438fd67073fb7cd9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "10_本轮精简与历史材料/旧根说明/全包文件索引与校验值.json",
+    "bytes": 89952,
+    "sha256": "a5d70149347d37b767f45957c4362740de9c843460ac9492d5fdfca74eed44d9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/冻结统计输入/association_target_counts.tsv",
+    "bytes": 113489,
+    "sha256": "2e0a20806b4bfb279bb205efcc5062225d33be034a19b132374da2fe4d8ca742"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R06/target_counts.tsv",
+    "bytes": 80570,
+    "sha256": "5038ecb29f2ead9c9c6c0846966a55872b2ad38c99a2dcb1dea09a5781afab6d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/原分析代码/07_deliver.py",
+    "bytes": 27270,
+    "sha256": "2d1110558a7175ed7a0a35a11347dcecb3a16966b5eaf8e2396f06ef568d34d7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/公开输入/food_map.txt",
+    "bytes": 96426,
+    "sha256": "2db347c0a545d6eb41ae731141529e205b4d123c15162ca2384fc1167222e7bf"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/rebuild_figures.py",
+    "bytes": 22080,
+    "sha256": "0cb30fbb5a6c1e107585d1b7413ab25aa066444d9176eb961a1ae7b8b22f5658"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S4_敏感性与地区模型增量.tsv",
+    "bytes": 19940,
+    "sha256": "9f3da1b2d0272d1461069f2fd5a711438358af258f3524d6676f08333004239a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/饮食预处理/饮食预检验汇总.json",
+    "bytes": 25959,
+    "sha256": "3418244717c086cdc4389c77c391467f723acfbdf96bdba5f50e465e09c269cc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H02_属间差异及性别直接比较.tsv",
+    "bytes": 13992,
+    "sha256": "794df8dada79d510bc01fe6055767a5459dcc27e8ea190a0f234b4a949f7b646"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/typography_audit.json",
+    "bytes": 59068,
+    "sha256": "67a8d8943cadffbd78576e08434c9789f56f2c7de1d63237fefd50a81f45fc7b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/R01_核心关联全部配套复核.tsv",
+    "bytes": 12764,
+    "sha256": "ee4631d3cb5dae63b7585437a09ac688e4dd4c6b5ac360cd6baa9378cb6bd728"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/provenance/03_collect_provenance.py",
+    "bytes": 10962,
+    "sha256": "5a52389e7baff80e669c5402d642f8b034233ad6ec4727c72200e08347566e99"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H03_原性别交互复核.tsv",
+    "bytes": 10010,
+    "sha256": "92f9d14f80cc4f3fe2bc0a309a0596ff8312abff8994c1cd87b867bec0da5054"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/within_person/run_within_audit.py",
+    "bytes": 8672,
+    "sha256": "95b46efed11d22b8ec0de50df771767287362804764db60ca32858770e99e224"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/P01_广泛饮食调整全部关联.tsv",
+    "bytes": 9265,
+    "sha256": "e04ef890da023157042c3fa3e5ebd2a99570521e0215041256a1fa23a2250c36"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/代码/01_genus_contrasts.py",
+    "bytes": 8460,
+    "sha256": "605d861a072428631e088d013786e8900aa71b895ea0345dcc421e4397720708"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/02_分类敏感性/README.md",
+    "bytes": 5428,
+    "sha256": "36cb8535eeb119dcdf07b1d43ac02a7bbbf16853e627f83ec79ca7ce83476498"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "11_投稿格式修订_20261006/文稿修改/validation.json",
+    "bytes": 15384,
+    "sha256": "9d02977cc9de186b3de27fa3fd1ae46c281d4f184f9eb090fce90d76c6986f17"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/拟合前固定分析方案.md",
+    "bytes": 4867,
+    "sha256": "7a25db38ca4c7a3786223db1081b098157be957435d7a44a77d6567bc5092a1e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/bloom/independent_review.txt",
+    "bytes": 4469,
+    "sha256": "1c12e2f5fdd3bc3f22502bd3d6ebe127935a6ccbcdf79ca9a0e02345990e66e1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S2_主模型性能.tsv",
+    "bytes": 6363,
+    "sha256": "5a8fc421ef8b6d42f1c4a6c8adda7604159c402d3e549517287d18382b6009f0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/diversity/结果与复算说明.txt",
+    "bytes": 4360,
+    "sha256": "eb3145461ebc035bfe329a9a4dcf8fae4005d2b292a1480bc10591626e46c0ed"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/V02_ASV完整关联.tsv",
+    "bytes": 5646,
+    "sha256": "f58c469c826c7f4e8040ae53bde0c040127ffe42a18afd10640f48965a6232f1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/within_person/independent_review_final.txt",
+    "bytes": 3074,
+    "sha256": "2da5eb0fbdffac2f68010957d8d6694f54b0653754fd5995acaf994a8f177ef3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/rendered_qa.json",
+    "bytes": 6643,
+    "sha256": "d77654769a6666a14f29a74029d76365d944f1f71b2fed3a266a4cbe3a44ddf2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/bloom/fixed_plan.txt",
+    "bytes": 2841,
+    "sha256": "c04f0be3bea1a0363e9f89fa08a6867f5ffd6089270010c22d6e63840210bb9c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/bloom/bloom_model_results.tsv",
+    "bytes": 4546,
+    "sha256": "3367be39d1d9515dfa75937ef43bf8886bbb62c1dbdff9bc30eff14512800e0f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/输入文件索引与哈希.json",
+    "bytes": 7539,
+    "sha256": "35229faf1178b977a504597af52a86869ec9f99d2677b9950fc6ce1e4a1cadfa"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/代码/05_key_difference_sensitivity.py",
+    "bytes": 3329,
+    "sha256": "27ce402d7e7ebcf44e6507e28135342715f7574420a1f7636b71c0db4972d39b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/external/taxonomy_mapping.csv",
+    "bytes": 22026,
+    "sha256": "f30f3ad34867e4b30dfb06271ee9a0f4f359a09d0a7ccfc98ebe7cca20f6ad7e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/07_verify_statistics.py",
+    "bytes": 2556,
+    "sha256": "f3e443b6640bb18ca74fef4d23856e98a5d2ba7f29e06b73601d9f7c5ffb8aaf"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "阅读说明.txt",
+    "bytes": 2467,
+    "sha256": "317acd2877f78a503677e995f5b79a946a05df46ea4e64e5c1e1b90d631c4f27"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/饮食预处理/全部源数据核查.json",
+    "bytes": 4003,
+    "sha256": "31540bf5fd0be90c1ef3d3a90c51951d00ceaf464eb61975259f2d8b9dad72ad"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_diagnostics.tsv",
+    "bytes": 3847,
+    "sha256": "ca003735d9dce8b17dba62eede05415b5dec86abe220acf32ba934a9cc1d684a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/04_within_person.py",
+    "bytes": 2215,
+    "sha256": "2693bb6baf3dbc9a75fe2ea9575ad095922da5802503e8351df7de3dfc1f1aec"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "04_性别与高读数复核/复现代码/01_intake_audit.py",
+    "bytes": 2093,
+    "sha256": "dcc76117c84aa242e1a673cb39a48b62c1aeb352edc9ccee28a8a316a92933b8"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "02_统计输入/饮食预处理/饮食与健康问卷_可用性.tsv",
+    "bytes": 4393,
+    "sha256": "b27d463d69844505025f84c5710c932d0c2b4c03446437f42b99d0dd1e09127a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "10_本轮精简与历史材料/旧根说明/阅读说明.txt",
+    "bytes": 1870,
+    "sha256": "bd126e1c457781e6ab9002b35665f6860e83f9e0c9aee084add80175cb0d3a29"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/within_person/analysis_plan.txt",
+    "bytes": 2105,
+    "sha256": "b0a8e051dd334b9a0071ea21bef365f135e7230f3d8cfdd11d145434af094d7a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/diversity/specification_comparison.tsv",
+    "bytes": 2031,
+    "sha256": "38c76d9268b4e5d5705b836cb6928744412bf54fc15101ed6e27700fa2430177"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/S18_调整后概率.tsv",
+    "bytes": 2476,
+    "sha256": "63702f8c0a0341da6fdb03f4a7c87806ac21c045f5f28788f59bfb9548ec7055"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/source_provenance.json",
+    "bytes": 2628,
+    "sha256": "d23e8a6f4677a5e00d6cbe205e5f5e15485befa95f1cd7e2e1df7c6e8636ee79"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/代码/03_taxonomy_PC_contrasts.py",
+    "bytes": 1382,
+    "sha256": "480ae402404115bb57440bd8a0e5f3c067fe18bac843774bf9f5d40edee2d404"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/external/Validation_selected_input.csv",
+    "bytes": 4582,
+    "sha256": "5390b665253313a84853ffc1edbcba343a0159c5bb1eddf152024a0eb86c8bdc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/diversity/run_metadata.json",
+    "bytes": 1586,
+    "sha256": "ddb4ac4be92262a66737adf9866ad3c8857ddff1117069617e376712d8d020d5"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunk_plan.json",
+    "bytes": 2659,
+    "sha256": "96bb4c7460b86fefa2fccaa7d927f6181e69409465ad58cca27b1cfebc10fbc5"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "06_当前绘图数据/图3b_检出者相对丰度.tsv",
+    "bytes": 1204,
+    "sha256": "b1455463ba104116387625092327772a94255939276c73a06aa5776a43917730"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_independent_checks.tsv",
+    "bytes": 1874,
+    "sha256": "c4b188e0c0d8c447e469bba9db0126e8cc23a87ae0d5daf2025bd7b90af0c830"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S13a_分类PC整体关联.tsv",
+    "bytes": 1240,
+    "sha256": "69d6041894a6bb9adadcb6e9f7feb409b125abf26a3a243dfb989761cdf9b637"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/provenance/reference_download_manifest.json",
+    "bytes": 1403,
+    "sha256": "71b83cc844995bf897a558989cb63422e9b16ba66b6cf581b0b9ebbcd064021f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/原分析代码/03_qmp_source.py",
+    "bytes": 685,
+    "sha256": "dac057df91722e2d333a7fbb6b17d5cb28f7c7a7f2a01f5eb560479c4f42b6f0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/external/all_30_associations.csv",
+    "bytes": 3268,
+    "sha256": "4f5ba480242f8d7abedc687be08854fcc8c7c1f634341caead51867366a7a79c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/bloom/standardization_units.tsv",
+    "bytes": 1005,
+    "sha256": "997c183da1313c2eadb527b61f92ca84c3bdfeac2cd3afb47e3da41454a5a7bc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S13b_分类跨属直接检验.tsv",
+    "bytes": 817,
+    "sha256": "6858674697857c30231f79de2dd9b6476ded0ea25b4d3992fbf590f540decb51"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "11_投稿格式修订_20261006/文稿修改/image_integration.json",
+    "bytes": 705,
+    "sha256": "ec9cbe4dc7c557b4dfe15de8070cdcbd5c9f1cbf5f3ffcee7b924dc52ab7ebdc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "06_当前绘图数据/图1_分析人群与乳酸菌检出_展示数据.tsv",
+    "bytes": 789,
+    "sha256": "adf0bc2919860a2ac4d4a02215d57f3723903a91ea091113c07e0454b828e7b3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/association_models/pc_direct_cross_genus_heterogeneity.json",
+    "bytes": 457,
+    "sha256": "21dd5d20876b951ee00cee88ec79ad966750acb375e0d569e57dddb5aeeefa43"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_07_command.json",
+    "bytes": 727,
+    "sha256": "f82ea5a5d8c9f5a89ddf005448730b949d970bb00b6bb08a005b665a9f0ca0fd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_04_command.json",
+    "bytes": 727,
+    "sha256": "39dca16ef853bd3652b675d080873bdf1c106340392e200f4f7a543a4b7adc2a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_05_command.json",
+    "bytes": 727,
+    "sha256": "bd701f17bb0e03e48359839f1665c0c166e97e649ab2274b517f8269ae5a16a2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/external/run_complete.json",
+    "bytes": 457,
+    "sha256": "115ae78bb4c6a945527592fb3cc47829628da53fa85fe5ea24340315af7e3046"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/external/verification.json",
+    "bytes": 370,
+    "sha256": "b0418cc0ae2df98359fb06e747b2904fea95f833689a40a7dbeed30231fea509"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/external/implementation_retry.json",
+    "bytes": 283,
+    "sha256": "10b24063ff87b5ff8519d0ca5eef735d7a553f222a15ec82545e2177b1a1f165"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/S03_多项模型诊断.tsv",
+    "bytes": 706,
+    "sha256": "97b83ae38a2823477f919579cdbd3d65722208daf30e42a0c2596d48b5c4f1bf"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "08_本轮方法复核/bloom/target_events.tsv",
+    "bytes": 440,
+    "sha256": "7f36a49bdec6b0f1dbee898fd27366ac9234d834b8966d98f6c6e01aca35ab3d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/完整模型结果/MCTS_目标读数分层覆盖.tsv",
+    "bytes": 373,
+    "sha256": "af40b34b16c2abf69f6b650332a35d7a87ea4bb728a47d3fab62ee36e111c4c1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/requirements.txt",
+    "bytes": 131,
+    "sha256": "e3f99838a95cb1f88bfb52c852f400b33fddffa41959ecc801011fdf1b8ee0f3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_02共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_lib__results_scripts__2_Recovery of dietary diversity from food__2_Figure2B__readme.txt",
+    "bytes": 50,
+    "sha256": "de83c24ed7633d5fa4211616abb26c869d8cc55a2475013fbcc0f040de2e0a40"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "00_拆分归档说明.txt",
+    "bytes": 1726,
+    "sha256": "65e4af9745b48152d85f446016029fefd3a77f0edc7287a4d5cbacd36af42b78"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/输入/05_输入数据/01_原始输入/4168_ASV_table.biom",
+    "bytes": 17752788,
+    "sha256": "19b4b67782b2a97194ec3352bd3ce36191bc1315f84ea4a12e7eff880a9c3272"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/新增分析/Oscillibacter_reads1_joint.npz",
+    "bytes": 2772263,
+    "sha256": "3fc607331dd8f61be981e0e94ddcbb98d017e1ee24116ff14593607b40bea077"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/R07_all_asvs_genus_assignments.tsv",
+    "bytes": 8546319,
+    "sha256": "2e27998f70a2df723f9ad4fb85e6f11bbb460b88c5432b2e391cfd8a84c0ec64"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/历史分析记录/第37版完整方法与结果_历史图号.pdf",
+    "bytes": 2146258,
+    "sha256": "ce69051371d3fabfe0396a5ab961bb3755f59d74404a1e625aacf4ad3a9e358b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "05_既有逐日资料/公开输入/BURST.tax.txt",
+    "bytes": 5787356,
+    "sha256": "ec58f4aa4e2b92aad75bf5b1b766c416e58aed81c01ebb31d8de1da52347f1cc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "02_统计输入/六份源数据/analysis_matrix_stool_base.tsv",
+    "bytes": 4600289,
+    "sha256": "240424039ca09db2611c59a6a0601fa3c277be06b22f25a5d39ee47c144964cb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/association_models/association_pc_scores.tsv",
+    "bytes": 586876,
+    "sha256": "220c2790210dc7dc4915579b82cad857edadf9502b155c71d9e7e3265e945905"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R07/covariate_design.tsv",
+    "bytes": 870398,
+    "sha256": "1f5766f25e233fa67c4bb3348338eb6825ca7b4b34c7a64166214a600320b18a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_data__diet__nutrition_totals.txt",
+    "bytes": 448374,
+    "sha256": "6abf502627e52de6904f22430eeefab6b00102d15b8cd3593def27049f8ffa60"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/color_profiles/Agfa_SWOP_Standard.icm",
+    "bytes": 218103,
+    "sha256": "48d1cfdccf06dabfecf0c2b535eacd8a5f49560f0182691cdd713b6389a30510"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/_all_core_clr.pkl",
+    "bytes": 176019,
+    "sha256": "29983a7b5d30bd8bd20d1b46bf593c8a7e5dd05c746919542f79c9c40c9b0464"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/_all_depth_family.pkl",
+    "bytes": 175941,
+    "sha256": "73e3e732b97ca996c9ca31068e984935549cdaae12d0e5746339621458114405"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/bloom_candidate_sample_burden.tsv",
+    "bytes": 140949,
+    "sha256": "1fe17ac6442a6aa5edbb8b2d112af99c59876b9b474c56640bd78d709590841f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/source_rgb_pdf/图2_属间比较与饮食调整.pdf",
+    "bytes": 51574,
+    "sha256": "da2271b72e9c564a021b504623e6ccf70117889d22df8ad259468c06627723c2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "02_统计输入/饮食预处理/food_PC_全部载荷.tsv",
+    "bytes": 82025,
+    "sha256": "dce43052602e56e902d0faed356b745dfc18fd76893de4dc0f99585562fffd57"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图3_背景水平与检出及丰度.pdf",
+    "bytes": 33021,
+    "sha256": "c321dcaf2bca08bb6f0f863058be703eb4c83bc1ab28b468c75e5e49dff4e6b0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "04_性别与高读数复核/数据与代码/原39_named_depth.tsv",
+    "bytes": 101978,
+    "sha256": "76bb73b9f04fb8a517948e6db403fb7c9812c194e99fd709da09172d222d965e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/新增分析/表S24b_重新注释候选ASV明细.tsv",
+    "bytes": 205425,
+    "sha256": "40e290154a40bcfbc0d28db52d6035aac3e7768568746c9361ebe74eca971d50"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/bloom/R07_filtered_target_counts.tsv",
+    "bytes": 80390,
+    "sha256": "eb9287dfc67a0fac6bf830d15b7aae52dfb5643cefdc14638bf7bd805db4befc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "02_统计输入/饮食预处理/全部问卷字段_可用性.tsv",
+    "bytes": 69712,
+    "sha256": "bdab3abe32b05f35f71b7b23af4e67e11dea8647939f7a0205692aa9c652cc4e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "05_既有逐日资料/公开输入/taxonomy_norm_map.txt",
+    "bytes": 68255,
+    "sha256": "411257b8afe913f7488c96afc4801f4eb2fb2b0776cdae206f804b860b40bd10"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/external/Johnson2019_selected_input.csv",
+    "bytes": 18568,
+    "sha256": "2e15057124d0adac2d3ac42115d791c6c7e64693ce4484c31f6a7db191664a3b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H01_性别内目标属关联.tsv",
+    "bytes": 17671,
+    "sha256": "9d6242cf6b21ed694e0c659a6c0738d7cf0f12b56bf2d65a8f65872ad2c88d29"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/整理记录/历史包逐文件迁移清单.json",
+    "bytes": 25210,
+    "sha256": "26ebfc484fb5b40da30e65e022a47269739295d05ec3196ddfd8b64caba2ca8e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图S1_摄入谱与共有背景关联.svg",
+    "bytes": 39032,
+    "sha256": "55aff86175ea8d45667f334dff399fc873dd3a7dbb6e55919d218dc837c37808"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "05_既有逐日资料/原分析代码/05_models.py",
+    "bytes": 13472,
+    "sha256": "7712861814e5b45ff1d517927207f76ce9e298f57e04bbccb644a7910dd858b9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/aggregate_full_asv_sintax.py",
+    "bytes": 12459,
+    "sha256": "c0462cd21deba8e147b1163a74855ab902c04277f0cdad44946f9563936daad0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "10_本轮精简与历史材料/正文引用修改.json",
+    "bytes": 19108,
+    "sha256": "7c9b590b725151336b5bde4d958ad5ee6798b90b89d654b7abc5050ed655a81f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/typography_audit.json",
+    "bytes": 46408,
+    "sha256": "e2f3f443889406777488a9b16ab1df7f9c2674f79a6dac45fb77c15e5090d2a5"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S8_外部模型性能.tsv",
+    "bytes": 13435,
+    "sha256": "2eb39c83281704678326d7353dbc6da418fdcbcda2859e6d28df6ac1b542bfcf"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/正式补充表文件索引.tsv",
+    "bytes": 9198,
+    "sha256": "a96eaa2195e3a2bc83916ea87475a5eb22decedf6ebd13cf5167a8361e4af3db"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/agp_core.py",
+    "bytes": 8154,
+    "sha256": "e7821d998ce1dd5d88bc5427a5a2258cebf343b38f4cc4b0ce12d736e47f5068"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "02_统计输入/饮食预处理/02_diet_core_pretest.py",
+    "bytes": 6676,
+    "sha256": "4fa49cac929a503268628a5c1dd5437cea599b6a6a899a7ac4b25188dd16376b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "04_性别与高读数复核/复现代码/02_sex_contrasts.py",
+    "bytes": 7064,
+    "sha256": "553feb5e216c0d934309cd108958e538a442f9c0619c0a52b82b109c7152a941"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "09_主稿修订与图件/修订记录/revise_main.py",
+    "bytes": 5780,
+    "sha256": "e5804943f4691a667936391d222ca4a205c42ccd8df9ccdeb7d2a0178cde5082"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/color_profiles/sRGB_IEC61966-2-1.icm",
+    "bytes": 3144,
+    "sha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/external/analysis_plan.md",
+    "bytes": 4614,
+    "sha256": "7258acc7086252bee4b345adda4f9affccaaa90576d0d756673b46f072ae2fc0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/S02_四状态标准化概率.tsv",
+    "bytes": 6552,
+    "sha256": "d033633756f280288aec1a51933d54cbc67d785ec8e8fa035ec13c0bf4630e16"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/references/SBDI_README.txt",
+    "bytes": 4328,
+    "sha256": "bfa3fb86968757853b72b26efaadc4f6d4f4012e449fbe84748f8f28b998ce3d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/round_independent_review.txt",
+    "bytes": 3409,
+    "sha256": "f132f79c5ad8e87e154eba2e6e1774f850836962488c4035e4fa9fa7464055f5"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/新增分析/表S24e_韦荣氏球菌属重新注释属间比较.tsv",
+    "bytes": 4629,
+    "sha256": "63af9c046bd81fe87d23929c7d611c39d1d3e311d2602a4251960ba933c71108"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/round_model_diagnostics.json",
+    "bytes": 12444,
+    "sha256": "64685e175280a77bcd2a793024fb860a0a36ca1ce7e67164c2339e0ce44c0feb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "00_本次整理说明.txt",
+    "bytes": 3271,
+    "sha256": "c4fe1b1dbaf545dd7daaa95bdf70ae6f529bbee4aadee24e58e1ae6ec766719c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/plan.md",
+    "bytes": 2770,
+    "sha256": "ac35289423c38bac1494f0427acbc193f20b8cce206d62ee52d2950b23416701"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/validate_exports.py",
+    "bytes": 3477,
+    "sha256": "1f738950dc8545c61e90a17104eaac571ab8d679ee78836d3b1aa5af1cef1a4b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S10_冻结评分GEE.tsv",
+    "bytes": 4849,
+    "sha256": "5e7c3f08804abc69c22afceab6b608476b1beadaab5bbfba469927bcb3ad0c29"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "09_主稿修订与图件/修订记录/上一轮整理说明.txt",
+    "bytes": 2752,
+    "sha256": "82f81c365b18b152f2ca958b79881527ee31d3d77877b4c2e89374ab089af2d4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/原始首样本索引重建说明.md",
+    "bytes": 2331,
+    "sha256": "d6d4e0d40e25619d9a9a98a4cbfcbe15c2b1f8e995521d8bad524626acd36437"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/新增分析/表S22d_两背景各属关联系数.tsv",
+    "bytes": 3127,
+    "sha256": "10e27b06adf1f8a41dd2b924f3f96c4abe448066490dd5c04836dd83139565a1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "02_统计输入/本轮全部统计输入清单.json",
+    "bytes": 3856,
+    "sha256": "b4967acd6fbab29aae9d8158e3fbe7e3eda34e0d30df887a6fc90c3b523f7a8e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "11_投稿格式修订_20261006/来源说明/阅读说明.txt",
+    "bytes": 2191,
+    "sha256": "6229f6781566a398f3e2fcdc9ee2437befea5b0572b1d8225071cde9493114c9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S14b_核心配对国家交互检验.tsv",
+    "bytes": 2574,
+    "sha256": "55bcbb787283802510cfe37e7a039be67a29ac370ed22524d8de746ebffe4035"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/references/参考库版本核对说明.md",
+    "bytes": 1571,
+    "sha256": "04ac1f1b9f3fdbfe76236ddf97d9e82814e0e8c85585072a6f9c1dc126a35a3d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/diversity/contrast_results.tsv",
+    "bytes": 2725,
+    "sha256": "38755be1712a02d89e1af8d27d5a392524b12eb62472636333e14449b55ebf6f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/08_BMI_strata_resolution.py",
+    "bytes": 1462,
+    "sha256": "e527c89de4379335e1059be401dcde3973f47d02363dab877796eb49b4db2aca"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/02_diet_interactions.py",
+    "bytes": 1804,
+    "sha256": "9af0f15496d7031864a2c0c3d778a10d11b32d18019b4953834eba28d7a59d34"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/bloom/describe_filter_depth.py",
+    "bytes": 1704,
+    "sha256": "e450c0fb985870c09188d45c94f434fe601b683d20ebf19fa2f7d6cb8c944fb2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "09_主稿修订与图件/修订记录/04_补充材料.docx.changes.json",
+    "bytes": 2103,
+    "sha256": "ab9aff630aca405857d2ad93617c35908305078241dc09e01853ded0270d07e3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/within_person/summary.json",
+    "bytes": 1893,
+    "sha256": "2adefe4c90b8092829f1e7426ab00d3b342ad17471ec22877ed298c4106e8af4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/新增分析/表S22c_全部15组主成分向量比较.tsv",
+    "bytes": 1763,
+    "sha256": "8049efbcfa0b3d7f17dc644d56d478ad18cf83b98eca5dd10c6729611c8b6b77"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/J02_联合与菌科直接差异.tsv",
+    "bytes": 1444,
+    "sha256": "1314c4131a28ffa763cd54eaf821177a946b4df7a91bbd05ae63b506b7f8286b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "09_主稿修订与图件/修订记录/embedding_audit.json",
+    "bytes": 2379,
+    "sha256": "0298a6670b38c05b07822950612aeadf2c481063301a1c30175279e3e1e2f003"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/A02_最高读数样本剔除复核.tsv",
+    "bytes": 1440,
+    "sha256": "67ba5c8c1ec535cbc5dfc1f86d908f8f148b204e032fcb25f6381a8a86faf9bb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/round_mapping_audit.json",
+    "bytes": 1259,
+    "sha256": "17d6817200ae37f37a2c72c164963ba3b476d43c6e0dc416df08947c3404ec9e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/新增分析/表S23_整体差异稳健性.tsv",
+    "bytes": 1208,
+    "sha256": "6f4c4940ccb5b7b2a943f569c9ee4c4b3d86a3767ebd119c3c9958c2baae6fbe"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/统计独立核验.json",
+    "bytes": 2629,
+    "sha256": "d3e94f25f8038218cf79d379fcae4018bd3c4be29de611d9c010f14f0fe04bd7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "05_既有逐日资料/完整模型结果/MCTS_非零检出GEE方法对照.tsv",
+    "bytes": 942,
+    "sha256": "2a5c2cf9b2f6f1a3ed3026baf4c13f15a3250830210e740b75371b2f09977165"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_validation_summary.json",
+    "bytes": 1212,
+    "sha256": "af46480bd459d0872ab7396df6c80a337310bd7d44d2e74d147775d0ae5ab832"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/references/reference_official_checksum_validation.json",
+    "bytes": 1637,
+    "sha256": "f6dd0ab5d544f2fcfc1e59e6b80063b8f86f9852b12e8b535da9d098af679e8f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_data__microbiome__Identify_swapped_samples__confusion_matrix.txt",
+    "bytes": 2954,
+    "sha256": "bfb39ce37d73d2f936dd80256543dccfac5ea4b0fb33e2c41866601f97c305af"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "06_当前绘图数据/图2c_饮食调整后的直接比较.tsv",
+    "bytes": 615,
+    "sha256": "5592462073194b435f80f023429f79e166327f05d6e84df1686f885cfcec7990"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S5a_PC整体关联.tsv",
+    "bytes": 609,
+    "sha256": "bb8f53089e589e361df0008ccdbdccb529c17e082192fb61dc934124370e07da"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/round_runtime.json",
+    "bytes": 423,
+    "sha256": "ca959f7d79ee4e3053ba5e603456b4979bdcfa5985ce8fd8acf24e27a21b9edd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/table_s1_columns.json",
+    "bytes": 3027,
+    "sha256": "b14147da02af25dd66041aff5c96b00dbb22733984a607efb8e53735d59d2b58"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_08_command.json",
+    "bytes": 727,
+    "sha256": "05b9b8fec17f60437425350f93130a1bbbb608f2d526278a790681ac748290e0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_06_command.json",
+    "bytes": 727,
+    "sha256": "ec8d184e5055b0dded8804a020596d056d0877c65355c5ec7012a0b35186e26e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/准备核验.json",
+    "bytes": 1012,
+    "sha256": "4b7ae8d842a326016585409d172376380741dec9f71968fb8c515c0c3daaaf8f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/bloom/filter_depth_description.json",
+    "bytes": 418,
+    "sha256": "d9e74646dad60ff54faf1b56df37c2fa08255dca8a314c12b049554c411da626"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_data__diet__raw_and_preprocessed_ASA24_data__lib__README_Soylent.txt",
+    "bytes": 310,
+    "sha256": "198cf1810dc80bb9343a6adea5a5c580ff26cbc66024ce6beb2020002f4e6669"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "02_统计输入/饮食预处理/核查结果.json",
+    "bytes": 379,
+    "sha256": "05b9e9d1802daefcd08e9f825250a20354cbb9e210c3dafb46a34bc9ca0d46af"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "08_本轮方法复核/bloom/completion_status.json",
+    "bytes": 308,
+    "sha256": "2e9469ba82132f3af7c7fd80b3ea222b5c35cc8918d020d8280c39c6a8af867b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/目标属筛选来源/六属筛选独立核验.json",
+    "bytes": 238,
+    "sha256": "d9258d996eec60d346d0b0c64b72c58b5f475fc0be9490630117b02faee6ef4b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_03共06.zip",
+    "path": "01_核心统计/requirements.txt",
+    "bytes": 122,
+    "sha256": "6cc16de2e8ac87d65bf423854ead4ca3ed3ea969f10526fc9dcc684fb9d56038"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "00_拆分归档说明.txt",
+    "bytes": 1726,
+    "sha256": "65e4af9745b48152d85f446016029fefd3a77f0edc7287a4d5cbacd36af42b78"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "02_统计输入/六份源数据/vioscreen_micromacro.tsv",
+    "bytes": 16178345,
+    "sha256": "f45971edf70bc9b6406290396ac3cb3ce21a91a4e55161e790c502860b5da941"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "02_统计输入/饮食预处理/_nutrient_primary.pkl",
+    "bytes": 4364271,
+    "sha256": "36d271eff5f1d58d49a215c444e1ebccc522a0f0c5a31022d6fb968fd91425db"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/asv_sequence_index.tsv",
+    "bytes": 11361395,
+    "sha256": "d1c804d706dbd66299c82fca4d2802e33bca4597d314a66e42961fec014b5857"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "05_既有逐日资料/公开输入/Items_to_use.txt",
+    "bytes": 6849404,
+    "sha256": "64539e59ca73075787576d5b3280a5f569e039a1b732c7996b4bc8aefc9b96a4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/补充数据1_核心统计结果.xlsx",
+    "bytes": 552199,
+    "sha256": "13cb7c057e0439cc3c57df8f831d8ee6588c4397189bd2197fbb4738fb0a358f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "02_统计输入/饮食预处理/food_PC_得分_内部复现.tsv",
+    "bytes": 1126988,
+    "sha256": "5c5bcbba1b891db050ad83459aaa219116e65da66da0d1d074a7ab86fc12c59c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "10_本轮精简与历史材料/图S1_摄入谱与共有背景关联.png",
+    "bytes": 361178,
+    "sha256": "bb3d91890e8ee416f46b75adc1a7a8d83a41891c753959bf70c9de6c12674f4c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/vector/图2_属间比较与饮食调整.pdf",
+    "bytes": 353764,
+    "sha256": "5f3dc607a719661486657a759cefb9905157c0ba2af42025801bbe8abd6da7e4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/vector/图3_背景水平与检出及丰度.pdf",
+    "bytes": 302535,
+    "sha256": "66f8c03bdc8832a69aa2c169c395f0a04e35a70d7176dfd988c721a644d534ee"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/新增分析/表S22f_全部2340项背景属系数比较.tsv",
+    "bytes": 585322,
+    "sha256": "106c441afd2ad3b7760665d498f6316ae1c03a181cc6f31afa8a2b63805084dd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/补充数据3_本轮深化分析完整结果.xlsx",
+    "bytes": 131281,
+    "sha256": "89a0eb7c2edf18f217863f127a99558c4efd8b931a8b8e6de57142932e75b97c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_样本与逐日分析变量.tsv",
+    "bytes": 225621,
+    "sha256": "b941a05685919f461bcacc8ee7e52d7db61ebd2769711b5c348a0680d92bea28"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "02_统计输入/冻结统计输入/single_genus_all_associations.tsv",
+    "bytes": 190628,
+    "sha256": "d30e693e5a6b8d89f34a89f60f21b2e094c7402802a802709242f9b3a261d42a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/references/R07_genus_inventory.tsv",
+    "bytes": 122888,
+    "sha256": "55fffc7268e2ce9030706d4821d4e88e2f0fcd8ce6ec111e4a225d6432c5c093"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "02_统计输入/饮食预处理/nutrient_PC_全部载荷.tsv",
+    "bytes": 83223,
+    "sha256": "9d6f3fefdf20e8fbc013b1b39dd9e159dbaf8001f05c781e7f4420006794ddcc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "全包文件索引与校验值.json",
+    "bytes": 99102,
+    "sha256": "c434b14826d13c9673377826ca523f1d50fdaa86e8890bbfe4dc6a8d7fccd3ac"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/来源说明/全包文件索引与校验值.json",
+    "bytes": 92516,
+    "sha256": "640d2329359b683c76898b3f7e360c63d7e34391a83a2689e9c015361e59ab23"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/association_models/association_target_counts.tsv",
+    "bytes": 113489,
+    "sha256": "2e0a20806b4bfb279bb205efcc5062225d33be034a19b132374da2fe4d8ca742"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/bloom/R07_baseline_target_counts.tsv",
+    "bytes": 80569,
+    "sha256": "ec685f22683c4e830d2221bd5c38a85626a215dbc50cfd2772466218b0256383"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/_additional_metadata.tsv",
+    "bytes": 87383,
+    "sha256": "fecb1fd4000bace1a45638ea302346b8cb609d5c55a41767efef5c26b069817f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "02_统计输入/饮食预处理/食物频次与摄入量_字段审计.tsv",
+    "bytes": 48215,
+    "sha256": "c8f37854e75490c9640fc691c99433587fc5fff5f7bb5969b0e5dbedbb78b6fa"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/整理记录/build_supplement_data.py",
+    "bytes": 21300,
+    "sha256": "45ee556b073bda481ddc41862090f34fe08b0ba24476b4aeaf58ef732d36d16c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "02_统计输入/饮食预处理/营养指标_字段审计.tsv",
+    "bytes": 21207,
+    "sha256": "834054cbe4714e21779af722e0c9f9238a61f1e001695b591e53ff27b0f885b6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/vector/图3_背景水平与检出及丰度.svg",
+    "bytes": 51692,
+    "sha256": "56f54627716a742dc1243eaf22938a979a76c9be1becc3cf0f9c7a03ad263460"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/D02_全部72项摄入关联.tsv",
+    "bytes": 13048,
+    "sha256": "99f05a99e2cbad23618e22a880fbd049e484aa95fc936dba9dfd2f8eac273c38"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图2_属间比较与饮食调整.svg",
+    "bytes": 34631,
+    "sha256": "27e0b8616c2f3e723fbc724172ef7424885acf9efccefd1730d0d1c4e82962c2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/新增分析/936原模型逐项重现.tsv",
+    "bytes": 54842,
+    "sha256": "5cdc585b03ed4504f89c5e953644f5c717106c5abe18b57f768bc062bc28554e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/vector/图1_分析人群与乳酸菌检出.svg",
+    "bytes": 26663,
+    "sha256": "9168f901d7d1285894f0c799d452692c54d5e26fe7f2f308e771c37970737202"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/association_models/fit_associations.py",
+    "bytes": 10846,
+    "sha256": "1c05c157e4e2196c851bab55a0fdfdf93baa8baa0bbb2f5461e8a107a1ec70eb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/source_data/plot_tables.json",
+    "bytes": 21177,
+    "sha256": "9a696ba28a9233fc9bd6eb136e87c1c1c99a32ce11f6f18d94458c7530c0fff6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S14a_核心配对总体与国家分层.tsv",
+    "bytes": 9549,
+    "sha256": "3d703db74d26f42062cef46dbdbb34e15687584578490c2999243c2e180764e3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/01_intake.py",
+    "bytes": 7418,
+    "sha256": "bf23e588bc3bf21331e0489fd6b8b12c6b5360f069736b28882215ad5b1e71b7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/run_full_asv_sintax.py",
+    "bytes": 7828,
+    "sha256": "f2b75dd70f6a362998e1fbb7a0f461d2da5882b10d453c5058d4c4c287ceba39"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "05_既有逐日资料/公开输入/clean_taxonomy.R",
+    "bytes": 12992,
+    "sha256": "fbb83fc05cc5db92117bcdb95935bec7a69e429493d2808639dc3dd7d2cacc30"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S7_三类摄入关联.tsv",
+    "bytes": 6471,
+    "sha256": "52f2f36df854fa6fe24335a7b9a416c1cc1221759eaffd01ed3790c155722a50"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/分析范围与执行顺序.md",
+    "bytes": 4789,
+    "sha256": "5c30f74913208cd883010e66d93d6b45994b45d1d6b61b5e0d5bb6c5d5584f9f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/within_person/within_person_cluster_results.csv",
+    "bytes": 6227,
+    "sha256": "ee4c39819fc5a63ce3e5c2bb35165338d2a8ab7d1d0b86f417d594f34cd452f4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/03_joint_states_abundance.py",
+    "bytes": 5475,
+    "sha256": "a647ae85ffbf5ddfb3eb45e6fe5b2f7555f6a8d70c5b0dba4b21f169134a5020"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/association_models/README.md",
+    "bytes": 3940,
+    "sha256": "6119ea6c17bd902f68667adbcc0d719c32ea0d84c0d6030bd6770a73073e1b35"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S1_变量定义.tsv",
+    "bytes": 3735,
+    "sha256": "ea5eaebf057c4ff1aa3182aebc9bfe3c4487f9ffdaa23b5839ca7f2d7ffca20c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/common.py",
+    "bytes": 3423,
+    "sha256": "63f768169a50ed894e27408ed919c0a5357687af7a64067d6adec3d036b858c0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/diversity/model_results.tsv",
+    "bytes": 4508,
+    "sha256": "fc96f8a56cf62902d9e0a7491a1eb8526264514a0cb535bfd1b3decda65fa73b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "09_主稿修订与图件/修订记录/final_text_review.txt",
+    "bytes": 2844,
+    "sha256": "19d2675a961c878535fd865bda57ae62882bca15ae1ca8d03f0b4a75e5077ac7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/README.txt",
+    "bytes": 2560,
+    "sha256": "0c016c0237a9a4ee4a6458675df5da3d4956160b797d34f2fc3411f8a0d1c471"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/bloom/model_diagnostics.tsv",
+    "bytes": 4933,
+    "sha256": "fb13dce12b63bc6e0666c7ef0566d77c8b1c301361f2bef8c42a864c485ff2e8"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/external/HMP2_selected_input.csv",
+    "bytes": 5380,
+    "sha256": "d4efa9a318e36739e9b29460a6fb4395c46251850a5a18263b524b982795ae4e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/整理记录/补充数据整理验证.json",
+    "bytes": 4519,
+    "sha256": "a619f8d2fb6f229e11c422ac3be3116084301001fa542279e10edf37ffefc921"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "04_性别与高读数复核/分析范围与判定规则.md",
+    "bytes": 2365,
+    "sha256": "9eb906b5d8597041791c3e2d0a5d3db80ffe48cb1b17994a10fdac14d0ec4798"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/J01_联合与菌科关联.tsv",
+    "bytes": 3272,
+    "sha256": "6be6b05ccd4997f135ce2b98fa7ab683e34747e73ee50ce39ece0119eec34475"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/新增分析/表S24h_三项突出差异的阈值与分类复核.tsv",
+    "bytes": 3569,
+    "sha256": "370e505cc0622845fc15823860895ed418ba5afbb2bd50099fbf38ffc86f7078"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "04_性别与高读数复核/复现代码/08_abundance_influence.py",
+    "bytes": 1935,
+    "sha256": "dbe600be57cf15e0ea4c943f019a4e51fd66c5cf22e75ebb277ff3e54ef47684"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/05_asv.py",
+    "bytes": 2401,
+    "sha256": "1a85121b2721ff143a5f9a5e693aaa6b13e78dcb527d14cf9b5318728514cff2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/bloom/input_hashes.tsv",
+    "bytes": 2550,
+    "sha256": "ecf258c15964cf4a4ae79f269a557757b1d0c4dcc7bc70ac96ace4281380829e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/A01_检出后相对丰度.tsv",
+    "bytes": 2328,
+    "sha256": "de34a592435a91cf0d5e0dca333d9c40a8d16adc90aaea57a47db0721c53a139"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/复现说明.txt",
+    "bytes": 1445,
+    "sha256": "d8a6e9db584edcd152aa6c78fb5051ea1d41a368ccc2653ff2e4eb6d347ea4d7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/R04_BMI非缺失分层关联.tsv",
+    "bytes": 2287,
+    "sha256": "354db02ec8dad5cc9d5f59ddabb42eb4e84651e12daebde4dce42bb1516e62d6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S12_分类预测敏感性.tsv",
+    "bytes": 1968,
+    "sha256": "be2a82207382a6f9c2b02406c9f6a2720eec7a987e19755fdcecf1046734cc22"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/external/verify_external.py",
+    "bytes": 2314,
+    "sha256": "d3303e3f484ee1c963d37dec484df7e7937042a484ee6b406c6b782a8e833e7b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/README.md",
+    "bytes": 1296,
+    "sha256": "740139bc2ee436197f4211a33cd94e92b8c682222cf0a302f6e808f4bb02bdc1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_input_hashes.tsv",
+    "bytes": 1690,
+    "sha256": "e2d82edf35338d3fa6fcedb8d82d19cedeecb0efa0cb3d1aa3c4b443d6ca92cc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/within_person/run_started.json",
+    "bytes": 1370,
+    "sha256": "c419974d1db1066e53c3a9e3c6889c4fe9eef78f3ffc3a8e0b5b70e3fbe649f4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "05_既有逐日资料/原分析代码/06b_method_check.py",
+    "bytes": 1132,
+    "sha256": "29234f53dd5f4a49371b2821b6978d72d3de55bf424d948363568e847da086c0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/diversity/input_hashes.tsv",
+    "bytes": 1129,
+    "sha256": "84808fd4457e77c5162aacf9aa9cb746ab00e205d7d2cff3558adab415a1d42e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/统计与投递核验摘要.json",
+    "bytes": 1159,
+    "sha256": "782ab5141379832f9c9b3caaad84467ca932f6e3480aaaffd14227d68fa28167"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/目标属筛选来源/阅读说明.md",
+    "bytes": 819,
+    "sha256": "6340986ab0296a077813692a59aab094e617ad91ac085fab961021bf9b18a361"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/pdf_color_audit.json",
+    "bytes": 2078,
+    "sha256": "089b791b8a4433f7acedd4eadc06dc4961a4a53cb81d6ca8c752c8272acfbb42"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/round_design_columns.json",
+    "bytes": 7394,
+    "sha256": "2ea61bb46503c2ea771f590d997ea304e5c973b9dfa3e724b44f63b4b6ed0617"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "09_主稿修订与图件/阅读说明.txt",
+    "bytes": 656,
+    "sha256": "252424a51039dca2ec73bad5aa8ed4844000ecc5523e2da45c6ebabc18e4eb46"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/目标属筛选来源/来源索引.json",
+    "bytes": 1139,
+    "sha256": "6a6246b8f171e43ec9d054c1bafeac17deec8ea8a2b3a4082cb6bf2c6760b07a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/raw_failed_estimates.tsv",
+    "bytes": 635,
+    "sha256": "03fbf380152dada8b7c033069354084df2244209c06a45edb53f12c4060e356d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_run_metadata.json",
+    "bytes": 586,
+    "sha256": "f5a430c21473197a1655143552a85893064b974d44ef410804673812e9f5b26d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/阅读说明.txt",
+    "bytes": 394,
+    "sha256": "9407399fe59f35a042248cd5f552c0020b548a0192186e96b666b440729a840f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/received_data_repository/README.md",
+    "bytes": 568,
+    "sha256": "7ee548e296cf805c0842f1428273fcb3296235ab7bdf4e46d06c6c1076b47c70"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/sources/AGP_supplement_link_audit.json",
+    "bytes": 781,
+    "sha256": "69a3301fb74d0c6fc5c2b79d3cb1ea3480f9a048c0e513b7b6719c1d21d42b33"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_02_command.json",
+    "bytes": 727,
+    "sha256": "6d33ee21cb1241affa69026bf896f2c2652cfb1cb41543bb0f175b94c6a0d80c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_01_command.json",
+    "bytes": 727,
+    "sha256": "1590b617ca1d757b63f95ae93d6bb5a832237873b1e687ecc0f4046a71cbf84b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S5b_跨属直接检验.tsv",
+    "bytes": 387,
+    "sha256": "081a82afe6123a10809ded3aad4d66648a66f33cd4bf8340e9e2e2dbbffbc9de"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/pooled_round_strata_diagnostics.tsv",
+    "bytes": 431,
+    "sha256": "1c9dd02528bad393c0830210bac76f9b0a91194a87228d9d39e8e76361e5232d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/分层数值问题与追加规则.txt",
+    "bytes": 264,
+    "sha256": "d0c5f64b65ab6b75ebdab781daa2f8f1e12d5a0b8e1b7833958bb85fc0648e62"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/external/fit_start.json",
+    "bytes": 252,
+    "sha256": "8b6fa57c06676e543e1f7d9b54c75f1627e0789286bf91154bf6d22a8f904591"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/requirements.txt",
+    "bytes": 259,
+    "sha256": "baf69d2fdd6e786aedaedfb815312b04df2d9760fca96381a3f1340aabf2480d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_data__microbiome__Identify_swapped_samples__summary.txt",
+    "bytes": 179,
+    "sha256": "a0b63c1d39b545bd1fa4c240b13970d58e09cefff1175bd45860f48b7d6dc01e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/新增分析/表S24c_参考库属标签.tsv",
+    "bytes": 164,
+    "sha256": "c3976d263e67c2fa29df37fceacfd5fa0e89b674e5cd9228e0a2518f2f89a2ad"
+  },
+  {
+    "zip": "06_分析代码与复现文件_04共06.zip",
+    "path": "01_核心统计/新增分析/表S24f_韦荣氏球菌属重新注释整体差异.tsv",
+    "bytes": 110,
+    "sha256": "57db5d961f5bfe72232845b7c0d03cbefcdef98cb42eada60450e153abb4a103"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "00_拆分归档说明.txt",
+    "bytes": 1726,
+    "sha256": "65e4af9745b48152d85f446016029fefd3a77f0edc7287a4d5cbacd36af42b78"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R07/standardized_clr.tsv.gz",
+    "bytes": 4886734,
+    "sha256": "87a6912b9703225b39140fb4f98adc07a8f3924383b57f2f4dd31d5583f10a6f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "02_统计输入/冻结统计输入/association_standardized_clr.tsv",
+    "bytes": 8520602,
+    "sha256": "b86a1f11bdb315f27b3ef5cc944fb56b03638d552c2e8c900d00659b96461a1e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/新增分析/Veillonella_reads1_joint.npz",
+    "bytes": 2771890,
+    "sha256": "1cc1b9b0f194e3b9a892b7fdb8fdc202786bc8b348de02844f6b2cbb4420d74a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "02_统计输入/冻结统计输入/R06_all_asvs_genus_assignments.tsv",
+    "bytes": 8557606,
+    "sha256": "3652d92c6584f45405fb8bf8aaed8143debfd76a3ac88c65696a2578ee6df744"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "02_统计输入/饮食预处理/_food_primary.pkl",
+    "bytes": 17211008,
+    "sha256": "318bf490685c8b7bb095006221a2775cc9644fe98312f418880d5161075de112"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/sources/AGP_Table_S1_official.xlsx",
+    "bytes": 615429,
+    "sha256": "57647131f6be551fb57d98a8993fe13edb57422bd5fc63d55844a5d6a57fc57a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R07/pc_joint_sandwich.npz",
+    "bytes": 248342,
+    "sha256": "32b041aebc5c99d826a0c093ac0999748c2e1ee6ca87c325ef648dc1189e29b8"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R06/covariate_design.tsv",
+    "bytes": 870476,
+    "sha256": "664aed3764aa231b97a0617a37c1c512b76ab7a536dff26f9bc9f1c60a23016c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/公开输入/nutrition_totals.txt",
+    "bytes": 448374,
+    "sha256": "6abf502627e52de6904f22430eeefab6b00102d15b8cd3593def27049f8ffa60"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/公开输入/taxonomy_counts_s.txt",
+    "bytes": 383186,
+    "sha256": "c9cbba619c1dbeb7093fcd99138536287cc3a74775217111dec6f906c7e1f2d7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_相邻日_Lactobacillus.tsv",
+    "bytes": 291636,
+    "sha256": "ebfb330ff9009707f4697fe6b977d79d4c403b0511053d3ee1c312b3f339d16f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_相邻日_Limosilactobacillus.tsv",
+    "bytes": 291703,
+    "sha256": "68c9d20052e524657a7ee05da9eae3d1dca11f55cd859c9747a91224e4068e74"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/round_mapping_all.tsv",
+    "bytes": 362010,
+    "sha256": "aaf0587c4251c24bda18c7fd37b89622d003e829a319fcd22494cfd37d877469"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/legacy_diet/run_final_4168_stool_analysis.py",
+    "bytes": 222809,
+    "sha256": "60306625211558eba3bf1f6aac369c99e423ab94882eb100c7bbb653b07273c7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "10_本轮精简与历史材料/原补充数据/补充数据2_既有扩展分析完整记录.zip",
+    "bytes": 36412,
+    "sha256": "e10d9af7e42fea53921f8f0fea5d978a935e8b5de337806d136e7cadcaa23057"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图S1_摄入谱与共有背景关联.pdf",
+    "bytes": 35162,
+    "sha256": "672f52233039ecb0357c1c243ce57a195d9a720de99fe34bb658d6d123413881"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/round_all_coefficients.tsv",
+    "bytes": 117172,
+    "sha256": "690b9fb5c1f92e032444ce204848963b0e401a2017bf0f5558fbcd42a54f898c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/新增分析/分类计数逐样本.tsv",
+    "bytes": 154366,
+    "sha256": "d81810624033a65138f9c1a3e94ff68356b13c5c658b33ab691994c3a6a7a0b0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/D03_全部180项摄入属间比较.tsv",
+    "bytes": 33144,
+    "sha256": "17c47e6744105662408b20f8e36d8c3fca7ac026fd9c385c8e234b176c23948d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S3_五次重复性能.tsv",
+    "bytes": 31759,
+    "sha256": "67c055a3821e272fbabd6a89224ab121e146672cf592eb9c0ce4ad56e41a796d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/rebuild_figures.py",
+    "bytes": 22901,
+    "sha256": "417a66529468a358709d76529edb13bcdf4f00d59488ffda0b5e6781d3bb2990"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "10_本轮精简与历史材料/表格映射.json",
+    "bytes": 41329,
+    "sha256": "8b537d36435d9efe71d473bd4b6a348451350dc8ac0d0fb5de9b38050ffbde90"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/完整模型结果/MCTS_非零检出逐人剔除.tsv",
+    "bytes": 22414,
+    "sha256": "317c953a2d5a3c34573f6dfde58c663d430cfa1ff5de3c73ce5eaa7f70712a36"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/bloom/run_bloom_sensitivity.py",
+    "bytes": 14761,
+    "sha256": "2c15b3025b18960b6710be9f695f1b351dc26c5e5dd725af4e8d262030baf1f4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/发现与复现说明.md",
+    "bytes": 9995,
+    "sha256": "520963f7dd62850904e3850ac67f10bd5e2d160ff512ac0951df4a739efb8a07"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/prepare_source_indices.py",
+    "bytes": 14765,
+    "sha256": "c240f638137f2ee301282dd9127aa493bd47d0575273909c161ffd4ee6190020"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/00_规范与审计/旧稿分类来源证据/分类学来源与独立复核报告_第15.9版.md",
+    "bytes": 9586,
+    "sha256": "c2e4d6146bd66d98fcdfc91c9d99cb1d2a060c988d7a727b6478b1d5fe1c6bde"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图1_分析人群与乳酸菌检出.svg",
+    "bytes": 26688,
+    "sha256": "eb848ba6cdaa5f38afedc454cc1e8705b6160d20f4295ef8fa8cf4890359db23"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/完整模型结果/MCTS_逐人剔除检验.tsv",
+    "bytes": 20903,
+    "sha256": "53acf2d30ba7cb62a7274d3496e9629e5a015cc61267e95724147b33b1b04087"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/bloom/run_qc5000_sensitivity.py",
+    "bytes": 9183,
+    "sha256": "60536e3fc336833cf63c8a0408037ff93e7cbd883c0cc8e9c3f2e8b082248ac2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/references/figshare_version_4_official_metadata.json",
+    "bytes": 12233,
+    "sha256": "ba0da57e7dca53979f793068250809146c5114f148d2f91b4cc230b6d2385195"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_data__microbiome__Identify_swapped_samples__feature_importance_scores.txt",
+    "bytes": 17008,
+    "sha256": "4bb604891aa803c3f7ab32199295c4876c771103d69125e1c9a2829174bf33b1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_file_manifest.json",
+    "bytes": 16667,
+    "sha256": "c26da9049e4c39b15f4bf7d9d50e5aca6726d52e979847e221787e666bf093e0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/完整模型结果/MCTS_配对检验全部结果.tsv",
+    "bytes": 10327,
+    "sha256": "b5a3b97b2a9cb8d32675b642e9af493a86d30bcf2296eec4864d9a759371eaec"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/新增数据与复现索引.json",
+    "bytes": 9217,
+    "sha256": "31eddd39f51f792baf78abe2e6e43317f54a916ae29e7a39a2a33aff278fe16c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/summarize_taxonomy_validation.py",
+    "bytes": 5264,
+    "sha256": "03ee0974258f8aa1fffc0eea5bf2b77f617d3cf4c2c36e59f6339981722593b4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/README.txt",
+    "bytes": 4165,
+    "sha256": "d744f5b9fbd0632be3c59b076594295120661cc89bc8e7042829d8d198b4a380"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/round_binary_level_diagnostics.tsv",
+    "bytes": 23630,
+    "sha256": "e5b204505b5c4a792846ad6ff2a604b80292351ba49a74ee86071aae7a6b0225"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "10_本轮精简与历史材料/单元格核验.json",
+    "bytes": 11811,
+    "sha256": "b1e0e12bdf811d66cd254a0a58a36f4e02f2b13b2280bce0c091dd0f6023f6f2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "02_统计输入/饮食预处理/预检验范围与判定规则.md",
+    "bytes": 3464,
+    "sha256": "449bc7d614570d0f9f4d552dd24c640c95b56a4f07988d635485ccf024ac6f4f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/preclassification_plan.md",
+    "bytes": 3149,
+    "sha256": "03ca63b62a45aa78e312b250933384b745d530356c4fabf60b872cc6f8a0f436"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/diversity/model_diagnostics.tsv",
+    "bytes": 4919,
+    "sha256": "0638a309551e3b7794942c3138b2344841c0b2806a60a085e21ea7256eb2a3f7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/代码/04_complete_background_differences.py",
+    "bytes": 3280,
+    "sha256": "67523589d087a1b09a78bc31daa3aefe17177db5648bd410e466b150e8cb2ce4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/04_finalize_audit.py",
+    "bytes": 3655,
+    "sha256": "23795072bcd29c979b8cfd6599efc7813262faffc108e7117df42641951258a4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "11_投稿格式修订_20261006/来源说明/00_本次整理说明.txt",
+    "bytes": 2887,
+    "sha256": "8f0ce853560e9de47accf439fdfe321480b76dde78b90e6832e8f18f300df9a1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_乳杆菌旧名称对应.tsv",
+    "bytes": 19762,
+    "sha256": "bac750cbbee88bb3920c2c00441098ed8c94072e18987d05e1886015012f2a0f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/external/all_results.json",
+    "bytes": 22369,
+    "sha256": "58b0cec79026e03568a5dd6f702791f971ac47143f2b4886d5c954ddf75aacd3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "10_本轮精简与历史材料/本次精简对照说明.txt",
+    "bytes": 2303,
+    "sha256": "512866324a625f368eb0dae9ae3b6a44239ce0c56f4da4e209eff8130e304f8e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/复现说明.md",
+    "bytes": 2307,
+    "sha256": "ca7e8706c0d848f6e86a5c8b2ef2c1eabbd3257f304b0da76503d03d872d088b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/export_audit.json",
+    "bytes": 5193,
+    "sha256": "305389f9dc6cd4f5b897c4ea26d4b1f7f600ea8e77ebb254c73a421294f6878c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/figure_validation.json",
+    "bytes": 2325,
+    "sha256": "e2ddcc3b56fad563d5292d47c2e911ef16e4678f799956425540c570df238f59"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/目标属筛选来源/pilot_plan.md",
+    "bytes": 1896,
+    "sha256": "644dfd6961a207f3bb4265029f2f502d8e8d0625fa90bd70ee7acf64c892e673"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_contrast_results.tsv",
+    "bytes": 2684,
+    "sha256": "bccb8c9c882cbfc24e6a6584eaeb8617cf5af5f799cfb7953187d14107f2ba76"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H06_固定ASV性别交互.tsv",
+    "bytes": 2314,
+    "sha256": "6543767e07eb4f88c022a831e412644cf66c5eebfd41557693b9c415365b029b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_lib__results_scripts__3_Food choices associate with microbiome composition__2_FigureS3__greengeens__clean_burst_output.R",
+    "bytes": 2784,
+    "sha256": "b8f23cdfba89cb7ba52303caf6331313555de2cfd1a7a371d4a44652c615c6a7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/00_规范与审计/旧稿分类来源证据/taxonomy_provenance_audit.json",
+    "bytes": 3761,
+    "sha256": "da00bc0da05fc1bdc93dc5a4087e20f2d4585d4b4e39e1f044f670505ef7524c"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/S20_阶段前背景与阶段末检出.tsv",
+    "bytes": 2097,
+    "sha256": "09ed1e3826022c558e22f79e4f9bce23788981440663443ae1d76401db8582ca"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/D01_摄入变量描述.tsv",
+    "bytes": 1930,
+    "sha256": "913380446ce062a721064a7bd8fbf379800ffb35bf383fa1c6a79db432680fdb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/新增分析/表S24d_韦荣氏球菌属重新注释关联.tsv",
+    "bytes": 1707,
+    "sha256": "f38560946619ddc8c37351fa48e7e0a7ee92f874f020c720aac98089928cee05"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/preclassification_audit.json",
+    "bytes": 1830,
+    "sha256": "1fc4ee5c3f353390459f0f2a3c913d34fc71517d56bc68187e4feb72f5fd5eee"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/bloom_sequence_audit.json",
+    "bytes": 1238,
+    "sha256": "2840edba460f50a28d536ffe151dac79a4e3b045903b2e4449f9dfc995b13d3f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/round_contrasts.tsv",
+    "bytes": 1513,
+    "sha256": "e4c4c5786c48e6408da673eaa472412c143d04c504e200fd06431a7ac33763ae"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/V03_背景ASV属间差异.tsv",
+    "bytes": 1228,
+    "sha256": "be9ffc103eb9d8a8e079519a99009066aae087a221dc2497c93b78b88406f1ae"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "07_历史与诊断归档/整理记录/工作表迁移清单.json",
+    "bytes": 1695,
+    "sha256": "2df7c152d55de52ca07a0d13081bfe893fa4ab03a400b1e335e957584eb86c8a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/bloom/run_metadata.json",
+    "bytes": 969,
+    "sha256": "4dfaea52f5221b9a8af44bf60cd34b3ae4fd6591ebacc233669225a2040e5221"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/D04_12项摄入六属整体比较.tsv",
+    "bytes": 889,
+    "sha256": "e09981b48767a61234dfb1086180899e191d864f64b20f04a82a5cd791eed914"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/新增分析/展示配对选择规则_完整家族q最小3项.tsv",
+    "bytes": 932,
+    "sha256": "b3f695576b81b6242d99f21871d82b32eeeae772798831fd4c6b61b91be5dd36"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "06_当前绘图数据/detection.tsv",
+    "bytes": 1568,
+    "sha256": "dc11da422f7e5eb92e2f29c50cef94337d7e6c01333fd14c4a6ae368676e231a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H04_模型诊断.tsv",
+    "bytes": 3366,
+    "sha256": "379dfe19347338359a0e3bf68da77799aaac57236b48fd2001cb43e2cfad7f73"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/external/taxon_availability.csv",
+    "bytes": 1699,
+    "sha256": "8826f219faff242a4c45babd52ac95a1d9f561fe3b93be56419a32dbb2a07b16"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/diversity/validation_summary.json",
+    "bytes": 723,
+    "sha256": "564a6a74273f1137d9089a37589080885b34b01ad4772e1db1335e2587597ae0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/source_data/fig1_detection.csv",
+    "bytes": 779,
+    "sha256": "df30ad8eb56e4de079f090c0737d6843247f86b6b8f70e3805db12db460b68d4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/bloom/validation_summary.json",
+    "bytes": 570,
+    "sha256": "5a24c6c3ae6696dda52b443299a5b21202757a6bf2b48dd522e1e6b5d2359513"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_08_command.json",
+    "bytes": 727,
+    "sha256": "e00e4036c5d725a2c700948a39c8f0792b2c5d8245df571c6c0792c998e046b8"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_03_command.json",
+    "bytes": 727,
+    "sha256": "154d5665895519a10d5be50c9b9151f657b518757da43d306cf50cc8dec48ebf"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_05_command.json",
+    "bytes": 727,
+    "sha256": "6420e46868b4187187f178c75bbd955f28a5e012c3407d6fa5c47a3393338f06"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/source_data/fig1_flow.json",
+    "bytes": 561,
+    "sha256": "03b4c1c1243784c8b1ec1366b28d4a11eca6da6e2c5488fabb9d9c10db52f08b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/source_data/fig1_flow.json",
+    "bytes": 561,
+    "sha256": "03b4c1c1243784c8b1ec1366b28d4a11eca6da6e2c5488fabb9d9c10db52f08b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H05_独立统计核验.json",
+    "bytes": 387,
+    "sha256": "961d2ee6e5c921acd18de02c94a3c8a8134e4413e8c4ce9aa9492c23ede936c2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "01_核心统计/新增分析/堆叠模型交叉核验.tsv",
+    "bytes": 301,
+    "sha256": "e0d635fd5bac7083cf4e2b2e9fff211feeeac318c966f55291905286e014986e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/J03_联合整体差异.tsv",
+    "bytes": 256,
+    "sha256": "a3cbcaba4f3d16469f3e1570762a0af5ffbe12c98d573f9bccb0866b5eb0db14"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/bloom/reconstruction_checks.json",
+    "bytes": 188,
+    "sha256": "a8ef9a1c7b65e8382774171437fcbe4bc0da89ceabec9b454f95e988a3b0fece"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "08_本轮方法复核/provenance/round_mapping_coverage.tsv",
+    "bytes": 129,
+    "sha256": "ea91f52b755724f0d9f74fe376fc146a1a7da3b32eda0b3ddf7f9323f984c0b2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_05共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_lib__results_scripts__2_Recovery of dietary diversity from food__readme.txt",
+    "bytes": 53,
+    "sha256": "24bd57436578fa46d48826d6ea0e5dfc1925380e6d0cf204faabbdc100cd6b0d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "00_拆分归档说明.txt",
+    "bytes": 1726,
+    "sha256": "65e4af9745b48152d85f446016029fefd3a77f0edc7287a4d5cbacd36af42b78"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R06/standardized_clr.tsv.gz",
+    "bytes": 4611612,
+    "sha256": "26d14b8d1034009629c10f24d4f196894380d10277c06b53eead26446eff40aa"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/association_models/association_standardized_clr.tsv",
+    "bytes": 8520602,
+    "sha256": "b86a1f11bdb315f27b3ef5cc944fb56b03638d552c2e8c900d00659b96461a1e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/新增分析/Veillonella_reads3_joint.npz",
+    "bytes": 2772182,
+    "sha256": "530cbf9aa5b47669e288ed910096d1c91b40958b7a0a1119a18a1110c511e02f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/R06_all_asvs_genus_assignments.tsv",
+    "bytes": 8557606,
+    "sha256": "3652d92c6584f45405fb8bf8aaed8143debfd76a3ac88c65696a2578ee6df744"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/输入/05_输入数据/01_原始输入/4168_annotated_feature_table.tsv",
+    "bytes": 43810561,
+    "sha256": "821c833bb0a084e231583e72c3b999051e133227f20ab65478a75416ae232bef"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始工作簿/06c_新增属间差异与分类核验.xlsx",
+    "bytes": 426850,
+    "sha256": "d38cb24b667d4a23aae73d6ae07fc14d5ff1512ddf2fa720710c5e8edc30fcb3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R06/pc_joint_sandwich.npz",
+    "bytes": 248235,
+    "sha256": "554905959365124db59ff5accae4968016f3bcc0725e2c7b19f5021e0225d772"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/association_models/association_covariate_design.tsv",
+    "bytes": 870494,
+    "sha256": "b354447298a802273e81ac8d77e51dacc3ffafef89035e5488909fec9a39138e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/sources/AGP_Table_S1_sample_round_long.tsv",
+    "bytes": 2079467,
+    "sha256": "4d09e33d1ea13c292f6769e9a0cac727988d14f46dc344288cf0a64d714d75fb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/bloom/R07_filtered_rebuilt_variables.tsv",
+    "bytes": 372638,
+    "sha256": "cce73609ebbf60939bbd0410f6123003ff62a5778e733e7e5e9b4c51a4a96292"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_全部分类对应.tsv",
+    "bytes": 1085151,
+    "sha256": "72ece99e2ce8ce58548e9fbdd82c9eec25018fc9c43c718682f1406869416138"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/sources/AGP_original_fullText.xml",
+    "bytes": 326394,
+    "sha256": "0e21340b3db41e220a2451da5b097ff4ce5f58356bd88c9ce275433dbe3baffe"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/公开输入/taxonomy_counts_g.txt",
+    "bytes": 148110,
+    "sha256": "5ba097ff474a1e3e0b2d266282019731ff29a086d0e6ef02b36a7cc541836115"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "02_统计输入/冻结统计输入/lactobacillales_genus_counts_all_samples.tsv",
+    "bytes": 794804,
+    "sha256": "21fe31b64ef3a7cb9dc138a296a8e8f4e1cd51d898a3a82d89568dbbb02404f5"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图2_属间比较与饮食调整.pdf",
+    "bytes": 36022,
+    "sha256": "e00bbc412d495b179e2bfb0da7f0c645ea4ce8f03f6418f94b815dd02fa2d32f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/source_rgb_pdf/图1_分析人群与乳酸菌检出.pdf",
+    "bytes": 35296,
+    "sha256": "d2621d05372715f6bb48da6c9b77039a4ca8719d038d9b54da6e67379bc6bc9b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "02_统计输入/冻结统计输入/纵向分析样本_内部索引.tsv",
+    "bytes": 160767,
+    "sha256": "f51a7e332f636f17b9094dd037932b09248cb64c5ac7b14aff666bb74615d3dd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/round_mapping_primary2748.tsv",
+    "bytes": 94668,
+    "sha256": "3fc315a69d154cf915f09cde9ab0b9a405b0f75d91f962cd5a7ac9aaddf4c52e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/输入/03_分析与结果/taxonomy_validation/association_sensitivity/R07/target_counts.tsv",
+    "bytes": 80569,
+    "sha256": "ec685f22683c4e830d2221bd5c38a85626a215dbc50cfd2772466218b0256383"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/公开输入/SampleID_map.txt",
+    "bytes": 109534,
+    "sha256": "ccd34b3a0ee3d06c7c68f9d70f2847f6505eb8ab69140678302db8adcc9ba5b4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/vector/图2_属间比较与饮食调整.svg",
+    "bytes": 85599,
+    "sha256": "fd8cb8cdf3670913f5df53ac070abc641e4cb6fe8644daa874e13c5478c099c3"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/numeric_plot_audit.json",
+    "bytes": 69083,
+    "sha256": "53c49ce73f4bf017d1e84fc85d1374515d3de1a84222619ebaf9c22e91c92cd6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/provenance_audit.json",
+    "bytes": 26507,
+    "sha256": "994f5bb1fc558cee0d30e2c8b9069f4a2b4ca3502d00eef59332a39aee6f3f1a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/vector/图3_背景水平与检出及丰度.svg",
+    "bytes": 51697,
+    "sha256": "c0fdfcdf46c39449166e2472669092442d03943595f1566fd468ee2dc776e5ca"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/taxonomy_association_sensitivity.py",
+    "bytes": 14868,
+    "sha256": "346ae1e16b3758ab46a00dc5094781b02229678d1697c351528e52fc73c67954"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "02_统计输入/饮食预处理/全部数据评估与深化建议.md",
+    "bytes": 10318,
+    "sha256": "6f74d5741f68269d9b0e93c42d12552feb8b272312348352277db987ebe932c8"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S9_外部模型增量.tsv",
+    "bytes": 12528,
+    "sha256": "5c487a33c9a95ed2717fcd8e23748e1fdfd407d0fe91ec880a8d7c9204a2eda8"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/diversity/run_diversity_audit.py",
+    "bytes": 11270,
+    "sha256": "aa72a52dba42b4aa061a7294b70b4c2c3765498a3aa5f2b2fa2c6f3867e8d178"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/补充质控输入/MCTS_lib__processing_scripts__clean_food.R",
+    "bytes": 17218,
+    "sha256": "b884c52b76cd0973106926e9b79300ea00391ed24d35328cdbd18faefdcf896f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/原分析代码/02_prepare.py",
+    "bytes": 9242,
+    "sha256": "4968ef8931110771376ee5e142a13826b3568de7efe334dea849da4c1f99c4d7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "02_统计输入/饮食预处理/更广泛饮食调整_全部六配对模型.tsv",
+    "bytes": 9265,
+    "sha256": "e04ef890da023157042c3fa3e5ebd2a99570521e0215041256a1fa23a2250c36"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/02_round_sensitivity.py",
+    "bytes": 8581,
+    "sha256": "8eb2dc53686be09b5e8bccb6dd3226d61b1b7c5251995d056cb43215b0cf22f9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "02_统计输入/饮食预处理/01_inventory.py",
+    "bytes": 7612,
+    "sha256": "349fdfa5ac24a756681c034978937bc5b769f025696813291966015808121f44"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/references/figshare_version_3_official_metadata.json",
+    "bytes": 9522,
+    "sha256": "261194a2420585c653de1e6cefc4c6490e428b49331da3d722fbf9d108f8b479"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/原分析代码/08_validate.py",
+    "bytes": 5465,
+    "sha256": "f8eb6a4714f9bfb6b730b44a594ecb518d6ba04f874c353e0784fca9279f6a65"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/表S11_分类一致性.tsv",
+    "bytes": 22731,
+    "sha256": "933e6596b511c3d380afe7d5c6f582b220de44e442bcc4f8d330c7f8c1fa0645"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/R02_核心差异全部配套复核.tsv",
+    "bytes": 5896,
+    "sha256": "3ab479d9d9e6afd14cdfd1ca5314d4a6d403c57ef180e2c248e67b39cef640fc"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/分析执行与追加范围.md",
+    "bytes": 4229,
+    "sha256": "a744999e8bcff929abbe311b5577039f5cda056fecc251fc56dca9ff12d56ab4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/01_prepare.py",
+    "bytes": 4710,
+    "sha256": "811f5018d50ec1f2fe07e1a0c5c3c67e6bcbfda1ad66a56dc5bf816857554533"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/within_person/independent_review.txt",
+    "bytes": 3361,
+    "sha256": "8585ce5cc09a603fae3dbd19d1103dee4f2df4e7daa70075b71b7e1707b30914"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "03_饮食与菌群深化/完整分析结果/S01_四种检出状态直接比较.tsv",
+    "bytes": 4124,
+    "sha256": "311119cfa2b1d104cad702beb156fc71fea744b7214d1caecd7dcdc73cb86c0f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "02_统计输入/饮食预处理/更广泛饮食调整_全部属间差异.tsv",
+    "bytes": 4366,
+    "sha256": "1a9c500bb12de6241d157e0daff42c645102bcbd84b1ff089294c96d247470f0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/external/PRISM_selected_input.csv",
+    "bytes": 7244,
+    "sha256": "f74093da7740d4eaa2a79fd67f39d7e89df9da3f4976da72b26de7eee0599fb0"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/external/README.md",
+    "bytes": 2957,
+    "sha256": "8c8de49f6705a0ec4e86906b2143edbe6fe71c462d9587d72ca5ca6c4d74db70"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "03_饮食与菌群深化/复现代码/06_core_robustness.py",
+    "bytes": 3145,
+    "sha256": "bbf8172ed3ac1e05a7771666c3c642a6562e2d5989d37445ecf5be4dab2abbbf"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "10_本轮精简与历史材料/旧根说明/00_本次整理说明.txt",
+    "bytes": 2937,
+    "sha256": "ff18adfa15477d29c290e9c77465a6591a835b9645ddd9a245abddf34650ac92"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/diversity/fixed_plan.md",
+    "bytes": 2294,
+    "sha256": "6c4fc7cbb5edbe7524f232aaf368b6e8caab29b18b9ddf1c764c30d1ed282328"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "04_性别与高读数复核/新增分析结果/H07_固定ASV直接比较.tsv",
+    "bytes": 3327,
+    "sha256": "6daee0817819a7e2f6a32093ae1bc82d70e8a4e05730cd2bb88663a799042c8e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "02_统计输入/饮食预处理/本轮文件哈希.json",
+    "bytes": 2298,
+    "sha256": "c538294cbe707ea109a4caf6696db5a5dfed12811acf938046f39b7309a8bc94"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/classification_run_summary.json",
+    "bytes": 5722,
+    "sha256": "20a44449841b70c74d5b864f22f5272c0e371fc9660c45c02dcbde0a8cb51071"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/bloom/all_contrast_results.tsv",
+    "bytes": 3412,
+    "sha256": "5cf77fb4b24b203954c4a91e688378c79eb4fb04de336e26a5273b29f23fbf5a"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "11_投稿格式修订_20261006/图件复绘/vector_font_and_raster_audit.json",
+    "bytes": 6362,
+    "sha256": "2b5b23084c84012ca92067e4caebcdd8d706862999c43645359f3d91012a287e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/原分析代码/04_alignment_audit.py",
+    "bytes": 2263,
+    "sha256": "8c19bef7b420aa7244023932a739f84b68ebf7c400801ca64163c4f1bd05963d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_fixed_plan.txt",
+    "bytes": 1613,
+    "sha256": "fcf94b7422d8bd9465a141a065a02c3bb6336aaca82b91da2469c7424f8aaca7"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/公开输入/clean_burst_output.R",
+    "bytes": 3129,
+    "sha256": "894ef436223bce9091822bc9bf98e41f17939d8fbff2cddf3a0dc614801fce28"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/新增分析/表S24i_三背景两目标属效应量.tsv",
+    "bytes": 4040,
+    "sha256": "3d7c9d145158a17a6e5b29de158bfa5e1ffa2ff0e41a14f5021eba60ad6143a6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/目标属筛选来源/lab_taxon_feasibility.tsv",
+    "bytes": 2834,
+    "sha256": "28afe91b4e95f4dca95577d0306ba313166d856dad2c25a977bb92b5551150a1"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/新增分析/分类追踪核查.json",
+    "bytes": 1816,
+    "sha256": "da7a2d06831e700498af379ff4f4b474d56f67d122979f9537c128c725f4c436"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/round_target_effects.tsv",
+    "bytes": 2380,
+    "sha256": "413358633321357da88f9c46be61011cfc3bcea77321b39ad4790b0905dba87f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "09_主稿修订与图件/图件源文件/export_audit.json",
+    "bytes": 2747,
+    "sha256": "b60140d091a7e5c955ae90e10975dfd2d4a54c42717ad4f694f2633e9a2557df"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "11_投稿格式修订_20261006/文稿修改/auxiliary_changes.json",
+    "bytes": 1318,
+    "sha256": "ee782c349a7d06b4d857446efbe35bd85d838a26a40adbb14ba1b3ffd57bca35"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/bloom/independent_checks.tsv",
+    "bytes": 1801,
+    "sha256": "a524d69ccbbbd5c483a7955fe6f75c61e0e7309e0321a3536013d7beca177cd2"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "01_核心统计/新增分析/表S24a_重点背景属分类支持与覆盖.tsv",
+    "bytes": 2679,
+    "sha256": "d67628f2779340f91acd0cf7fc97d52c2bae865e50c776da9f4edbd63a15f252"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "04_性别与高读数复核/数据与代码/原R03_性别背景交互.tsv",
+    "bytes": 1182,
+    "sha256": "cacd46a35f499a506cf3fa2e263fad67fcee0a07f79c867ad7babb35d85b0eeb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/完整模型结果/MCTS_前日背景与次日检出.tsv",
+    "bytes": 1020,
+    "sha256": "b14b09dd7413b60ba4fcc92d914961b4a51883a6f369901362de304dedf0305b"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/sources/AGP_BLOOM.fasta",
+    "bytes": 2587,
+    "sha256": "18e0a6b012a1d6f2109b8f068ba5a78febf6c5111958933adb7341f6d57d43fd"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/raw_failed_target_effects.tsv",
+    "bytes": 1032,
+    "sha256": "7d80c46c1a131977df2bd01b0c2710c53727ef6109663ef401dbac67dc27aaf4"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/S20_固定设计信息量模拟.tsv",
+    "bytes": 1299,
+    "sha256": "887d5c0d4be9aa77a4303f6ffb1043287cd562ea95e5bb0abae1eddf3df82b8d"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "07_历史与诊断归档/既有扩展_移出展示/原始电子结果/S18_酸奶与背景交互.tsv",
+    "bytes": 846,
+    "sha256": "0800c28858e38bf9a58140792e1eb248e4962b35e00d5d11187b507ca4c0eba6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/external/selection_audit.json",
+    "bytes": 1030,
+    "sha256": "e1b65ce2704aa032c841efbe0f76240732ec97ee32261d17bb2a0bdf573bc47e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "06_当前绘图数据/图2b_三背景属原始效应.tsv",
+    "bytes": 1067,
+    "sha256": "7fba4d1224fde067cec7d2e9e5998928d7fb4240c96032e6f5a92b08e2d5bdce"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/round_strata_diagnostics.tsv",
+    "bytes": 702,
+    "sha256": "8506226f98968429100561d056a511a04cc2f199957afd866e0cfa6c8c082372"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/diversity/original_reproduction.tsv",
+    "bytes": 590,
+    "sha256": "498a5b70ddcdf832899a3c827e927b0e347b3c0fdb51ed34140682e68f55d034"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R07_chunk_04_command.json",
+    "bytes": 727,
+    "sha256": "a25e29dcaa4deb706fb2fb06fb767811a6de447d820781ab3a2d50a16ea5d72f"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_03_command.json",
+    "bytes": 727,
+    "sha256": "8eaa348e51df5757566c6041b45863c3e28a71f7833a841dacf8b67d2f4e6ca9"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/03_分析与结果/taxonomy_validation/chunks/R06_chunk_02_command.json",
+    "bytes": 727,
+    "sha256": "139534e6d0907bba164853bf53950785a6aa422c8a22654b5c5e09d13ae00916"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/recovered_preparation/new_article/04_复现代码/environment_versions.json",
+    "bytes": 501,
+    "sha256": "6353cc2df83500212b7dff7a83a57d53577c0a198908f5cfe592a1e733fcde1e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/provenance/packaging_validation.json",
+    "bytes": 420,
+    "sha256": "12167debdddd28bff92338188065a7d3083ab9e4af49ab8fd7711e483eeeae5e"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/bloom/original_R07_reproduction.tsv",
+    "bytes": 324,
+    "sha256": "f242078910aa1e80922e653fcbcf0792883baad9ff47173b4173df232170d657"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/完整模型结果/MCTS_非零检出稳定性摘要.tsv",
+    "bytes": 269,
+    "sha256": "4bbe94bcad486fc09f91cc780c9713d969a6b0ca9514a0feee88ca25e9d6e633"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/bloom/qc5000_target_events.tsv",
+    "bytes": 434,
+    "sha256": "32a52d0dccf0c6035f4ae34651cca9a042a1151782bc9e64ebab4cd9c74519fb"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "08_本轮方法复核/diversity/completion_status.json",
+    "bytes": 225,
+    "sha256": "a5a49ca80fa739c2f26c4bb47540fce590864917f6adc5d46ba1d1b6172646b6"
+  },
+  {
+    "zip": "06_分析代码与复现文件_06共06.zip",
+    "path": "05_既有逐日资料/派生数据/MCTS_阴性对照目标覆盖.tsv",
+    "bytes": 145,
+    "sha256": "3393b7d52b8b902898334e18d762642a7e75574f6423c7cd4d6f63e9ba5fd2c0"
+  }
+]

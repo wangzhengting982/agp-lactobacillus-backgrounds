@@ -1,0 +1,90 @@
+{
+  "status": "pass",
+  "seconds": 7.103829800005769,
+  "scope": "BIOM plus supplied full-ASV labels reaggregated, alternative target counts/background/design/CLR rebuilt. No new SINTAX classification.",
+  "BIOM_sha256": "19b4b67782b2a97194ec3352bd3ce36191bc1315f84ea4a12e7eff880a9c3272",
+  "releases": [
+    {
+      "release": "R07",
+      "ASV_count": 95567,
+      "participants": 2748,
+      "n_background_genera": 1771,
+      "n_selected_genera": 196,
+      "PC_variance_explained": 0.2893073855085083,
+      "source_label_sha256": "2e27998f70a2df723f9ad4fb85e6f11bbb460b88c5432b2e391cfd8a84c0ec64",
+      "comparison": [
+        {
+          "file": "covariate_design.tsv",
+          "shape": [
+            2748,
+            20
+          ],
+          "max_absolute_error": 5.995204332975845e-15,
+          "identifiers_and_columns_equal": true,
+          "numeric_equal": true
+        },
+        {
+          "file": "standardized_clr.tsv.gz",
+          "shape": [
+            2748,
+            196
+          ],
+          "max_absolute_error": 0.0,
+          "identifiers_and_columns_equal": true,
+          "numeric_equal": true
+        },
+        {
+          "file": "target_counts.tsv",
+          "shape": [
+            2748,
+            6
+          ],
+          "max_absolute_error": 0.0,
+          "identifiers_and_columns_equal": true,
+          "numeric_equal": true
+        }
+      ]
+    },
+    {
+      "release": "R06",
+      "ASV_count": 95567,
+      "participants": 2748,
+      "n_background_genera": 1624,
+      "n_selected_genera": 185,
+      "PC_variance_explained": 0.2965921436578496,
+      "source_label_sha256": "3652d92c6584f45405fb8bf8aaed8143debfd76a3ac88c65696a2578ee6df744",
+      "comparison": [
+        {
+          "file": "covariate_design.tsv",
+          "shape": [
+            2748,
+            20
+          ],
+          "max_absolute_error": 3.1086244689504383e-15,
+          "identifiers_and_columns_equal": true,
+          "numeric_equal": true
+        },
+        {
+          "file": "standardized_clr.tsv.gz",
+          "shape": [
+            2748,
+            185
+          ],
+          "max_absolute_error": 0.0,
+          "identifiers_and_columns_equal": true,
+          "numeric_equal": true
+        },
+        {
+          "file": "target_counts.tsv",
+          "shape": [
+            2748,
+            6
+          ],
+          "max_absolute_error": 0.0,
+          "identifiers_and_columns_equal": true,
+          "numeric_equal": true
+        }
+      ]
+    }
+  ]
+}

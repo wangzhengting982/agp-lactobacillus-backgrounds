@@ -1,0 +1,978 @@
+{
+  "status": "PASS",
+  "main_doc_sha256": "a514c406f298257a33cf38eb9e64ac600cd0dc0ddd3ec84cbdad07d4b76147fc",
+  "supp_doc_sha256": "df04a645ca842c9ec77f4392949087cfde8398c9f03a7ee507197d302db254fb",
+  "claim_checks": [
+    {
+      "claim": "描述样本2760",
+      "actual": 2760,
+      "manuscript": 2760,
+      "passed": true,
+      "source": "fresh raw_covariates with total_reads_qc>=5000"
+    },
+    {
+      "claim": "表1 年龄（岁）",
+      "actual": "53.0（41.3–62.7）",
+      "manuscript": "53.0（41.3–62.7）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates; fiber g/1000 kcal divided by 4.184"
+    },
+    {
+      "claim": "表1 BMI（kg/m²）",
+      "actual": "23.5（21.2–26.5）",
+      "manuscript": "23.5（21.2–26.5）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates; fiber g/1000 kcal divided by 4.184"
+    },
+    {
+      "claim": "表1 总测序读数",
+      "actual": "17385.0（12858.8–25142.5）",
+      "manuscript": "17385.0（12858.8–25142.5）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates; fiber g/1000 kcal divided by 4.184"
+    },
+    {
+      "claim": "表1 纤维密度（g/MJ）",
+      "actual": "3.3（2.5–4.2）",
+      "manuscript": "3.3（2.5–4.2）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates; fiber g/1000 kcal divided by 4.184"
+    },
+    {
+      "claim": "表1 女性",
+      "actual": "1798（65.1%）",
+      "manuscript": "1798（65.1%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 男性",
+      "actual": "950（34.4%）",
+      "manuscript": "950（34.4%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 其他或未说明性别",
+      "actual": "12（0.4%）",
+      "manuscript": "12（0.4%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 美国",
+      "actual": "1037（37.6%）",
+      "manuscript": "1037（37.6%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 英国",
+      "actual": "756（27.4%）",
+      "manuscript": "756（27.4%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 其他地区",
+      "actual": "219（7.9%）",
+      "manuscript": "219（7.9%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 地区未提供",
+      "actual": "748（27.1%）",
+      "manuscript": "748（27.1%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 过去1年抗生素使用",
+      "actual": "925（33.5%）",
+      "manuscript": "925（33.5%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 炎症性肠病",
+      "actual": "137（5.0%）",
+      "manuscript": "137（5.0%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1 肠易激综合征",
+      "actual": "689（25.0%）",
+      "manuscript": "689（25.0%）",
+      "passed": true,
+      "source": "fresh source-derived raw_covariates"
+    },
+    {
+      "claim": "表1脚注BMI缺失",
+      "actual": 35,
+      "manuscript": 35,
+      "passed": true,
+      "source": "fresh raw_covariates"
+    },
+    {
+      "claim": "表1其余连续变量无缺失",
+      "actual": 0,
+      "manuscript": 0,
+      "passed": true,
+      "source": "fresh raw_covariates"
+    },
+    {
+      "claim": "主模型样本",
+      "actual": 2748,
+      "manuscript": 2748,
+      "passed": true,
+      "source": "fresh target counts"
+    },
+    {
+      "claim": "主模型六属检出人数",
+      "actual": [
+        502,
+        469,
+        191,
+        158,
+        147,
+        90
+      ],
+      "manuscript": [
+        502,
+        469,
+        191,
+        158,
+        147,
+        90
+      ],
+      "passed": true,
+      "source": "fresh target counts"
+    },
+    {
+      "claim": "描述样本乳酪杆菌/乳杆菌/片球菌检出人数",
+      "actual": [
+        504,
+        469,
+        90
+      ],
+      "manuscript": [
+        504,
+        469,
+        90
+      ],
+      "passed": true,
+      "source": "fresh all-sample counts, 2760 base sample"
+    },
+    {
+      "claim": "描述样本检出率范围",
+      "actual": [
+        3.26,
+        18.26
+      ],
+      "manuscript": [
+        3.26,
+        18.26
+      ],
+      "passed": true,
+      "source": "fresh all-sample counts"
+    },
+    {
+      "claim": "六属整体chi2",
+      "actual": 174.09,
+      "manuscript": 174.09,
+      "passed": true,
+      "source": "new core omnibus fit"
+    },
+    {
+      "claim": "六属整体df",
+      "actual": 50,
+      "manuscript": 50,
+      "passed": true,
+      "source": "new core omnibus fit"
+    },
+    {
+      "claim": "六属整体P",
+      "actual": [
+        1.25e-15
+      ],
+      "manuscript": [
+        1.25e-15
+      ],
+      "passed": true,
+      "source": "new core omnibus fit"
+    },
+    {
+      "claim": "936项检验数",
+      "actual": 936,
+      "manuscript": 936,
+      "passed": true,
+      "source": "new 936 regression fits"
+    },
+    {
+      "claim": "936项校正显著数及背景属数",
+      "actual": [
+        120,
+        73
+      ],
+      "manuscript": [
+        120,
+        73
+      ],
+      "passed": true,
+      "source": "new 936 regression fits"
+    },
+    {
+      "claim": "15项比较BH及Holm显著数",
+      "actual": [
+        12,
+        9
+      ],
+      "manuscript": [
+        12,
+        9
+      ],
+      "passed": true,
+      "source": "new core pairwise PC fits"
+    },
+    {
+      "claim": "最强目标配对",
+      "actual": "Lacticaseibacillus/Lactobacillus",
+      "manuscript": "Lacticaseibacillus/Lactobacillus",
+      "passed": true,
+      "source": "new core pairwise PC fits"
+    },
+    {
+      "claim": "最强配对chi2",
+      "actual": 88.14,
+      "manuscript": 88.14,
+      "passed": true,
+      "source": "new core pairwise PC fits"
+    },
+    {
+      "claim": "最强配对q",
+      "actual": [
+        1.87e-13
+      ],
+      "manuscript": [
+        1.87e-13
+      ],
+      "passed": true,
+      "source": "new core pairwise PC fits"
+    },
+    {
+      "claim": "背景整体及2340项显著数",
+      "actual": [
+        35,
+        71
+      ],
+      "manuscript": [
+        35,
+        71
+      ],
+      "passed": true,
+      "source": "new core background comparisons"
+    },
+    {
+      "claim": "基础OR Lactobacillus",
+      "actual": [
+        1.482,
+        1.519,
+        1.429
+      ],
+      "manuscript": [
+        1.482,
+        1.519,
+        1.429
+      ],
+      "passed": true,
+      "source": "new C13"
+    },
+    {
+      "claim": "基础OR Lacticaseibacillus",
+      "actual": [
+        0.955,
+        1.003,
+        0.938
+      ],
+      "manuscript": [
+        0.955,
+        1.003,
+        0.938
+      ],
+      "passed": true,
+      "source": "new C13"
+    },
+    {
+      "claim": "最小三项q",
+      "actual": [
+        7.58e-08,
+        7.58e-08,
+        1.16e-07
+      ],
+      "manuscript": [
+        7.58e-08,
+        7.58e-08,
+        1.16e-07
+      ],
+      "passed": true,
+      "source": "new C06"
+    },
+    {
+      "claim": "饮食调整OR Lactobacillus",
+      "actual": [
+        1.485,
+        1.52,
+        1.432
+      ],
+      "manuscript": [
+        1.485,
+        1.52,
+        1.432
+      ],
+      "passed": true,
+      "source": "new P01"
+    },
+    {
+      "claim": "饮食调整OR Lacticaseibacillus",
+      "actual": [
+        0.945,
+        0.989,
+        0.934
+      ],
+      "manuscript": [
+        0.945,
+        0.989,
+        0.934
+      ],
+      "passed": true,
+      "source": "new P01"
+    },
+    {
+      "claim": "饮食调整OR比 ratio_OR",
+      "actual": [
+        0.637,
+        0.651,
+        0.652
+      ],
+      "manuscript": [
+        0.637,
+        0.651,
+        0.652
+      ],
+      "passed": true,
+      "source": "new P02"
+    },
+    {
+      "claim": "饮食调整OR比 low",
+      "actual": [
+        0.557,
+        0.573,
+        0.572
+      ],
+      "manuscript": [
+        0.557,
+        0.573,
+        0.572
+      ],
+      "passed": true,
+      "source": "new P02"
+    },
+    {
+      "claim": "饮食调整OR比 high",
+      "actual": [
+        0.728,
+        0.739,
+        0.744
+      ],
+      "manuscript": [
+        0.728,
+        0.739,
+        0.744
+      ],
+      "passed": true,
+      "source": "new P02"
+    },
+    {
+      "claim": "食品营养维数",
+      "actual": [
+        177,
+        184
+      ],
+      "manuscript": [
+        177,
+        184
+      ],
+      "passed": true,
+      "source": "new preprocessing"
+    },
+    {
+      "claim": "食品营养10PC解释变异%",
+      "actual": [
+        25.96,
+        73.84
+      ],
+      "manuscript": [
+        25.96,
+        73.84
+      ],
+      "passed": true,
+      "source": "new PCA"
+    },
+    {
+      "claim": "能量限制排除26人",
+      "actual": 26,
+      "manuscript": 26,
+      "passed": true,
+      "source": "new energy filter"
+    },
+    {
+      "claim": "三背景Spearman范围",
+      "actual": [
+        0.688,
+        0.713
+      ],
+      "manuscript": [
+        0.688,
+        0.713
+      ],
+      "passed": true,
+      "source": "fresh CLR"
+    },
+    {
+      "claim": "三背景联合chi2",
+      "actual": 49.67,
+      "manuscript": 49.67,
+      "passed": true,
+      "source": "new J03"
+    },
+    {
+      "claim": "三背景联合P",
+      "actual": [
+        9.4e-11
+      ],
+      "manuscript": [
+        9.4e-11
+      ],
+      "passed": true,
+      "source": "new J03"
+    },
+    {
+      "claim": "菌科OR及CI",
+      "actual": [
+        1.549,
+        1.383,
+        1.734
+      ],
+      "manuscript": [
+        1.549,
+        1.383,
+        1.734
+      ],
+      "passed": true,
+      "source": "new J01"
+    },
+    {
+      "claim": "菌科OR比及CI",
+      "actual": [
+        0.651,
+        0.56,
+        0.757
+      ],
+      "manuscript": [
+        0.651,
+        0.56,
+        0.757
+      ],
+      "passed": true,
+      "source": "new J02"
+    },
+    {
+      "claim": "联合单项无显著数",
+      "actual": 0,
+      "manuscript": 0,
+      "passed": true,
+      "source": "new J02"
+    },
+    {
+      "claim": "四种状态人数",
+      "actual": [
+        1926,
+        353,
+        320,
+        149
+      ],
+      "manuscript": [
+        1926,
+        353,
+        320,
+        149
+      ],
+      "passed": true,
+      "source": "fresh target counts"
+    },
+    {
+      "claim": "状态RRR 2",
+      "actual": [
+        1.616,
+        1.567,
+        1.582
+      ],
+      "manuscript": [
+        1.616,
+        1.567,
+        1.582
+      ],
+      "passed": true,
+      "source": "new S01"
+    },
+    {
+      "claim": "状态对比全显著 2",
+      "actual": 3,
+      "manuscript": 3,
+      "passed": true,
+      "source": "new S01"
+    },
+    {
+      "claim": "状态RRR 3",
+      "actual": [
+        1.377,
+        1.317,
+        1.394
+      ],
+      "manuscript": [
+        1.377,
+        1.317,
+        1.394
+      ],
+      "passed": true,
+      "source": "new S01"
+    },
+    {
+      "claim": "状态对比全显著 3",
+      "actual": 3,
+      "manuscript": 3,
+      "passed": true,
+      "source": "new S01"
+    },
+    {
+      "claim": "乳杆菌单独/共同检出高背景概率更高",
+      "actual": 6,
+      "manuscript": 6,
+      "passed": true,
+      "source": "new S02"
+    },
+    {
+      "claim": "正丰度 ratio_geomean",
+      "actual": [
+        1.427,
+        1.451,
+        1.406
+      ],
+      "manuscript": [
+        1.427,
+        1.451,
+        1.406
+      ],
+      "passed": true,
+      "source": "new A01"
+    },
+    {
+      "claim": "正丰度 low",
+      "actual": [
+        1.233,
+        1.265,
+        1.233
+      ],
+      "manuscript": [
+        1.233,
+        1.265,
+        1.233
+      ],
+      "passed": true,
+      "source": "new A01"
+    },
+    {
+      "claim": "正丰度 high",
+      "actual": [
+        1.652,
+        1.664,
+        1.603
+      ],
+      "manuscript": [
+        1.652,
+        1.664,
+        1.603
+      ],
+      "passed": true,
+      "source": "new A01"
+    },
+    {
+      "claim": "乳杆菌丰度q上限",
+      "actual": 3.802369588536327e-06,
+      "manuscript": "<= 3.81e-06",
+      "passed": true,
+      "source": "new A01"
+    },
+    {
+      "claim": "乳酪杆菌丰度比",
+      "actual": [
+        0.925,
+        0.957,
+        1.027
+      ],
+      "manuscript": [
+        0.925,
+        0.957,
+        1.027
+      ],
+      "passed": true,
+      "source": "new A01"
+    },
+    {
+      "claim": "乳酪杆菌丰度显著数",
+      "actual": 0,
+      "manuscript": 0,
+      "passed": true,
+      "source": "new A01"
+    },
+    {
+      "claim": "≥3阈值丰度实际n",
+      "actual": [
+        380,
+        343
+      ],
+      "manuscript": [
+        380,
+        343
+      ],
+      "passed": true,
+      "source": "new A01"
+    },
+    {
+      "claim": "剔除高读数丰度比",
+      "actual": [
+        1.399,
+        1.423,
+        1.391
+      ],
+      "manuscript": [
+        1.399,
+        1.423,
+        1.391
+      ],
+      "passed": true,
+      "source": "new A02"
+    },
+    {
+      "claim": "最高读数占比%",
+      "actual": 75.89,
+      "manuscript": 75.89,
+      "passed": true,
+      "source": "new A02"
+    },
+    {
+      "claim": "高读数剔除后n",
+      "actual": 468,
+      "manuscript": 468,
+      "passed": true,
+      "source": "new A02"
+    },
+    {
+      "claim": "高读数剔除后q上限",
+      "actual": 8.652767550679239e-06,
+      "manuscript": "<= 8.66e-06",
+      "passed": true,
+      "source": "new A02"
+    },
+    {
+      "claim": "性别差异比",
+      "actual": [
+        1.485,
+        1.454,
+        1.25
+      ],
+      "manuscript": [
+        1.485,
+        1.454,
+        1.25
+      ],
+      "passed": true,
+      "source": "new H02"
+    },
+    {
+      "claim": "性别差异q",
+      "actual": [
+        0.00625,
+        0.00625,
+        0.0964
+      ],
+      "manuscript": [
+        0.00625,
+        0.00625,
+        0.0964
+      ],
+      "passed": true,
+      "source": "new H02"
+    },
+    {
+      "claim": "三背景ASV数",
+      "actual": [
+        3,
+        1,
+        3
+      ],
+      "manuscript": [
+        3,
+        1,
+        3
+      ],
+      "passed": true,
+      "source": "new V01"
+    },
+    {
+      "claim": "乳杆菌两条ASV检出人数",
+      "actual": [
+        261,
+        144
+      ],
+      "manuscript": [
+        261,
+        144
+      ],
+      "passed": true,
+      "source": "new V01"
+    },
+    {
+      "claim": "纵向信息参与者数",
+      "actual": [
+        42,
+        42
+      ],
+      "manuscript": [
+        42,
+        42
+      ],
+      "passed": true,
+      "source": "new L01"
+    },
+    {
+      "claim": "纵向信息样本数",
+      "actual": [
+        360,
+        362
+      ],
+      "manuscript": [
+        360,
+        362
+      ],
+      "passed": true,
+      "source": "new L01"
+    },
+    {
+      "claim": "原分层未通过数",
+      "actual": 5,
+      "manuscript": 5,
+      "passed": true,
+      "source": "new R01"
+    },
+    {
+      "claim": "BMI完整替代子集人数",
+      "actual": [
+        944,
+        1073
+      ],
+      "manuscript": [
+        944,
+        1073
+      ],
+      "passed": true,
+      "source": "new R04"
+    },
+    {
+      "claim": "BMI完整追加有效模型",
+      "actual": 12,
+      "manuscript": 12,
+      "passed": true,
+      "source": "new R04"
+    },
+    {
+      "claim": "两分类主要配对q",
+      "actual": [
+        2.22e-14,
+        8.63e-14
+      ],
+      "manuscript": [
+        2.22e-14,
+        8.63e-14
+      ],
+      "passed": true,
+      "source": "new C11"
+    },
+    {
+      "claim": "提高阈值及两分类核心差异q上限",
+      "actual": 8.107533924797944e-11,
+      "manuscript": "<= 8.11e-11",
+      "passed": true,
+      "source": "new C12"
+    },
+    {
+      "claim": "科汇总菌属数",
+      "actual": 19,
+      "manuscript": 19,
+      "passed": true,
+      "source": "new family reconstruction"
+    },
+    {
+      "claim": "纵向分析输入样本与人数",
+      "actual": [
+        664,
+        153
+      ],
+      "manuscript": [
+        664,
+        153
+      ],
+      "passed": true,
+      "source": "supplied longitudinal selection index; models refit"
+    },
+    {
+      "claim": "纵向聚类OR",
+      "actual": [
+        1.632,
+        1.419,
+        1.627
+      ],
+      "manuscript": [
+        1.632,
+        1.419,
+        1.627
+      ],
+      "passed": true,
+      "source": "new N02"
+    },
+    {
+      "claim": "纵向聚类CI低",
+      "actual": [
+        1.133,
+        1.043,
+        1.137
+      ],
+      "manuscript": [
+        1.133,
+        1.043,
+        1.137
+      ],
+      "passed": true,
+      "source": "new N02"
+    },
+    {
+      "claim": "纵向聚类CI高",
+      "actual": [
+        2.349,
+        1.93,
+        2.328
+      ],
+      "manuscript": [
+        2.349,
+        1.93,
+        2.328
+      ],
+      "passed": true,
+      "source": "new N02"
+    },
+    {
+      "claim": "纵向聚类q",
+      "actual": [
+        0.0292,
+        0.0535,
+        0.0292
+      ],
+      "manuscript": [
+        0.0292,
+        0.0535,
+        0.0292
+      ],
+      "passed": true,
+      "source": "new N02"
+    }
+  ],
+  "table1": {
+    "data_cells_checked": 14,
+    "all_data_cells_checked": true,
+    "footnote_missingness_checked": true,
+    "source": "fresh preparation raw_covariates; all quantiles independently recalculated; percentages denominator 2760"
+  },
+  "supplement_coverage": [
+    {
+      "section": "1 样本与分析变量",
+      "status": "covered",
+      "evidence": [
+        "preparation_verification.json",
+        "source_rebuild_summary.json",
+        "diet inventory",
+        "Table 1 recalculation here"
+      ],
+      "note": "Source tables/BIOM are provided processed AGP inputs; no raw-read processing claim."
+    },
+    {
+      "section": "2 关联模型与多重检验校正",
+      "status": "covered",
+      "evidence": [
+        "core_verification.json: C01-C07",
+        "core stacked-model cross-checks",
+        "deepening statistical independent checks"
+      ],
+      "note": "936 regressions, 15 pairs, 156 omnibus and 2340 comparisons; historical exploratory chronology is documented, not experimentally reverified."
+    },
+    {
+      "section": "3 饮食、联合、检出状态及丰度",
+      "status": "covered",
+      "evidence": [
+        "deepening_validation.json: P/J/S/A01/A02",
+        "new PCA scores/loadings",
+        "统计独立核验.json"
+      ],
+      "note": "Fresh source dietary joins and PCA, full model refits including alternate thresholds and high-read exclusion."
+    },
+    {
+      "section": "4 分类及序列复核",
+      "status": "covered_from_supplied_assignments",
+      "evidence": [
+        "core taxonomy rebuild/validation C08-C15",
+        "deepening V01-V03",
+        "sensitivity bloom and QC5000 diagnostics"
+      ],
+      "note": "VSEARCH/SINTAX annotation itself is not rerun; original R06/R07 classifications are supplied inputs. ASV aggregation and downstream statistical models are regenerated."
+    },
+    {
+      "section": "5 分层、性别、轮次及协变量敏感性",
+      "status": "covered",
+      "evidence": [
+        "deepening R01-R05/H01-H03/M01",
+        "sensitivity N01",
+        "round and diversity diagnostics"
+      ],
+      "note": "Original 5 stratified-model failures and 32-round model failure retained, not converted to successes."
+    },
+    {
+      "section": "6 同人重复采样",
+      "status": "covered_from_frozen_longitudinal_index",
+      "evidence": [
+        "deepening L01",
+        "sensitivity N02",
+        "within_person diagnostics"
+      ],
+      "note": "Refits include 30 original conditional models and 18 clustered uncertainty checks. The 153-person/664-sample longitudinal index is a supplied selection input; no longitudinal cross-target coefficient contrast claimed."
+    }
+  ],
+  "not_claimed": [
+    "Fresh raw sequencing processing",
+    "Fresh VSEARCH/SINTAX classifications",
+    "Independent external cohort validation",
+    "Cross-machine execution",
+    "Reverification of ethics approvals, bibliography and author identity"
+  ],
+  "documents_modified": false
+}

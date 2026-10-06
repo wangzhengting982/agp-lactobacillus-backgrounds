@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "all_passed": true,
+  "checked_at_utc": "2026-10-06T14:58:30.146141+00:00",
+  "dpi": 200,
+  "render_scale": 2.7777777777777777,
+  "comparison_mode": "RGB exact pixel equality",
+  "tolerance": 0,
+  "figures_checked": 3,
+  "pypdfium2_version": "5.14.0",
+  "pillow_version": "12.3.0",
+  "checks": [
+    {
+      "figure": "图1_分析人群与乳酸菌检出",
+      "current_pdf": "runs/figures/vector/图1_分析人群与乳酸菌检出.pdf",
+      "submitted_pdf": "data/archive/11_投稿格式修订_20261006/图件复绘/vector/图1_分析人群与乳酸菌检出.pdf",
+      "passed": true,
+      "current_pdf_sha256": "3c0a2ebd415f938fc295671921843c13a725533c271314595922017c2d2ed136",
+      "submitted_pdf_sha256": "3c0a2ebd415f938fc295671921843c13a725533c271314595922017c2d2ed136",
+      "current_size_pixels": [
+        1182,
+        788
+      ],
+      "submitted_size_pixels": [
+        1182,
+        788
+      ],
+      "differing_pixels": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null,
+      "pixel_identical_to_submitted_vector_render": true
+    },
+    {
+      "figure": "图2_属间比较与饮食调整",
+      "current_pdf": "runs/figures/vector/图2_属间比较与饮食调整.pdf",
+      "submitted_pdf": "data/archive/11_投稿格式修订_20261006/图件复绘/vector/图2_属间比较与饮食调整.pdf",
+      "passed": true,
+      "current_pdf_sha256": "5f3dc607a719661486657a759cefb9905157c0ba2af42025801bbe8abd6da7e4",
+      "submitted_pdf_sha256": "5f3dc607a719661486657a759cefb9905157c0ba2af42025801bbe8abd6da7e4",
+      "current_size_pixels": [
+        1182,
+        851
+      ],
+      "submitted_size_pixels": [
+        1182,
+        851
+      ],
+      "differing_pixels": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null,
+      "pixel_identical_to_submitted_vector_render": true
+    },
+    {
+      "figure": "图3_背景水平与检出及丰度",
+      "current_pdf": "runs/figures/vector/图3_背景水平与检出及丰度.pdf",
+      "submitted_pdf": "data/archive/11_投稿格式修订_20261006/图件复绘/vector/图3_背景水平与检出及丰度.pdf",
+      "passed": true,
+      "current_pdf_sha256": "66f8c03bdc8832a69aa2c169c395f0a04e35a70d7176dfd988c721a644d534ee",
+      "submitted_pdf_sha256": "66f8c03bdc8832a69aa2c169c395f0a04e35a70d7176dfd988c721a644d534ee",
+      "current_size_pixels": [
+        1182,
+        788
+      ],
+      "submitted_size_pixels": [
+        1182,
+        788
+      ],
+      "differing_pixels": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null,
+      "pixel_identical_to_submitted_vector_render": true
+    }
+  ],
+  "scope": "Both PDF sets are freshly rendered in the same process. No model fitting or independent visual inspection is performed by this check."
+}

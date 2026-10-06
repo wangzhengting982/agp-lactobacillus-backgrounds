@@ -1,0 +1,46 @@
+{
+  "changes": [
+    {
+      "file": "diversity/run_diversity_audit.py",
+      "source_sha256": "aa72a52dba42b4aa061a7294b70b4c2c3765498a3aa5f2b2fa2c6f3867e8d178",
+      "changes": "Runtime path injection removed; provenance output root configurable. Numerical formulas unchanged."
+    },
+    {
+      "file": "provenance/01_intake.py",
+      "source_sha256": "bf23e588bc3bf21331e0489fd6b8b12c6b5360f069736b28882215ad5b1e71b7",
+      "changes": "Runtime path injection removed; provenance output root configurable. Numerical formulas unchanged."
+    },
+    {
+      "file": "provenance/02_round_sensitivity.py",
+      "source_sha256": "8eb2dc53686be09b5e8bccb6dd3226d61b1b7c5251995d056cb43215b0cf22f9",
+      "changes": "Runtime path injection removed; provenance output root configurable. Numerical formulas unchanged."
+    },
+    {
+      "file": "bloom/run_bloom_sensitivity.py",
+      "source_sha256": "2c15b3025b18960b6710be9f695f1b351dc26c5e5dd725af4e8d262030baf1f4",
+      "changes": "Runtime path injection removed; provenance output root configurable. Numerical formulas unchanged."
+    },
+    {
+      "file": "bloom/run_qc5000_sensitivity.py",
+      "source_sha256": "60536e3fc336833cf63c8a0408037ff93e7cbd883c0cc8e9c3f2e8b082248ac2",
+      "changes": "Runtime path injection removed; provenance output root configurable. Numerical formulas unchanged."
+    },
+    {
+      "file": "within_person/run_within_audit.py",
+      "source_sha256": "95b46efed11d22b8ec0de50df771767287362804764db60ca32858770e99e224",
+      "changes": "Runtime path injection removed; provenance output root configurable. Numerical formulas unchanged."
+    }
+  ],
+  "taxonomy_rebuilt_inputs": [
+    "runs\\core\\taxonomy_inputs\\R06\\analysis_covariates.tsv",
+    "runs\\core\\taxonomy_inputs\\R06\\covariate_design.tsv",
+    "runs\\core\\taxonomy_inputs\\R06\\pc_scores.tsv",
+    "runs\\core\\taxonomy_inputs\\R06\\standardized_clr.tsv.gz",
+    "runs\\core\\taxonomy_inputs\\R06\\target_counts.tsv",
+    "runs\\core\\taxonomy_inputs\\R07\\analysis_covariates.tsv",
+    "runs\\core\\taxonomy_inputs\\R07\\covariate_design.tsv",
+    "runs\\core\\taxonomy_inputs\\R07\\pc_scores.tsv",
+    "runs\\core\\taxonomy_inputs\\R07\\standardized_clr.tsv.gz",
+    "runs\\core\\taxonomy_inputs\\R07\\target_counts.tsv"
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "stage": "diversity",
+    "pid": 21516,
+    "seconds": 4.370097875595093,
+    "exit_code": 0,
+    "log": "runs\\sensitivity\\diversity.log"
+  },
+  {
+    "stage": "intake",
+    "pid": 20096,
+    "seconds": 2.983916997909546,
+    "exit_code": 0,
+    "log": "runs\\sensitivity\\intake.log"
+  },
+  {
+    "stage": "round",
+    "pid": 22924,
+    "seconds": 4.224111080169678,
+    "exit_code": 0,
+    "log": "runs\\sensitivity\\round.log"
+  },
+  {
+    "stage": "bloom",
+    "pid": 19140,
+    "seconds": 5.831482648849487,
+    "exit_code": 0,
+    "log": "runs\\sensitivity\\bloom.log"
+  },
+  {
+    "stage": "qc5000",
+    "pid": 22920,
+    "seconds": 4.045475006103516,
+    "exit_code": 0,
+    "log": "runs\\sensitivity\\qc5000.log"
+  },
+  {
+    "stage": "within_person",
+    "pid": 3500,
+    "seconds": 14.543858528137207,
+    "exit_code": 0,
+    "log": "runs\\sensitivity\\within_person.log"
+  }
+]
