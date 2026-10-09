@@ -1,0 +1,12 @@
+{
+  "result_table_rows_matched": 54,
+  "frozen_figure1_rows": 12,
+  "all_66_figure_rows_unchanged": true,
+  "current_result_tables": 30,
+  "mapping": {
+    "C13": "C12 two target effect columns",
+    "A01": "A01 scenario=all_detected",
+    "S02": "S02 unchanged probability columns"
+  },
+  "source_note": "Frozen plot JSON retains pre-consolidation worksheet labels and row numbers; the current workbook is matched by model keys and exact numerical values."
+}

@@ -1,0 +1,1498 @@
+{
+  "all_plotted_rows": [
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Lacticaseibacillus",
+        "threshold": 1
+      },
+      "values": {
+        "detected": 504,
+        "n_total": 2760,
+        "percent": 18.26086956521739,
+        "threshold": 1
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Lacticaseibacillus",
+        "threshold": 3
+      },
+      "values": {
+        "detected": 382,
+        "n_total": 2760,
+        "percent": 13.840579710144926,
+        "threshold": 3
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Lactobacillus",
+        "threshold": 1
+      },
+      "values": {
+        "detected": 469,
+        "n_total": 2760,
+        "percent": 16.992753623188406,
+        "threshold": 1
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Lactobacillus",
+        "threshold": 3
+      },
+      "values": {
+        "detected": 343,
+        "n_total": 2760,
+        "percent": 12.42753623188406,
+        "threshold": 3
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Leuconostoc",
+        "threshold": 1
+      },
+      "values": {
+        "detected": 191,
+        "n_total": 2760,
+        "percent": 6.920289855072463,
+        "threshold": 1
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Leuconostoc",
+        "threshold": 3
+      },
+      "values": {
+        "detected": 138,
+        "n_total": 2760,
+        "percent": 5.0,
+        "threshold": 3
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Limosilactobacillus",
+        "threshold": 1
+      },
+      "values": {
+        "detected": 158,
+        "n_total": 2760,
+        "percent": 5.72463768115942,
+        "threshold": 1
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Limosilactobacillus",
+        "threshold": 3
+      },
+      "values": {
+        "detected": 118,
+        "n_total": 2760,
+        "percent": 4.275362318840579,
+        "threshold": 3
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Ligilactobacillus",
+        "threshold": 1
+      },
+      "values": {
+        "detected": 147,
+        "n_total": 2760,
+        "percent": 5.326086956521739,
+        "threshold": 1
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Ligilactobacillus",
+        "threshold": 3
+      },
+      "values": {
+        "detected": 115,
+        "n_total": 2760,
+        "percent": 4.166666666666666,
+        "threshold": 3
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Pediococcus",
+        "threshold": 1
+      },
+      "values": {
+        "detected": 90,
+        "n_total": 2760,
+        "percent": 3.260869565217391,
+        "threshold": 1
+      }
+    },
+    {
+      "panel": "1b",
+      "source": "verified cohort inputs",
+      "source_row": null,
+      "identity": {
+        "taxon": "Pediococcus",
+        "threshold": 3
+      },
+      "values": {
+        "detected": 67,
+        "n_total": 2760,
+        "percent": 2.427536231884058,
+        "threshold": 3
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 2,
+      "identity": {
+        "taxon_A": "Lacticaseibacillus",
+        "taxon_B": "Lactobacillus"
+      },
+      "values": {
+        "chi2": 88.1437667801155,
+        "q_BH_15": 1.87346964534293e-13
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 3,
+      "identity": {
+        "taxon_A": "Lacticaseibacillus",
+        "taxon_B": "Leuconostoc"
+      },
+      "values": {
+        "chi2": 26.11190715539452,
+        "q_BH_15": 0.006006206714789052
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 7,
+      "identity": {
+        "taxon_A": "Lactobacillus",
+        "taxon_B": "Leuconostoc"
+      },
+      "values": {
+        "chi2": 27.50937525752802,
+        "q_BH_15": 0.004632933292535764
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 4,
+      "identity": {
+        "taxon_A": "Lacticaseibacillus",
+        "taxon_B": "Limosilactobacillus"
+      },
+      "values": {
+        "chi2": 53.70241913836828,
+        "q_BH_15": 2.75622853055779e-07
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 8,
+      "identity": {
+        "taxon_A": "Lactobacillus",
+        "taxon_B": "Limosilactobacillus"
+      },
+      "values": {
+        "chi2": 21.73338854410199,
+        "q_BH_15": 0.02132511965506332
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 11,
+      "identity": {
+        "taxon_A": "Leuconostoc",
+        "taxon_B": "Limosilactobacillus"
+      },
+      "values": {
+        "chi2": 29.7793809866182,
+        "q_BH_15": 0.002326938145463057
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 5,
+      "identity": {
+        "taxon_A": "Lacticaseibacillus",
+        "taxon_B": "Ligilactobacillus"
+      },
+      "values": {
+        "chi2": 62.61085441725302,
+        "q_BH_15": 8.6850706682312e-09
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 9,
+      "identity": {
+        "taxon_A": "Lactobacillus",
+        "taxon_B": "Ligilactobacillus"
+      },
+      "values": {
+        "chi2": 43.59309357786712,
+        "q_BH_15": 1.460379883744229e-05
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 12,
+      "identity": {
+        "taxon_A": "Leuconostoc",
+        "taxon_B": "Ligilactobacillus"
+      },
+      "values": {
+        "chi2": 34.29621445728606,
+        "q_BH_15": 0.0004935752877443353
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 14,
+      "identity": {
+        "taxon_A": "Limosilactobacillus",
+        "taxon_B": "Ligilactobacillus"
+      },
+      "values": {
+        "chi2": 17.30857083421512,
+        "q_BH_15": 0.07824104405473192
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 6,
+      "identity": {
+        "taxon_A": "Lacticaseibacillus",
+        "taxon_B": "Pediococcus"
+      },
+      "values": {
+        "chi2": 5.165273399083687,
+        "q_BH_15": 0.8798675227607747
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 10,
+      "identity": {
+        "taxon_A": "Lactobacillus",
+        "taxon_B": "Pediococcus"
+      },
+      "values": {
+        "chi2": 26.10328866230867,
+        "q_BH_15": 0.006006206714789052
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 13,
+      "identity": {
+        "taxon_A": "Leuconostoc",
+        "taxon_B": "Pediococcus"
+      },
+      "values": {
+        "chi2": 9.089154787230674,
+        "q_BH_15": 0.5610684811201923
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 15,
+      "identity": {
+        "taxon_A": "Limosilactobacillus",
+        "taxon_B": "Pediococcus"
+      },
+      "values": {
+        "chi2": 21.63777324546079,
+        "q_BH_15": 0.02132511965506332
+      }
+    },
+    {
+      "panel": "2a",
+      "source": "05_补充数据.xlsx/C04_全部15组模式比较",
+      "source_row": 16,
+      "identity": {
+        "taxon_A": "Ligilactobacillus",
+        "taxon_B": "Pediococcus"
+      },
+      "values": {
+        "chi2": 23.23188649958037,
+        "q_BH_15": 0.01488339237143672
+      }
+    },
+    {
+      "panel": "2b",
+      "source": "05_补充数据.xlsx/C13_三背景两目标效应量",
+      "source_row": 2,
+      "identity": {
+        "taxon": "Lacticaseibacillus",
+        "feature": "microbe::Peptoniphilaceae|Anaerococcus",
+        "scenario": "original_reads1"
+      },
+      "values": {
+        "OR": 0.9550645461577618,
+        "CI_low": 0.8625604826009512,
+        "CI_high": 1.057489075522048
+      },
+      "plotted": {
+        "estimate": 0.9550645461577618,
+        "low": 0.8625604826009512,
+        "high": 1.057489075522048,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2b",
+      "source": "05_补充数据.xlsx/C13_三背景两目标效应量",
+      "source_row": 3,
+      "identity": {
+        "taxon": "Lactobacillus",
+        "feature": "microbe::Peptoniphilaceae|Anaerococcus",
+        "scenario": "original_reads1"
+      },
+      "values": {
+        "OR": 1.48175287987487,
+        "CI_low": 1.35693302446897,
+        "CI_high": 1.61805450779467
+      },
+      "plotted": {
+        "estimate": 1.48175287987487,
+        "low": 1.35693302446897,
+        "high": 1.61805450779467,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2b",
+      "source": "05_补充数据.xlsx/C13_三背景两目标效应量",
+      "source_row": 4,
+      "identity": {
+        "taxon": "Lacticaseibacillus",
+        "feature": "microbe::Peptoniphilaceae|Finegoldia",
+        "scenario": "original_reads1"
+      },
+      "values": {
+        "OR": 1.002605918595405,
+        "CI_low": 0.9122669481278056,
+        "CI_high": 1.101890877517254
+      },
+      "plotted": {
+        "estimate": 1.002605918595405,
+        "low": 0.9122669481278056,
+        "high": 1.101890877517254,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2b",
+      "source": "05_补充数据.xlsx/C13_三背景两目标效应量",
+      "source_row": 5,
+      "identity": {
+        "taxon": "Lactobacillus",
+        "feature": "microbe::Peptoniphilaceae|Finegoldia",
+        "scenario": "original_reads1"
+      },
+      "values": {
+        "OR": 1.51866182337732,
+        "CI_low": 1.38704632660098,
+        "CI_high": 1.662766188520538
+      },
+      "plotted": {
+        "estimate": 1.51866182337732,
+        "low": 1.38704632660098,
+        "high": 1.662766188520538,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2b",
+      "source": "05_补充数据.xlsx/C13_三背景两目标效应量",
+      "source_row": 6,
+      "identity": {
+        "taxon": "Lacticaseibacillus",
+        "feature": "microbe::Peptoniphilaceae|Peptoniphilus_A",
+        "scenario": "original_reads1"
+      },
+      "values": {
+        "OR": 0.9382056035646249,
+        "CI_low": 0.8459401234625299,
+        "CI_high": 1.04053434769967
+      },
+      "plotted": {
+        "estimate": 0.9382056035646249,
+        "low": 0.8459401234625299,
+        "high": 1.04053434769967,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2b",
+      "source": "05_补充数据.xlsx/C13_三背景两目标效应量",
+      "source_row": 7,
+      "identity": {
+        "taxon": "Lactobacillus",
+        "feature": "microbe::Peptoniphilaceae|Peptoniphilus_A",
+        "scenario": "original_reads1"
+      },
+      "values": {
+        "OR": 1.429238572982267,
+        "CI_low": 1.308581286883725,
+        "CI_high": 1.561021022518944
+      },
+      "plotted": {
+        "estimate": 1.429238572982267,
+        "low": 1.308581286883725,
+        "high": 1.561021022518944,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2c",
+      "source": "05_补充数据.xlsx/P02_广泛饮食调整全部差异",
+      "source_row": 11,
+      "identity": {
+        "background": "Anaerococcus",
+        "spec": "food10_nutrient10"
+      },
+      "values": {
+        "ratio_OR": 0.6368073505825446,
+        "low": 0.557259922440898,
+        "high": 0.7277099705639947
+      },
+      "plotted": {
+        "estimate": 0.6368073505825446,
+        "low": 0.557259922440898,
+        "high": 0.7277099705639947,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2c",
+      "source": "05_补充数据.xlsx/P02_广泛饮食调整全部差异",
+      "source_row": 12,
+      "identity": {
+        "background": "Finegoldia",
+        "spec": "food10_nutrient10"
+      },
+      "values": {
+        "ratio_OR": 0.6508390364367548,
+        "low": 0.5729207843510132,
+        "high": 0.739354310264297
+      },
+      "plotted": {
+        "estimate": 0.6508390364367548,
+        "low": 0.5729207843510132,
+        "high": 0.739354310264297,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "2c",
+      "source": "05_补充数据.xlsx/P02_广泛饮食调整全部差异",
+      "source_row": 13,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "spec": "food10_nutrient10"
+      },
+      "values": {
+        "ratio_OR": 0.6523948006734133,
+        "low": 0.5719365761054567,
+        "high": 0.7441716332323268
+      },
+      "plotted": {
+        "estimate": 0.6523948006734133,
+        "low": 0.5719365761054567,
+        "high": 0.7441716332323268,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 2,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 0,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.7282618703753063,
+        "low": 0.708204602023506,
+        "high": 0.7483191387271066
+      },
+      "plotted": {
+        "estimate": 72.82618703753063,
+        "low": 70.8204602023506,
+        "high": 74.83191387271066,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 6,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 0,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.650532716425223,
+        "low": 0.621959986566231,
+        "high": 0.6791054462842151
+      },
+      "plotted": {
+        "estimate": 65.0532716425223,
+        "low": 62.1959986566231,
+        "high": 67.9105446284215,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 10,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 0,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.7348250005226087,
+        "low": 0.715228217978811,
+        "high": 0.7544217830664064
+      },
+      "plotted": {
+        "estimate": 73.48250005226087,
+        "low": 71.5228217978811,
+        "high": 75.44217830664064,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 14,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 0,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.6337763695264602,
+        "low": 0.6038614596507851,
+        "high": 0.6636912794021353
+      },
+      "plotted": {
+        "estimate": 63.37763695264602,
+        "low": 60.386145965078505,
+        "high": 66.36912794021353,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 18,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 0,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.7226694768298929,
+        "low": 0.7024805375727073,
+        "high": 0.7428584160870785
+      },
+      "plotted": {
+        "estimate": 72.2669476829893,
+        "low": 70.24805375727074,
+        "high": 74.28584160870784,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 22,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 0,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.6640434615076553,
+        "low": 0.6374437399948151,
+        "high": 0.6906431830204954
+      },
+      "plotted": {
+        "estimate": 66.40434615076552,
+        "low": 63.74437399948151,
+        "high": 69.06431830204954,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 3,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 1,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1399085771162899,
+        "low": 0.1230221043261234,
+        "high": 0.1567950499064565
+      },
+      "plotted": {
+        "estimate": 13.99085771162899,
+        "low": 12.30221043261234,
+        "high": 15.67950499064565,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 7,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 1,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1084555827343402,
+        "low": 0.08754514715698497,
+        "high": 0.1293660183116954
+      },
+      "plotted": {
+        "estimate": 10.845558273434019,
+        "low": 8.754514715698496,
+        "high": 12.93660183116954,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 11,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 1,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1349388745108376,
+        "low": 0.118881318300079,
+        "high": 0.1509964307215962
+      },
+      "plotted": {
+        "estimate": 13.493887451083761,
+        "low": 11.8881318300079,
+        "high": 15.099643072159619,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 15,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 1,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1170955405527454,
+        "low": 0.09689248025851332,
+        "high": 0.1372986008469775
+      },
+      "plotted": {
+        "estimate": 11.709554055274541,
+        "low": 9.689248025851333,
+        "high": 13.729860084697751,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 19,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 1,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1409740087951647,
+        "low": 0.1239201767860167,
+        "high": 0.1580278408043127
+      },
+      "plotted": {
+        "estimate": 14.097400879516469,
+        "low": 12.39201767860167,
+        "high": 15.80278408043127,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 23,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 1,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1082044695938123,
+        "low": 0.08860513488750885,
+        "high": 0.1278038043001158
+      },
+      "plotted": {
+        "estimate": 10.820446959381231,
+        "low": 8.860513488750884,
+        "high": 12.78038043001158,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 4,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 2,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.08387456908798438,
+        "low": 0.07198203652797555,
+        "high": 0.09576710164799321
+      },
+      "plotted": {
+        "estimate": 8.387456908798438,
+        "low": 7.198203652797555,
+        "high": 9.576710164799321,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 8,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 2,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1743879510428341,
+        "low": 0.1529254261620163,
+        "high": 0.1958504759236519
+      },
+      "plotted": {
+        "estimate": 17.43879510428341,
+        "low": 15.29254261620163,
+        "high": 19.58504759236519,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 12,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 2,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.08279179629702511,
+        "low": 0.07104434440242706,
+        "high": 0.09453924819162317
+      },
+      "plotted": {
+        "estimate": 8.279179629702512,
+        "low": 7.104434440242706,
+        "high": 9.453924819162317,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 16,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 2,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1821168620296097,
+        "low": 0.1593485596773016,
+        "high": 0.2048851643819178
+      },
+      "plotted": {
+        "estimate": 18.21168620296097,
+        "low": 15.93485596773016,
+        "high": 20.48851643819178,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 20,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 2,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.08824452704016154,
+        "low": 0.07641553309040712,
+        "high": 0.100073520989916
+      },
+      "plotted": {
+        "estimate": 8.824452704016155,
+        "low": 7.641553309040712,
+        "high": 10.0073520989916,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 24,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 2,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.1624429206830835,
+        "low": 0.1428625317925458,
+        "high": 0.1820233095736213
+      },
+      "plotted": {
+        "estimate": 16.24429206830835,
+        "low": 14.28625317925458,
+        "high": 18.202330957362133,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 5,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 3,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.04795498342041944,
+        "low": 0.0390522876070729,
+        "high": 0.05685767923376598
+      },
+      "plotted": {
+        "estimate": 4.795498342041944,
+        "low": 3.9052287607072897,
+        "high": 5.685767923376598,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 9,
+      "identity": {
+        "background": "Anaerococcus",
+        "state": 3,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.06662374979760263,
+        "low": 0.0521099277350737,
+        "high": 0.08113757186013157
+      },
+      "plotted": {
+        "estimate": 6.662374979760263,
+        "low": 5.210992773507369,
+        "high": 8.113757186013157,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 13,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 3,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.04744432866952852,
+        "low": 0.03844146788754996,
+        "high": 0.05644718945150709
+      },
+      "plotted": {
+        "estimate": 4.7444328669528515,
+        "low": 3.844146788754996,
+        "high": 5.644718945150709,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 17,
+      "identity": {
+        "background": "Finegoldia",
+        "state": 3,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.06701122789118467,
+        "low": 0.05238639217591123,
+        "high": 0.08163606360645811
+      },
+      "plotted": {
+        "estimate": 6.701122789118467,
+        "low": 5.238639217591123,
+        "high": 8.163606360645812,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 21,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 3,
+        "level": "p10",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.04811198733478082,
+        "low": 0.03932545618666344,
+        "high": 0.0568985184828982
+      },
+      "plotted": {
+        "estimate": 4.811198733478082,
+        "low": 3.932545618666344,
+        "high": 5.689851848289821,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3a",
+      "source": "05_补充数据.xlsx/S02_四状态标准化概率",
+      "source_row": 25,
+      "identity": {
+        "background": "Peptoniphilus_A",
+        "state": 3,
+        "level": "p90",
+        "threshold": 1
+      },
+      "values": {
+        "probability": 0.06530914821544895,
+        "low": 0.05169120797399464,
+        "high": 0.07892708845690326
+      },
+      "plotted": {
+        "estimate": 6.5309148215448944,
+        "low": 5.169120797399464,
+        "high": 7.892708845690326,
+        "scale": 100
+      }
+    },
+    {
+      "panel": "3b",
+      "source": "05_补充数据.xlsx/A01_检出后相对丰度",
+      "source_row": 2,
+      "identity": {
+        "target": "Lacticaseibacillus",
+        "background": "Anaerococcus",
+        "threshold": 1
+      },
+      "values": {
+        "ratio_geomean": 0.9253738264728,
+        "low": 0.8045112225556363,
+        "high": 1.064393752023382
+      },
+      "plotted": {
+        "estimate": 0.9253738264728,
+        "low": 0.8045112225556363,
+        "high": 1.064393752023382,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "3b",
+      "source": "05_补充数据.xlsx/A01_检出后相对丰度",
+      "source_row": 4,
+      "identity": {
+        "target": "Lacticaseibacillus",
+        "background": "Finegoldia",
+        "threshold": 1
+      },
+      "values": {
+        "ratio_geomean": 0.9569518308747891,
+        "low": 0.8272747566611346,
+        "high": 1.106956061744937
+      },
+      "plotted": {
+        "estimate": 0.9569518308747891,
+        "low": 0.8272747566611346,
+        "high": 1.106956061744937,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "3b",
+      "source": "05_补充数据.xlsx/A01_检出后相对丰度",
+      "source_row": 6,
+      "identity": {
+        "target": "Lacticaseibacillus",
+        "background": "Peptoniphilus_A",
+        "threshold": 1
+      },
+      "values": {
+        "ratio_geomean": 1.027474341399977,
+        "low": 0.8743897605448936,
+        "high": 1.207360344175843
+      },
+      "plotted": {
+        "estimate": 1.027474341399977,
+        "low": 0.8743897605448936,
+        "high": 1.207360344175843,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "3b",
+      "source": "05_补充数据.xlsx/A01_检出后相对丰度",
+      "source_row": 3,
+      "identity": {
+        "target": "Lactobacillus",
+        "background": "Anaerococcus",
+        "threshold": 1
+      },
+      "values": {
+        "ratio_geomean": 1.427349451509222,
+        "low": 1.232960009178299,
+        "high": 1.652386485820773
+      },
+      "plotted": {
+        "estimate": 1.427349451509222,
+        "low": 1.232960009178299,
+        "high": 1.652386485820773,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "3b",
+      "source": "05_补充数据.xlsx/A01_检出后相对丰度",
+      "source_row": 5,
+      "identity": {
+        "target": "Lactobacillus",
+        "background": "Finegoldia",
+        "threshold": 1
+      },
+      "values": {
+        "ratio_geomean": 1.451201725119047,
+        "low": 1.265442038847493,
+        "high": 1.6642298756777
+      },
+      "plotted": {
+        "estimate": 1.451201725119047,
+        "low": 1.265442038847493,
+        "high": 1.6642298756777,
+        "scale": 1
+      }
+    },
+    {
+      "panel": "3b",
+      "source": "05_补充数据.xlsx/A01_检出后相对丰度",
+      "source_row": 7,
+      "identity": {
+        "target": "Lactobacillus",
+        "background": "Peptoniphilus_A",
+        "threshold": 1
+      },
+      "values": {
+        "ratio_geomean": 1.405758009888487,
+        "low": 1.232515263174686,
+        "high": 1.603351813490326
+      },
+      "plotted": {
+        "estimate": 1.405758009888487,
+        "low": 1.232515263174686,
+        "high": 1.603351813490326,
+        "scale": 1
+      }
+    }
+  ],
+  "artist_ci_checks": [
+    {
+      "panel": "2b",
+      "estimate": 0.9550645461577618,
+      "low": 0.8625604826009512,
+      "high": 1.057489075522048,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2b",
+      "estimate": 1.48175287987487,
+      "low": 1.35693302446897,
+      "high": 1.61805450779467,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2b",
+      "estimate": 1.002605918595405,
+      "low": 0.9122669481278056,
+      "high": 1.101890877517254,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2b",
+      "estimate": 1.51866182337732,
+      "low": 1.38704632660098,
+      "high": 1.662766188520538,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2b",
+      "estimate": 0.9382056035646249,
+      "low": 0.8459401234625299,
+      "high": 1.04053434769967,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2b",
+      "estimate": 1.429238572982267,
+      "low": 1.308581286883725,
+      "high": 1.561021022518944,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2c",
+      "estimate": 0.6368073505825446,
+      "low": 0.557259922440898,
+      "high": 0.7277099705639947,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2c",
+      "estimate": 0.6508390364367548,
+      "low": 0.5729207843510132,
+      "high": 0.739354310264297,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "2c",
+      "estimate": 0.6523948006734133,
+      "low": 0.5719365761054567,
+      "high": 0.7441716332323268,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 72.82618703753063,
+      "low": 70.8204602023506,
+      "high": 74.83191387271066,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 65.0532716425223,
+      "low": 62.1959986566231,
+      "high": 67.9105446284215,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 73.48250005226087,
+      "low": 71.5228217978811,
+      "high": 75.44217830664064,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 63.37763695264602,
+      "low": 60.386145965078505,
+      "high": 66.36912794021353,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 72.2669476829893,
+      "low": 70.24805375727074,
+      "high": 74.28584160870784,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 66.40434615076552,
+      "low": 63.74437399948151,
+      "high": 69.06431830204954,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 13.99085771162899,
+      "low": 12.30221043261234,
+      "high": 15.67950499064565,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 10.845558273434019,
+      "low": 8.754514715698496,
+      "high": 12.93660183116954,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 13.493887451083761,
+      "low": 11.8881318300079,
+      "high": 15.099643072159619,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 11.709554055274541,
+      "low": 9.689248025851333,
+      "high": 13.729860084697751,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 14.097400879516469,
+      "low": 12.39201767860167,
+      "high": 15.80278408043127,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 10.820446959381231,
+      "low": 8.860513488750884,
+      "high": 12.78038043001158,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 8.387456908798438,
+      "low": 7.198203652797555,
+      "high": 9.576710164799321,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 17.43879510428341,
+      "low": 15.29254261620163,
+      "high": 19.58504759236519,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 8.279179629702512,
+      "low": 7.104434440242706,
+      "high": 9.453924819162317,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 18.21168620296097,
+      "low": 15.93485596773016,
+      "high": 20.48851643819178,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 8.824452704016155,
+      "low": 7.641553309040712,
+      "high": 10.0073520989916,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 16.24429206830835,
+      "low": 14.28625317925458,
+      "high": 18.202330957362133,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 4.795498342041944,
+      "low": 3.9052287607072897,
+      "high": 5.685767923376598,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 6.662374979760263,
+      "low": 5.210992773507369,
+      "high": 8.113757186013157,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 4.7444328669528515,
+      "low": 3.844146788754996,
+      "high": 5.644718945150709,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 6.701122789118467,
+      "low": 5.238639217591123,
+      "high": 8.163606360645812,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 4.811198733478082,
+      "low": 3.932545618666344,
+      "high": 5.689851848289821,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3a",
+      "estimate": 6.5309148215448944,
+      "low": 5.169120797399464,
+      "high": 7.892708845690326,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3b",
+      "estimate": 0.9253738264728,
+      "low": 0.8045112225556363,
+      "high": 1.064393752023382,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3b",
+      "estimate": 0.9569518308747891,
+      "low": 0.8272747566611346,
+      "high": 1.106956061744937,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3b",
+      "estimate": 1.027474341399977,
+      "low": 0.8743897605448936,
+      "high": 1.207360344175843,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3b",
+      "estimate": 1.427349451509222,
+      "low": 1.232960009178299,
+      "high": 1.652386485820773,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3b",
+      "estimate": 1.451201725119047,
+      "low": 1.265442038847493,
+      "high": 1.6642298756777,
+      "artist_equal_source": true
+    },
+    {
+      "panel": "3b",
+      "estimate": 1.405758009888487,
+      "low": 1.232515263174686,
+      "high": 1.603351813490326,
+      "artist_equal_source": true
+    }
+  ],
+  "n_plotted_rows": 66,
+  "all_artist_checks_pass": true,
+  "exact_original_plot_value_equality": true,
+  "statistical_models_refitted": false
+}

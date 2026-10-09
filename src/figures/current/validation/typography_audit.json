@@ -1,0 +1,2087 @@
+{
+  "图1_分析人群与乳酸菌检出": {
+    "labels": [
+      {
+        "text": "粪便记录\n3850份",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          105.83858267716536,
+          480.40603469488195,
+          58.5,
+          30.1328125
+        ]
+      },
+      {
+        "text": "其余粪便记录\n646份",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          267.5196850393701,
+          439.2385457677166,
+          87.75,
+          29.790624999999977
+        ]
+      },
+      {
+        "text": "每人首份粪便\n3204人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          91.21358267716536,
+          397.76715059055124,
+          87.75,
+          30.056249999999977
+        ]
+      },
+      {
+        "text": "年龄不符或缺失\n150人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          267.5196850393701,
+          356.28888041338587,
+          102.375,
+          30.33562500000005
+        ]
+      },
+      {
+        "text": "年龄18～100岁\n3054人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          85.52608267716536,
+          314.9415477362205,
+          99.125,
+          30.353124999999977
+        ]
+      },
+      {
+        "text": "关键变量缺失\n177人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          267.5196850393701,
+          273.7757775590551,
+          87.75,
+          30.00750000000005
+        ]
+      },
+      {
+        "text": "关键变量完整\n2877人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          91.21358267716536,
+          232.27219488188976,
+          87.75,
+          30.337500000000006
+        ]
+      },
+      {
+        "text": "总读数<5000\n117人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          267.5196850393701,
+          191.1611122047244,
+          84.75,
+          29.882499999999993
+        ]
+      },
+      {
+        "text": "基础样本描述\n2760人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          91.21358267716536,
+          149.53252952755903,
+          87.75,
+          30.462499999999977
+        ]
+      },
+      {
+        "text": "主关联分析\n2748人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          98.52608267716536,
+          66.76942667322835,
+          73.125,
+          30.634375000000006
+        ]
+      },
+      {
+        "text": "其他或未知性别\n12人",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          267.5196850393701,
+          108.28863435039369,
+          102.375,
+          30.273124999999993
+        ]
+      },
+      {
+        "text": "504",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          780.6899606299212,
+          460.0275590551181,
+          24.25,
+          14.0
+        ]
+      },
+      {
+        "text": "382",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          838.7376968503937,
+          460.0275590551181,
+          24.375,
+          14.0
+        ]
+      },
+      {
+        "text": "469",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          780.6274606299212,
+          401.95669291338584,
+          24.375,
+          14.0
+        ]
+      },
+      {
+        "text": "343",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          838.7376968503937,
+          401.95669291338584,
+          24.375,
+          14.0
+        ]
+      },
+      {
+        "text": "191",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          780.6274606299212,
+          343.88582677165357,
+          24.375,
+          14.0
+        ]
+      },
+      {
+        "text": "138",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          838.7376968503937,
+          343.88582677165357,
+          24.375,
+          14.0
+        ]
+      },
+      {
+        "text": "158",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          780.6899606299212,
+          285.81496062992125,
+          24.25,
+          14.0
+        ]
+      },
+      {
+        "text": "118",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          839.3001968503937,
+          285.81496062992125,
+          23.25,
+          14.0
+        ]
+      },
+      {
+        "text": "147",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          780.6274606299212,
+          227.74409448818898,
+          24.375,
+          14.0
+        ]
+      },
+      {
+        "text": "115",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          839.3626968503937,
+          227.74409448818898,
+          23.125,
+          14.0
+        ]
+      },
+      {
+        "text": "90",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          784.6899606299212,
+          169.6732283464567,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "67",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          842.8001968503937,
+          169.6732283464567,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "检出人数",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          792.6200787401575,
+          534.0067052165355,
+          58.5,
+          14.703125
+        ]
+      },
+      {
+        "text": "≥1条",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          777.4399606299212,
+          508.1638779527559,
+          30.75,
+          14.125
+        ]
+      },
+      {
+        "text": "≥3条",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          835.5501968503937,
+          508.1638779527559,
+          30.75,
+          14.125
+        ]
+      },
+      {
+        "text": "检出率(%)",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          632.3863188976378,
+          95.68987860892388,
+          66.625,
+          15.03125
+        ]
+      },
+      {
+        "text": "0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          570.8390748031496,
+          121.13779527559055,
+          8.125,
+          14.0
+        ]
+      },
+      {
+        "text": "5",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          614.1383577052868,
+          121.13779527559055,
+          8.0,
+          14.0
+        ]
+      },
+      {
+        "text": "10",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          653.2501406074241,
+          121.13779527559055,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "15",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          696.5494235095613,
+          121.13779527559055,
+          16.125,
+          14.0
+        ]
+      },
+      {
+        "text": "20",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          739.7237064116985,
+          121.13779527559055,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "乳酪杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          491.359908136483,
+          458.2150590551181,
+          73.125,
+          14.625
+        ]
+      },
+      {
+        "text": "乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          505.984908136483,
+          400.15200541338584,
+          58.5,
+          14.609375
+        ]
+      },
+      {
+        "text": "明串珠菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          491.359908136483,
+          342.22176427165357,
+          73.125,
+          14.328125
+        ]
+      },
+      {
+        "text": "黏液乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          476.734908136483,
+          284.01027312992125,
+          87.75,
+          14.609375
+        ]
+      },
+      {
+        "text": "联合乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          476.734908136483,
+          225.74409448818898,
+          87.75,
+          15.0
+        ]
+      },
+      {
+        "text": "片球菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          505.984908136483,
+          167.9544783464567,
+          58.5,
+          14.4375
+        ]
+      },
+      {
+        "text": "(a) 研究对象筛选",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          21.25984251968504,
+          554.7568897637796,
+          109.75,
+          15.125
+        ]
+      },
+      {
+        "text": "(b) 六属检出率",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          465.0590551181103,
+          554.8506397637796,
+          95.12500000000006,
+          15.03125
+        ]
+      },
+      {
+        "text": "≥1条读段",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          626.6781496062993,
+          66.27460629921259,
+          60.0,
+          14.515625
+        ]
+      },
+      {
+        "text": "≥3条读段",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          752.3031496062993,
+          66.27460629921259,
+          60.0,
+          14.515625
+        ]
+      }
+    ],
+    "outside_canvas": []
+  },
+  "图2_属间比较与饮食调整": {
+    "labels": [
+      {
+        "text": "88.1*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          141.6412401574803,
+          380.5492125984252,
+          34.375,
+          14.0
+        ]
+      },
+      {
+        "text": "26.1*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          141.7662401574803,
+          330.4114173228346,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "27.5*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          191.96653543307085,
+          330.4114173228346,
+          34.0,
+          14.0
+        ]
+      },
+      {
+        "text": "53.7*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          141.8287401574803,
+          280.2736220472441,
+          34.0,
+          14.0
+        ]
+      },
+      {
+        "text": "21.7*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          191.90403543307085,
+          280.2736220472441,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "29.8*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          242.0418307086614,
+          280.2736220472441,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "62.6*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          141.7662401574803,
+          230.13582677165354,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "43.6*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          191.90403543307085,
+          230.13582677165354,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "34.3*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          242.0418307086614,
+          230.13582677165354,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "17.3",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          294.99212598425197,
+          230.13582677165354,
+          28.5,
+          14.0
+        ]
+      },
+      {
+        "text": "5.2",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          148.7037401574803,
+          179.998031496063,
+          20.25,
+          14.0
+        ]
+      },
+      {
+        "text": "26.1*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          191.90403543307085,
+          179.998031496063,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "9.1",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          248.9168307086614,
+          179.998031496063,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "21.6*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          292.17962598425197,
+          179.998031496063,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "23.2*",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          342.3174212598425,
+          179.998031496063,
+          34.125,
+          14.0
+        ]
+      },
+      {
+        "text": "乳酪杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          109.89856456748879,
+          87.38396671056829,
+          59.7986686625984,
+          64.12850048103276
+        ]
+      },
+      {
+        "text": "乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          169.82239496107763,
+          98.26291494889955,
+          50.00102190670202,
+          53.2495522427015
+        ]
+      },
+      {
+        "text": "明串珠菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          210.1741551186699,
+          87.58261485933107,
+          59.57804754253482,
+          63.929852332269974
+        ]
+      },
+      {
+        "text": "黏液乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          250.52591527626217,
+          76.52592880368576,
+          69.57309214269858,
+          74.98653838791529
+        ]
+      },
+      {
+        "text": "联合乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          300.66371055185266,
+          76.26454966057683,
+          69.86338309015076,
+          75.24791753102421
+        ]
+      },
+      {
+        "text": "乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          64.84317585301837,
+          378.7445250984252,
+          58.5,
+          14.609375
+        ]
+      },
+      {
+        "text": "明串珠菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          50.218175853018366,
+          328.7473548228346,
+          73.125,
+          14.328125
+        ]
+      },
+      {
+        "text": "黏液乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          35.593175853018366,
+          278.4689345472441,
+          87.75,
+          14.609375
+        ]
+      },
+      {
+        "text": "联合乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          35.593175853018366,
+          228.13582677165354,
+          87.75,
+          15.0
+        ]
+      },
+      {
+        "text": "片球菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          64.84317585301837,
+          178.279281496063,
+          58.5,
+          14.4375
+        ]
+      },
+      {
+        "text": "0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          242.19734251968507,
+          438.1338582677165,
+          8.125,
+          14.0
+        ]
+      },
+      {
+        "text": "30",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          284.19783464566933,
+          438.1338582677165,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "60",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          330.2608267716536,
+          438.1338582677165,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "90",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          376.32381889763786,
+          438.1338582677165,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "Wald $\\chi^{2}$",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          288.94032069889585,
+          483.0990813648293,
+          52.82802001953121,
+          24.863671875000023
+        ]
+      },
+      {
+        "text": "检出优势比(OR)",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          662.9301181102362,
+          303.3276738845144,
+          104.75,
+          15.03125
+        ]
+      },
+      {
+        "text": "0.8",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          566.8653683914512,
+          328.7755905511811,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          625.0768419572554,
+          328.7755905511811,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.2",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          683.2883155230597,
+          328.7755905511811,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.4",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          741.499789088864,
+          328.7755905511811,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.6",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          799.7112626546682,
+          328.7755905511811,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.8",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          857.9227362204724,
+          328.7755905511811,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "厌氧球菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          478.95833333333337,
+          459.9950172244094,
+          73.125,
+          14.234375
+        ]
+      },
+      {
+        "text": "芬戈尔德菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          464.33333333333337,
+          414.4181840551181,
+          87.75,
+          14.71875
+        ]
+      },
+      {
+        "text": "嗜胨菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          493.58333333333337,
+          368.9976008858267,
+          58.5,
+          14.890625
+        ]
+      },
+      {
+        "text": "乳酪杆菌属 / 乳杆菌属 OR 比",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          620.9301181102362,
+          42.82841207349082,
+          188.75,
+          14.625
+        ]
+      },
+      {
+        "text": "0.5",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          552.375,
+          67.87007874015748,
+          20.25,
+          14.0
+        ]
+      },
+      {
+        "text": "0.6",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          608.9069881889764,
+          67.87007874015748,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "0.7",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          665.5014763779527,
+          67.87007874015748,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "0.8",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          722.0959645669291,
+          67.87007874015748,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "0.9",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          778.6904527559054,
+          67.87007874015748,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          835.2849409448818,
+          67.87007874015748,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "厌氧球菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          478.95833333333337,
+          199.08950541338584,
+          73.125,
+          14.234375
+        ]
+      },
+      {
+        "text": "芬戈尔德菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          464.33333333333337,
+          153.51267224409452,
+          87.75,
+          14.71875
+        ]
+      },
+      {
+        "text": "嗜胨菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          493.58333333333337,
+          108.09208907480317,
+          58.5,
+          14.890625
+        ]
+      },
+      {
+        "text": "(a) 六属背景关联比较",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          10.62992125984252,
+          522.6125738188975,
+          139.0,
+          15.296875
+        ]
+      },
+      {
+        "text": "(b) 基础调整后的检出关联",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          434.0551181102362,
+          522.6125738188975,
+          168.25,
+          15.296875
+        ]
+      },
+      {
+        "text": "(c) 饮食调整后的属间差异",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          434.0551181102362,
+          259.5178395669291,
+          167.5,
+          15.265625
+        ]
+      },
+      {
+        "text": "* $q$ < 0.05",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          260.43307086614175,
+          403.01181102362204,
+          64.3397216796875,
+          18.0
+        ]
+      },
+      {
+        "text": "乳酪杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          471.9717847769029,
+          491.2854330708661,
+          73.12500000000006,
+          14.625
+        ]
+      },
+      {
+        "text": "乳杆菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          585.9301181102362,
+          491.2854330708661,
+          58.5,
+          14.609375
+        ]
+      }
+    ],
+    "outside_canvas": []
+  },
+  "图3_背景菌与检出状态及相对丰度": {
+    "labels": [
+      {
+        "text": "0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          152.72883858267716,
+          365.8622047244095,
+          8.125,
+          14.0
+        ]
+      },
+      {
+        "text": "40",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          231.0482283464567,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "80",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          313.4301181102362,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "厌氧球菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          73.2496719160105,
+          505.00485974409446,
+          73.125,
+          14.234375
+        ]
+      },
+      {
+        "text": "芬戈尔德菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          58.6246719160105,
+          456.25873523622045,
+          87.75,
+          14.71875
+        ]
+      },
+      {
+        "text": "嗜胨菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          87.8746719160105,
+          407.66886072834643,
+          58.5,
+          14.890625
+        ]
+      },
+      {
+        "text": "两属\n均未检出",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          209.92322834645668,
+          547.3740157480315,
+          58.49999999999997,
+          30.458593749999977
+        ]
+      },
+      {
+        "text": "0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          336.09498031496065,
+          365.8622047244095,
+          8.125,
+          14.0
+        ]
+      },
+      {
+        "text": "10",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          397.9379921259843,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "20",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          463.84350393700794,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "乳酪杆菌属\n单独检出",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          385.9768700787402,
+          547.3740157480315,
+          73.125,
+          31.083593749999977
+        ]
+      },
+      {
+        "text": "0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          519.4611220472441,
+          365.8622047244095,
+          8.125,
+          14.0
+        ]
+      },
+      {
+        "text": "10",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          581.3041338582677,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "20",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          647.2096456692913,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "乳杆菌属\n单独检出",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          576.6555118110236,
+          547.3740157480315,
+          58.5,
+          31.067968749999977
+        ]
+      },
+      {
+        "text": "0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          702.8272637795276,
+          365.8622047244095,
+          8.125,
+          14.0
+        ]
+      },
+      {
+        "text": "10",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          764.6702755905512,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "20",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          830.5757874015749,
+          365.8622047244095,
+          16.25,
+          14.0
+        ]
+      },
+      {
+        "text": "两属\n共同检出",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          760.0216535433071,
+          547.3740157480315,
+          58.5,
+          30.458593749999977
+        ]
+      },
+      {
+        "text": "0.8",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          164.01033464566927,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          233.6363188976378,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.2",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          303.26230314960634,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.4",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          372.8882874015748,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.6",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          442.51427165354335,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "厌氧球菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          73.2496719160105,
+          190.27060777559058,
+          73.125,
+          14.234375
+        ]
+      },
+      {
+        "text": "芬戈尔德菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          58.6246719160105,
+          140.87487696850397,
+          87.75,
+          14.71875
+        ]
+      },
+      {
+        "text": "嗜胨菌属",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          87.8746719160105,
+          91.63539616141735,
+          58.5,
+          14.890625
+        ]
+      },
+      {
+        "text": "乳酪杆菌属（502人）",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          260.23129921259846,
+          241.2979002624672,
+          141.25,
+          14.625
+        ]
+      },
+      {
+        "text": "0.8",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          530.7426181102362,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.0",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          600.3686023622047,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.2",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          669.9945866141733,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.4",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          739.6205708661417,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "1.6",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          809.2465551181103,
+          49.50393700787403,
+          20.375,
+          14.0
+        ]
+      },
+      {
+        "text": "乳杆菌属（469人）",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          634.2135826771654,
+          241.2979002624672,
+          126.75,
+          14.609375
+        ]
+      },
+      {
+        "text": "(a) 四种检出状态（2748人）",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          21.25984251968504,
+          618.1630167322835,
+          186.125,
+          15.203125
+        ]
+      },
+      {
+        "text": "调整后检出概率(%)",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          451.21702755905505,
+          332.5081200787402,
+          125.125,
+          15.03125
+        ]
+      },
+      {
+        "text": "(b) 检出者相对丰度",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          21.25984251968504,
+          293.5317421259843,
+          124.375,
+          15.03125
+        ]
+      },
+      {
+        "text": "相对丰度几何均值比",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          447.96702755905505,
+          29.232283464566933,
+          131.625,
+          14.65625
+        ]
+      },
+      {
+        "text": "低背景（第10百分位）",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          425.83316929133866,
+          614.2887549212601,
+          147.875,
+          14.75
+        ]
+      },
+      {
+        "text": "高背景（第90百分位）",
+        "font_family": [
+          "Arial",
+          "YouYuan"
+        ],
+        "size_pt": 7.0,
+        "color": "black",
+        "bounds_pixels": [
+          620.3748359580053,
+          614.2887549212601,
+          147.875,
+          15.046875
+        ]
+      }
+    ],
+    "outside_canvas": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "exports": {
+    "图1_分析人群与乳酸菌检出": {
+      "pixels": [
+        3543,
+        2362
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "width_cm": 15,
+      "height_cm": 10.0,
+      "fonts": [
+        "Arial",
+        "YouYuan"
+      ],
+      "font_size_pt": 7,
+      "svg_editable_text": true,
+      "svg_raster_images": 0,
+      "png_color": "RGB",
+      "tiff_color": "CMYK",
+      "ICC": {
+        "source_profile": "sRGB IEC61966-2.1",
+        "destination_profile": "Agfa : Swop Standard",
+        "source_space": "RGB",
+        "destination_space": "CMYK",
+        "intent": "Relative colorimetric",
+        "black_point_compensation": true,
+        "source_sha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e",
+        "destination_sha256": "48d1cfdccf06dabfecf0c2b535eacd8a5f49560f0182691cdd713b6389a30510",
+        "conversion_engine": "Pillow ImageCms / LittleCMS2",
+        "profile_origin": "Windows System32/spool/drivers/color"
+      },
+      "files": {
+        "vector/图1_分析人群与乳酸菌检出.svg": "cfe07a3bc7a000c7d943aa99638130e2de8ff5016d966c6b0aafe6bcf4ebb9f1",
+        "png/图1_分析人群与乳酸菌检出.png": "b2e8a389bb3aa4a436d4b0b546946b12ce778e81280a57ba17b80740e02d60b1",
+        "tiff/图1_分析人群与乳酸菌检出.tiff": "41b6f0ff402639df54cb5402e919220855eb1cea53e8bcf25a47b997c294b452"
+      }
+    },
+    "图2_属间比较与饮食调整": {
+      "pixels": [
+        3543,
+        2220
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "width_cm": 15,
+      "height_cm": 9.4,
+      "fonts": [
+        "Arial",
+        "YouYuan"
+      ],
+      "font_size_pt": 7,
+      "svg_editable_text": true,
+      "svg_raster_images": 0,
+      "png_color": "RGB",
+      "tiff_color": "CMYK",
+      "ICC": {
+        "source_profile": "sRGB IEC61966-2.1",
+        "destination_profile": "Agfa : Swop Standard",
+        "source_space": "RGB",
+        "destination_space": "CMYK",
+        "intent": "Relative colorimetric",
+        "black_point_compensation": true,
+        "source_sha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e",
+        "destination_sha256": "48d1cfdccf06dabfecf0c2b535eacd8a5f49560f0182691cdd713b6389a30510",
+        "conversion_engine": "Pillow ImageCms / LittleCMS2",
+        "profile_origin": "Windows System32/spool/drivers/color"
+      },
+      "files": {
+        "vector/图2_属间比较与饮食调整.svg": "1b23953912e8a3fca432fefee19da61a88fd16e183525b0289c317f7970f6670",
+        "png/图2_属间比较与饮食调整.png": "9a5be3f53a93482a1b173b310929ccba0b4e6e4c0b227d049a8d4f726a7f2b50",
+        "tiff/图2_属间比较与饮食调整.tiff": "ad152a5d883272084367c742c60a32ca24a069e2c08dfaf029ff0672fcfb58b2"
+      }
+    },
+    "图3_背景菌与检出状态及相对丰度": {
+      "pixels": [
+        3543,
+        2598
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "width_cm": 15,
+      "height_cm": 11.000000000000002,
+      "fonts": [
+        "Arial",
+        "YouYuan"
+      ],
+      "font_size_pt": 7,
+      "svg_editable_text": true,
+      "svg_raster_images": 0,
+      "png_color": "RGB",
+      "tiff_color": "CMYK",
+      "ICC": {
+        "source_profile": "sRGB IEC61966-2.1",
+        "destination_profile": "Agfa : Swop Standard",
+        "source_space": "RGB",
+        "destination_space": "CMYK",
+        "intent": "Relative colorimetric",
+        "black_point_compensation": true,
+        "source_sha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e",
+        "destination_sha256": "48d1cfdccf06dabfecf0c2b535eacd8a5f49560f0182691cdd713b6389a30510",
+        "conversion_engine": "Pillow ImageCms / LittleCMS2",
+        "profile_origin": "Windows System32/spool/drivers/color"
+      },
+      "files": {
+        "vector/图3_背景菌与检出状态及相对丰度.svg": "0a5a2971224e278ff9385c846bf8ebf491a3aa7ac05f8f5a19679bd7aad52006",
+        "png/图3_背景菌与检出状态及相对丰度.png": "189d6e43ee07c2c090f19a3131b86d74b7dcb74540fc7432200161cc28a29629",
+        "tiff/图3_背景菌与检出状态及相对丰度.tiff": "5b0f71948fe176b9f0d5d524eb7f97a053e213473940900281526e95c0b7a3fb"
+      }
+    }
+  },
+  "warnings": [],
+  "matplotlib_version": "3.10.6",
+  "PDF_files_generated": 0
+}

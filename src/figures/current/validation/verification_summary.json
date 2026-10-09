@@ -1,0 +1,37 @@
+{
+  "all_66_plotted_rows_exactly_unchanged": true,
+  "all_39_ci_artists_equal_source": true,
+  "input_file_sha256_equality": {
+    "source_data\\fig1_detection.csv": true,
+    "source_data\\fig1_flow.json": true,
+    "source_data\\original_plotted_values.json": true,
+    "source_data\\plot_tables.json": true
+  },
+  "figures_1_2_rgb_pixel_equality": {
+    "图1_分析人群与乳酸菌检出": true,
+    "图2_属间比较与饮食调整": true
+  },
+  "figures_exported": 3,
+  "figure3_size_cm": [
+    15,
+    11
+  ],
+  "figure3_groups": {
+    "a": "Four detection states, N=2748",
+    "b": "Detected-subset abundance, n=502 and n=469"
+  },
+  "font_families": [
+    "Arial",
+    "YouYuan"
+  ],
+  "all_text_black_7pt": true,
+  "text_outside_canvas": false,
+  "editable_svg": true,
+  "png_dpi": 600,
+  "tiff_dpi": 600,
+  "tiff_color": "CMYK with embedded ICC",
+  "PDF_files_generated": 0,
+  "S1_files_generated": 0,
+  "RGB_and_CMYK_figure3_previews_visually_checked": true,
+  "desktop_or_documents_modified": false
+}
