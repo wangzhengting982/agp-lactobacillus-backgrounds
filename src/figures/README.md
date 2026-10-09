@@ -1,5 +1,21 @@
 # Main-figure reproduction
 
+## Current manuscript, 10 October 2026
+
+The standalone current renderer is in [`current/`](current/). It was copied, with its aggregate source values, color profiles and validation records, from `12_当前图件复现_20261009/` in the separately maintained input archive. Its 14-entry SHA-256 manifest is preserved. Use its own pinned plotting requirements in a separate environment, as shown in the [project README](../../README.md#current-manuscript-figures).
+
+```powershell
+.venv-figures-current/Scripts/python.exe src/figures/current/rebuild_figures.py --output-dir runs/figures_current
+```
+
+It generates three main figures as editable SVG, RGB PNG and CMYK TIFF; it does not generate a PDF or Figure S1. Figure 3(a) shows four detection states in 2,748 people, and Figure 3(b) shows abundance among 502 and 469 participants with the respective target detected. Raster exports are 600 dpi, with bundled color profiles; the validated fonts are Arial and YouYuan on Windows.
+
+The current source JSON keeps historical worksheet labels and row numbers for provenance. They are not current spreadsheet cell addresses. In the 30-table submission workbook, the former C13 target effects are in C12, A01's original detected-subset estimates have `scenario=all_detected`, and S02 probability columns are retained. The recorded check matches 54 statistical plot rows by model keys and exact values, plus 12 unchanged Figure 1 rows. All 66 plotted rows and 39 interval artists are checked; no model is fitted here.
+
+The archive's current export record matches all three submitted TIFFs and the Figure 3 SVG byte for byte. Submitted Figure 1/2 SVGs differ only in generation timestamps, element identifiers and line endings; their normalized graphic content is identical. Binary SVG hashes alone are therefore not a numerical or visual comparison.
+
+## Historical 6 October pipeline
+
 Run from the project root after preparation, core and deepening analyses finish:
 
 ```powershell
