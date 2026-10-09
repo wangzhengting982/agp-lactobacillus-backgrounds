@@ -1,0 +1,9 @@
+numpy==2.3.5
+pandas==3.0.1
+matplotlib==3.10.6
+Pillow==12.3.0
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.66.1
+kiwisolver==1.5.1
+pyparsing==3.2.3
