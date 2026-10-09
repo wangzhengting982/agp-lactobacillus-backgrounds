@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-10",
+  "scope": "Current standalone figure renderer only; no statistical models refitted. Historical 6 October full-pipeline records are unchanged.",
+  "source_archive_entry": "12_当前图件复现_20261009/",
+  "copied_manifest_files": 14,
+  "all_copied_sha256_match": true,
+  "figures": 3,
+  "plotted_rows": 66,
+  "confidence_interval_artists": 39,
+  "exact_original_plot_value_equality": true,
+  "all_artist_checks_pass": true,
+  "submitted_tiff_comparison": [
+    {
+      "file": "图1_分析人群与乳酸菌检出.tiff",
+      "sha256_match": true,
+      "pixels_identical": true,
+      "mode": "CMYK",
+      "pixels": [
+        3543,
+        2362
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    },
+    {
+      "file": "图2_属间比较与饮食调整.tiff",
+      "sha256_match": true,
+      "pixels_identical": true,
+      "mode": "CMYK",
+      "pixels": [
+        3543,
+        2220
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    },
+    {
+      "file": "图3_背景菌与检出状态及相对丰度.tiff",
+      "sha256_match": true,
+      "pixels_identical": true,
+      "mode": "CMYK",
+      "pixels": [
+        3543,
+        2598
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  ],
+  "public_sensitive_field_pattern_scan_files": 13,
+  "sensitive_pattern_matches": 0,
+  "all_document_links_resolve": true,
+  "aggregate_data_only": true,
+  "participant_level_inputs_published": false,
+  "models_refitted": false
+}
