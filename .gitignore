@@ -1,4 +1,7 @@
 .venv/
+.venv-figures-current/
+src/figures/current/mpl_config/
+src/figures/current/rebuilt/
 __pycache__/
 *.pyc
 data/
